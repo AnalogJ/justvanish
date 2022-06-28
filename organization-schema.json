@@ -1,0 +1,114 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "default": {},
+  "required": [
+    "organization_name",
+    "website",
+    "contact",
+    "organization_type",
+    "regulation",
+    "notes"
+  ],
+  "properties": {
+    "organization_name": {
+      "type": "string",
+      "default": "",
+      "examples": [
+        "Beenverified, Inc"
+      ]
+    },
+    "website": {
+      "type": "string",
+      "default": "",
+      "examples": [
+        "https://www.beenverified.com/faq/privacy/"
+      ]
+    },
+    "contact": {
+      "type": "object",
+      "default": {},
+      "anyOf": [
+        {"required":["mail"]},
+        {"required":["email"]}
+      ],
+
+      "properties": {
+
+        "mail": {
+          "type": "array",
+          "default": [],
+          "title": "The mail Schema",
+          "items": {
+            "type": "object",
+            "default": {},
+            "required": [
+              "address",
+              "usage"
+            ],
+            "properties": {
+              "address": {
+                "type": "string",
+                "default": ""
+              },
+              "usage": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "enum": ["request.ccpa", "delete.ccpa", "donotsell.ccpa", "request.gdpr", "delete.gdpr", "request.fioa"]
+                }
+              }
+            }
+          }
+        },
+        "email": {
+          "type": "array",
+          "default": [],
+          "items": {
+            "type": "object",
+            "required": [
+              "address",
+              "usage"
+            ],
+            "properties": {
+              "address": {
+                "type": "string"
+              },
+              "usage": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "enum": ["request.ccpa", "delete.ccpa", "donotsell.ccpa", "request.gdpr", "delete.gdpr", "request.fioa"]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "organization_type": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "string",
+        "enum": ["databroker", "agency"]
+      }
+    },
+    "regulation": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "string",
+        "enum": ["ccpa", "foia", "gdpr"]
+      }
+    },
+    "notes": {
+      "type": "string",
+      "default": "",
+      "examples": [
+        ""
+      ]
+    }
+  }
+}

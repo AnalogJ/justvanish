@@ -37,4 +37,11 @@ The goal for this app is to provide users with a simple mechanism to:
 - request that organizations restrict the collection & sale of your personal information
 - request the deletion of your personal information from data brokers & other organizations
 
+My intent is to have justVanish become a community maintained global registry of databrokers
+This databroker & organization information is stored following a [structured schema](organization-schema.json) allowing
+other tools to leverage it (similar to how AdBlock filter lists are maintained https://github.com/topics/adblock-list).
+
+Ideally there would be a national registry where consumers could "opt-out" themselves, but until regulation supporting that passes,
+the only alternative is for consumers to exercise their rights themselves. 
+
 # Getting Started
