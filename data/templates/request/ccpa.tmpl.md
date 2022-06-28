@@ -1,6 +1,6 @@
 Dear Privacy Compliance Officer,
 
-My name is {{user.first_name}} {{user.last_name}}. I reside in California and am exercising my data access right under the California Consumer Privacy Act to see a copy of the categories and the specific pieces of personal information that {{org.organization_name}} has collected about me.
+My name is {{.User.FirstName}} {{.User.LastName}}. I reside in California and am exercising my data access right under the California Consumer Privacy Act to see a copy of the categories and the specific pieces of personal information that {{.Org.OrganizationName}} has collected about me.
 
 I request to see a copy of any and all of the records you have pertaining to me including but not limited to:
 
@@ -15,18 +15,18 @@ from a third party business or service provider.
     - Categories of third parties to whom my personal information was sold or disclosed for a business purpose; and
     - The business or commercial purpose for collecting or selling my personal information.
 
-I use the following email addresses:{{#user.email_addresses}}
+I use the following email addresses:{{range .User.EmailAddresses}}
 - {{.}} 
-{{/user.email_addresses}} 
+{{end}} 
 
-My phone numbers are:{{#user.phone_numbers}}
+My phone numbers are:{{range .User.PhoneNumbers}}
 - {{.}}
-{{/user.phone_numbers}}
+{{end}}
 
 If you need any more information from me, please let me know as soon as possible. If you cannot comply with my request–either in whole or in part–please state the reason why you cannot comply. If my request is incomplete, please provide me with specific instructions on how to complete my request.
 
 Sincerely,
 
-{{user.first_name}} {{user.last_name}}
+{{.User.FirstName}} {{.User.LastName}}
 
-{{date}}
+{{.Date}}

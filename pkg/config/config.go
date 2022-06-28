@@ -1,7 +1,11 @@
 package config
 
 import (
+	"errors"
+	"github.com/analogj/go-util/utils"
 	"github.com/spf13/viper"
+	"log"
+	"os"
 )
 
 // When initializing this class the following methods must be called:
@@ -35,4 +39,35 @@ func (c *configuration) Init() error {
 
 	//CLI options will be added via the `Set()` function
 	return nil
+}
+
+func (c *configuration) ReadConfig(configFilePath string) error {
+	//make sure that we specify that this is the correct config path (for eventual WriteConfig() calls)
+	c.SetConfigFile(configFilePath)
+
+	configFilePath, err := utils.ExpandPath(configFilePath)
+	if err != nil {
+		return err
+	}
+
+	if !utils.FileExists(configFilePath) {
+		log.Printf("No configuration file found at %v. Using Defaults.", configFilePath)
+		return errors.New("The configuration file could not be found.")
+	}
+
+	log.Printf("Loading configuration file: %s", configFilePath)
+
+	config_data, err := os.Open(configFilePath)
+	if err != nil {
+		log.Printf("Error reading configuration file: %s", err)
+		return err
+	}
+
+	err = c.MergeConfig(config_data)
+	if err != nil {
+		return err
+	}
+
+	return nil
+
 }

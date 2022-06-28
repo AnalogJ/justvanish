@@ -8,6 +8,7 @@ import (
 // mockgen -source=pkg/config/interface.go -destination=pkg/config/mock/mock_config.go
 type Interface interface {
 	Init() error
+	ReadConfig(configFilePath string) error
 	Set(key string, value interface{})
 	SetDefault(key string, value interface{})
 
