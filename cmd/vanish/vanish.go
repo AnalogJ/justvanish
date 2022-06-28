@@ -40,7 +40,7 @@ func main() {
 
 			capsuleUrl := "AnalogJ/justvanish"
 
-			versionInfo := fmt.Sprintf("%s.%s-%s", goos, goarch, version.VERSION)
+			versionInfo := fmt.Sprintf("%s.%s-%s\n", goos, goarch, version.VERSION)
 
 			subtitle := capsuleUrl + utils.LeftPad2Len(versionInfo, " ", 53-len(capsuleUrl))
 			fmt.Fprintf(c.App.Writer, subtitle)
