@@ -3,9 +3,11 @@ package config
 import (
 	"errors"
 	"github.com/analogj/go-util/utils"
+	"github.com/analogj/justvanish/pkg/models"
 	"github.com/spf13/viper"
 	"log"
 	"os"
+	"strings"
 )
 
 // When initializing this class the following methods must be called:
@@ -29,12 +31,15 @@ func (c *configuration) Init() error {
 	//set defaults
 
 	c.SetDefault("debug", false)
+	c.SetDefault("smtp.hostname", "smtp.gmail.com")
+	c.SetDefault("smtp.port", 587)
 
 	//if you want to load a non-standard location system config file (~/drawbridge.yml), use ReadConfig
 	c.SetConfigType("yaml")
 	c.SetConfigName("config")
 
 	c.SetEnvPrefix("VANISH")
+	c.SetEnvKeyReplacer(strings.NewReplacer("-", "_", ".", "_"))
 	c.AutomaticEnv()
 
 	//CLI options will be added via the `Set()` function
@@ -70,4 +75,13 @@ func (c *configuration) ReadConfig(configFilePath string) error {
 
 	return nil
 
+}
+
+func (c *configuration) SmtpConfig() *models.SmtpConfig {
+	return &models.SmtpConfig{
+		Hostname: c.GetString("smtp.hostname"),
+		Port:     c.GetInt("smtp.port"),
+		Username: c.GetString("smtp.username"),
+		Password: c.GetString("smtp.password"),
+	}
 }

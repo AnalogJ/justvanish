@@ -17,7 +17,8 @@ Tell databrokers to F#@% Off. Your data is your data, they shouldn't be monetizi
 
 There are a handful of regulations we can leverage to limit the ability of data brokers & other organizations to legally sell our data.
 [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/) and [California Consumer Privacy Act (CCPA)](https://oag.ca.gov/privacy/ccpa) are the two
-most relevant, however there are other (less powerful) laws we can leverage as well. 
+most relevant, however there are other (sometimes less powerful) laws we can leverage as well (Colorado, Virginia, Utah, Connecticut, Indiana, and Ohio).
+
 
 In general these laws provide privacy rights to consumers (GDPR is similar):
 

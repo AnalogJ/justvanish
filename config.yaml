@@ -12,7 +12,7 @@ user:
 
 # SMTP is used to send optout, access and delete requests via email
 smtp:
-  hostname: ''
-  port:
   username: ''
   password: ''
+#  hostname: "smtp.gmail.com"
+#  port: 587

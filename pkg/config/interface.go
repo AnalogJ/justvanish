@@ -1,6 +1,7 @@
 package config
 
 import (
+	"github.com/analogj/justvanish/pkg/models"
 	"github.com/spf13/viper"
 )
 
@@ -20,4 +21,6 @@ type Interface interface {
 	GetString(key string) string
 	GetStringSlice(key string) []string
 	UnmarshalKey(key string, rawVal interface{}, decoderOpts ...viper.DecoderConfigOption) error
+
+	SmtpConfig() *models.SmtpConfig
 }

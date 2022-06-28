@@ -1,7 +1,6 @@
 package request
 
 import (
-	"fmt"
 	"github.com/analogj/justvanish/pkg/config"
 	"github.com/analogj/justvanish/pkg/helpers"
 	"github.com/analogj/justvanish/pkg/models"
@@ -11,6 +10,7 @@ import (
 type RequestAction struct {
 	logger        *logrus.Entry
 	configuration config.Interface
+	actionType string
 }
 
 func New(logger *logrus.Entry, configuration config.Interface) (RequestAction, error) {
@@ -18,6 +18,7 @@ func New(logger *logrus.Entry, configuration config.Interface) (RequestAction, e
 	return RequestAction{
 		logger:        logger,
 		configuration: configuration,
+		actionType: "request",
 	}, nil
 }
 
@@ -38,6 +39,10 @@ func (a *RequestAction) Start() error {
 		return err
 	}
 
+	// get smtp configuration (from config file)
+	smtpConfig := a.configuration.SmtpConfig()
+
+
 	// find configuration for each organization
 	for _, orgId := range orgList {
 		orgConfig, err := helpers.OrganizationConfig(orgId)
@@ -54,9 +59,18 @@ func (a *RequestAction) Start() error {
 			&userConfig,
 			orgConfig,
 		)
-		fmt.Printf(emailContent)
+		if err != nil {
+			return err
+		}
 
 		//if not dry run, send email
+		if !a.configuration.GetBool("debug"){
+			err := helpers.EmailSend(smtpConfig, &userConfig, orgConfig, a.configuration.GetString("action.regulation-type"), a.actionType, emailContent)
+
+			if err != nil {
+				return err
+			}
+		}
 	}
 
 	return nil
