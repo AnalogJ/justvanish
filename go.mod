@@ -19,6 +19,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/go-test/deep v1.0.8 // indirect
+	github.com/gocarina/gocsv v0.0.0-20220531201732-5f969b02b902 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/kr/pretty v0.2.0 // indirect
 	github.com/kvz/logstreamer v0.0.0-20150507115422-a635b98146f0 // indirect
