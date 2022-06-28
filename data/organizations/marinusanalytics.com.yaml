@@ -1,0 +1,23 @@
+organization_name: Marinus Analytics
+website: https://www.marinusanalytics.com/
+contact:
+    mail:
+        - address: PO Box 6127, Pittsburgh, PA 15212-9998, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@marinusanalytics.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    To exercise the right to opt-out, the consumer (or their authorized representative) may submit a request to us by visiting the following Internet Web page link: https://www.marinusanalytics.com/do-not-sell-my-personal-information , , Consumers may also opt out as follows:, Calling us at (866) 945-2803, Emailing us at privacy@marinusanalytics.com
+    By filling out the form on this page: https://www.marinusanalytics.com/do-not-sell-my-personal-information

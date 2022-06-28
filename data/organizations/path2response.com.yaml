@@ -1,0 +1,23 @@
+organization_name: Path2Response, LLC
+website: https://path2response.com
+contact:
+    mail:
+        - address: 390 Interlocken Crescent, Suite 350, Broomfield, CO 80021, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacyinfo@path2response.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Consumers should go to https://path2response.com/consumer-privacy to submit CCPA requests (Opt-Out from Sale or Access your Data). Consumers may also call 1-888-914-9661, PIN 625-484.
+    Consumers should go to https://path2response.com/consumer-privacy to submit CCPA requests (Delete your Data). Consumers may also call 1-888-914-9661, PIN 625-484.

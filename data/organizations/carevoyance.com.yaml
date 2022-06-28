@@ -1,0 +1,23 @@
+organization_name: Carevoyance, Inc.
+website: https://carevoyance.com
+contact:
+    mail:
+        - address: 1414 SE 32nd Ave, Portland, OR 97214, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: data-privacy@carevoyance.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    email info@carevoyance.com with relevant opt-out information, including name and email
+    email info@carevoyance.com with relevant opt-out information, including name and email

@@ -1,0 +1,21 @@
+organization_name: Milestone Marketing Solutions
+website: https://www.milestonemarketingsolutions.com/
+contact:
+    mail:
+        - address: 844 Waterbury Falls Dr, Suite 201, O'Fallon, MO 63368, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: bgleason@milestonemarketingsolutions.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nMilestone has provided an email address and phone number, through which consumers can submit CCPA requests:, , email: privacy@milestonemarketingsolutions.com, phone: 800.313.1873, \nA consumer can write to the address listed:, , 844 Waterbury Falls Dr, Suite 201, O'Fallon, MO 63368\nData is collected via third party. "

@@ -1,0 +1,24 @@
+organization_name: Interactive Data, LLC
+website: http://www.ididata.com
+contact:
+    mail:
+        - address: 2650 N. Military Trail, Suite 300, Boca Raton, FL 33431, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal.compliance@ididata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    California consumers may opt out of sale of their personal information by submitting an online request at www.ididata.com/ccpa-do-not-sell-my-personal-information/ or by calling 888-376-6659.  Our mailing address is: IDI Opt-Out Request, P.O. Box 812680, Boca Raton, Florida 33481.  For additional information and instructions on how California consumers may exercise their rights under the CCPA, please visit www.idiprivacypolicy.com.
+    IDI does not publicly post or publicly display personal information on the Internet.
+    Additional information about IDI’s data collection practices can be found at www.idiprivacypolicy.com.

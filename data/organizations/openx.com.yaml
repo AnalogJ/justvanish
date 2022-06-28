@@ -1,0 +1,21 @@
+organization_name: OpenX Technologies, Inc.
+website: http://www.openx.com
+contact:
+    mail:
+        - address: 888 E. Walnut Street, 2nd Floor, Pasadena, CA 91101, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@openx.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nTo opt out of a sale or submit other requests under the CCPA, consumers can use OpenX’s online form located at https://www.requesteasy.com/5dfe-0428 and accessible from OpenX’s privacy policy located at https://www.openx.com/legal/privacy-policy/.  For other questions, consumers can send an email to privacy@openx.com.  If necessary, OpenX may request additional information to verify a consumer’s identity and complete the request. \nOpenX is not in the business of publicly posting personal information.  Any individual can submit a deletion request at https://www.openx.com/legal/privacy-policy/ through the applicable online form.  If necessary, OpenX may request additional information to verify an individual’s identity and complete the request.\nOpenX is a global leader in programmatic advertising and operates an independent ad exchange.  For more information about OpenX’s practices, please see OpenX’s privacy policy at https://www.openx.com/legal/privacy-policy/."

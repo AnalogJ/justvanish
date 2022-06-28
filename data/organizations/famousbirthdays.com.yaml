@@ -1,0 +1,23 @@
+organization_name: Famous Birthdays, LLC
+website: http://famousbirthdays.com
+contact:
+    mail:
+        - address: '2800 28th street #308, Santa Monica, CA 90405, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@famousbirthdays.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Consumers may submit any CCPA request, including requests to opt out of the sale of their personal information, by completing the contact form at  https://www.famousbirthdays.com/contact or by submitting a written request to:, , Famous Birthdays, ATTN: Privacy Requests, 2800 28th street #308, Santa Monica, CA 90405
+    Consumers may send their written request to:, , Famous Birthdays, ATTN: Privacy Requests, 2800 28th street #308, Santa Monica, CA 90405

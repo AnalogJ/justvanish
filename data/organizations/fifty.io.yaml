@@ -1,0 +1,24 @@
+organization_name: Fifty Technology Ltd
+website: http://fifty.io
+contact:
+    mail:
+        - address: 24 Hanover Square, 4th Floor, London, W1S 1JD, United Kingdom
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@fifty.io
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    For details on our opt-out process, please refer to our privacy policy at https://fifty.io/privacy-policy.php
+
+    We work with data aggregators and collect personal information (cookie data and other online identifiers tied to PI)

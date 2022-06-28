@@ -1,0 +1,21 @@
+organization_name: Ubermedia
+website: http://www.ubermedia.com
+contact:
+    mail:
+        - address: 130 west union street, pasadena, CA 91103, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@ubermedia.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers should go to https://ubermedia.com/general-privacy-policy/ to submit CCPA requests.  Consumers may also email privacy@ubermedia.com\nConsumers should go to https://ubermedia.com/general-privacy-policy/ to submit CCPA requests.  Consumers may also email privacy@ubermedia.com\n, We collect mobile location data in compliance with all current US privacy laws, our privacy policy, and CCPA.  We collect data from a variety of sources. All purchased data sources are explicitly in compliance with CCPA and GDPR. We have obtained a signed attestation from our third party vendors explicitly affirming their compliance. , "

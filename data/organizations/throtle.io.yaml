@@ -1,0 +1,21 @@
+organization_name: Throtle
+website: https://www.throtle.io
+contact:
+    mail:
+        - address: 141 West Front Street, Suite 410, Red Bank, NJ 07701, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@throtle.io
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nBy visiting our data privacy manager via our website or by calling our toll-free number which is posted on our website. \nBy visiting our data privacy manager via our website or by calling our toll-free number which is posted on our website. \nUsers can visit our privacy policy for details on our data collecting practices. "

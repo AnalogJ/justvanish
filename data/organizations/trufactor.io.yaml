@@ -1,0 +1,23 @@
+organization_name: InMobi
+website: https://trufactor.io/
+contact:
+    mail:
+        - address: 100 e 7th St. suite 400, Kansas City, MO 64106, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@inmobi.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    We have provided a link in our privacy policy for consumers to opt out of sale and submit requests under the CCPA.
+    We do not post any consumer information online.

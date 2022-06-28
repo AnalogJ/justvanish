@@ -1,0 +1,23 @@
+organization_name: Focus USA
+website: https://www.focus-usa.com
+contact:
+    mail:
+        - address: 95 North State Route 17 Suite 109, Paramus, NJ 07652, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@focus-usa.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    https://www.focus-usa.com/california-consumer-privacy-act-ccpa-opt-out/
+    https://www.focus-usa.com/california-consumer-privacy-act-ccpa-opt-out/

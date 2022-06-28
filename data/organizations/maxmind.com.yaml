@@ -1,0 +1,21 @@
+organization_name: MaxMind, Inc.
+website: https://www.maxmind.com
+contact:
+    mail:
+        - address: '51 Pleasant Street, #1020, Malden, MA 02148, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@maxmind.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nWe have a toll free number, email submissions to california-privacy@maxmind.com mailbox, and a webform on our website for consumers to fill out. , , All submission methods are available on our Privacy Policy, which can be found here https://www.maxmind.com/en/privacy-policy\nWe have a toll free number, email submissions to california-privacy@maxmind.com mailbox, and a webform on our website for consumers to fill out. , , All submission methods are available on our Privacy Policy, which can be found here https://www.maxmind.com/en/privacy-policy\nAll of the ways we collect data and how we use the data are laid out in our Privacy Policy. "

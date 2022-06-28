@@ -1,0 +1,21 @@
+organization_name: Skyhook Holding, Inc.
+website: http://www.skyhook.com
+contact:
+    mail:
+        - address: 1400 Liberty Ridge Drive, Wayne, PA 19087, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@skyhook.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers may make use of a webform maintained on the Skyhook website at https://www.skyhook.com/opt-out-of-skyhook-products.  Consumers may also submit general privacy requests to privacy@skyhook.com.\nSkyhook does not maintain data relating to (nor do we provide to our clients) the home address, telephone number, e-mail address, image or similar information of any individual. However, deletion requests may generally be submitted by any individual to privacy@skyhook.com or in writing to: Skyhook, Attn: General Counsel, 1400 Liberty Ridge Drive, Wayne PA 19087. \nSkyhook's full data collection, use, and disclosure practices are described in detail in its online privacy policy, available at: https://www.skyhook.com/privacy-services.  "

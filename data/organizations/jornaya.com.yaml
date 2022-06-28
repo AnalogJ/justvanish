@@ -1,0 +1,24 @@
+organization_name: Lead Intelligence, Inc. d/b/a Jornaya
+website: http://jornaya.com
+contact:
+    mail:
+        - address: 1001 E. Hector Street, Suite 230, Conshohocken, PA 19428, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: hsebes@jornaya.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    We provide information within our Consumer Privacy Policy with a dedicated email address for submitting requests under the CCPA. In addition, within our main website, we provide a DO NOT SELL MY INFO button which takes the requestor to our Privacy and Terms page where we have our main terms of use, privacy policies and also the request form for submitting any requests under the CCPA.  Jornaya’s privacy policies and request form can also be accessed through this URL:  https://www.jornaya.com/terms-and-policies.
+    We do not post data online, so this section is not applicable; for more information, please visit our main Terms and Privacy page which can be accessed through this URL:  https://www.jornaya.com/terms-and-policies.
+    Our updated Privacy Policies, along with our Terms of Use, apply for all constituents with whom we may have direct or indirect access under the CCPA. The URL to our main Terms and Privacy Page, which also contains the request form for submitting any requests under the CCPA is here:  https://www.jornaya.com/terms-and-policies.

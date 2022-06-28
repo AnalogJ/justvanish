@@ -1,0 +1,23 @@
+organization_name: Data Partners Inc.
+website: http://www.datapartners.com
+contact:
+    mail:
+        - address: 12857 Banyan Creek Dr., Fort Myers, FL 33908, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@datapartners.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Consumers may opt out of databases we maintain in three convenient ways. (1) Sending an email to optout@datapartners.com, (2) calling us toll-free at 866.423.1818, or (3) clicking the "Do Not Sell My Personal Information" link on our homepage at www.datapartners.com.   Please see our full privacy policy at https://datapartners.com/privacy-policy/ for more information.
+    Deletion requests may be submitted to deletemyinfo@datapartners.com, or you may call toll-free at 866.423.1818.

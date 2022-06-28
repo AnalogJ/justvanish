@@ -1,0 +1,23 @@
+organization_name: Big Brook Media, LLC
+website: http://www.littlebrookmedia.com
+contact:
+    mail:
+        - address: 20 South Main Street, New City, NY 10956, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@littlebrookmedia.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Contact the Company
+    Contact the Company

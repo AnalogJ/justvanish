@@ -1,0 +1,24 @@
+organization_name: CITYDATA, Inc.
+website: https://citydata.ai
+contact:
+    mail:
+        - address: 548 Market St, Pmb 88563, San Francisco, CA 94104, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@citydata.ai
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    We have published the "Do not sell my personal information" link on our website. Consumers may submit requests under the CCPA using this weblink: https://citydata.ai/personal_information
+    We have published the "Do not sell my personal information" link on our website. Consumers may submit requests for deletion under the CCPA using this weblink: https://citydata.ai/personal_information. Additionally, consumers can reach us by emailing their request to privacy@citydata.ai
+    We focus on anonymized geospatial insights. We collect the mobile advertising ID. We hash each ID to anonymize the mobile device. We also collect geospatial time series data (latitude, longitude, timestamp) and we aggregate such data over a grid of 150 meters. We do not collect personal information like name, email, phone number, gender, date of birth, ethnicity, income. We do not collect national identifiers or credit card transactions. Our data collection practices and our privacy policy are listed on this website: https://citydata.ai/privacy_policy

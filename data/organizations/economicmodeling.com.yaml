@@ -1,0 +1,23 @@
+organization_name: Economic Modeling, LLC
+website: https://www.economicmodeling.com/
+contact:
+    mail:
+        - address: 409 S. Jackson St., Moscow, ID 83843, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@economicmodeling.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+     https://www.economicmodeling.com/privacy-policy/
+     https://www.economicmodeling.com/privacy-policy/

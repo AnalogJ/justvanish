@@ -1,0 +1,21 @@
+organization_name: Vertify, Inc
+website: http://www.vertify.com
+contact:
+    mail:
+        - address: 2301 E RIVERSIDE DR STE 200, Austin, TX 78741, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@vertify.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nVia Email or website formfill\nN/A. We do not post information online \n"

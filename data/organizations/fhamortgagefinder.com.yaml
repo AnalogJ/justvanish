@@ -1,0 +1,23 @@
+organization_name: Tandem Marketing, LLC
+website: https://www.fhamortgagefinder.com/
+contact:
+    mail:
+        - address: '1550 W Horizon Ridge Pkwy R Suite #R 610, Henderson, NV 89012, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@tandemmarketingnv.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Web form (sent to info@tandemmarketing.com), by phone, or by mail
+    Web form (sent to info@tandemmarketing.com), by phone, or by mail

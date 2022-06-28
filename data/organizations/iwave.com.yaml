@@ -1,0 +1,21 @@
+organization_name: iWave Information Systems Inc.
+website: https://www.iwave.com/
+contact:
+    mail:
+        - address: 2nd Level, Confederation Court Mall, 134 Kent Street, Charlottetown, PE C1A 8R8, Canada
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@iwave.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nEmailing privacy@iwave.com or using the webform available through the iWave Privacy Policy.\niWave does not publicly post information online. To exercise deletion rights, please view iWave’s Privacy Policy (https://www.iwave.com/privacy-policy/) and submit a verifiable consumer request by following the link and completing the webform or emailing us at privacy@iwave.com.  \nFor further information about iWave's data practices, please visit iWave's Privacy Policy at https://www.iwave.com/privacy-policy/"

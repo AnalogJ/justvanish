@@ -1,0 +1,21 @@
+organization_name: Monevo Inc
+website: https://www.monevo.us/
+contact:
+    mail:
+        - address: 169 Saxony Rd, STE 212, Encinitas, CA 92024, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: supportusa@monevo.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers can manage their opt-out preferences and submit requests under the CCPA through https://www.monevo.us/privacy-portal. \nMonevo Inc does not post or publicly display consumer information online. However, consumers can request the deletion of their information through https://www.monevo.us/privacy-portal. \nAdditional information regarding how Monevo collects, uses, and shares data can be found at https://www.monevo.us/privacy-policy. "

@@ -1,0 +1,24 @@
+organization_name: Strategic Data Intelligence
+website: http://www.strategicdataintelligence.com
+contact:
+    mail:
+        - address: 555 Skolie Blvd, Suite 255, Northbrook, IL 60062, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: m.brostoff@sdintelligence.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may opt out of sale or submit opt-out requests from the required CCPA opt-out form/process on our website @ www.strategicdataintelligence.com.
+    Any consumer requesting or demanding deletion will be removed during a monthly deletion/suppression process that will be run on a set schedule each month.
+    We work only with suppliers confirming their CCPA Attestation as of January 1, 2020.

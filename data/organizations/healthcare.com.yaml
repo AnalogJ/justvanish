@@ -1,0 +1,24 @@
+organization_name: HEALTHCARE, INC.
+website: https://www.healthcare.com/
+contact:
+    mail:
+        - address: 3401 N Miami Avenue, Suite 205, Miami, FL 33127, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@healthcare.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    We have enabled an online form at our website to submit CCPA Data Disclosure and Deletion requests (https://www.healthcare.com/data-request/request-form), , As a secondary method we have enable communication trough our email address info@healthcare.com
+    We have enabled an online form at our website to submit CCPA Data Disclosure and Deletion requests (https://www.healthcare.com/data-request/request-form), , As a secondary method we have enable communication trough our email address info@healthcare.com
+    healthcare.com uses personal data that is voluntarily provided to help consumers find insurance plans, including by connecting them with insurance agents.

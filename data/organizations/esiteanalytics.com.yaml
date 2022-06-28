@@ -1,0 +1,24 @@
+organization_name: eSite Analytics, Inc.
+website: http://www.esiteanalytics.com
+contact:
+    mail:
+        - address: 528 Johnnie Dodds Blvd, Ste 201, Mt Pleasant, SC 29464, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: scott.love@kalibrate.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Contact eSite Analytics by email at datagroup@kalibrate.com or by mail at: 528 Johnnie Dodds Blvd, Ste 201, Mt Pleasant, SC 29464
+    Contact eSite Analytics by email at datagroup@kalibrate.com or by mail at: 528 Johnnie Dodds Blvd, Ste 201, Mt Pleasant, SC 29464
+    For more information about how we collect and process data, visit https://esiteanalytics.com/privacy-policy/

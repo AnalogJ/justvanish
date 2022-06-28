@@ -1,0 +1,24 @@
+organization_name: Faraday, Inc.
+website: https://faraday.io/
+contact:
+    mail:
+        - address: 431Pine St, Burlington, VT 05677, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ccpa@faraday.io
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A sale opt-out request can be made by emailing us, calling us, or filling out our online web form linked to on the bottom of every page of our website. Contact details can be found in our privacy policy at: http://terms-origin.faraday.io/privacy/.
+    Please see our privacy policy at http://terms-origin.faraday.io/privacy/.
+    Please see our privacy policy at http://terms-origin.faraday.io/privacy/.

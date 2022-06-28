@@ -1,0 +1,24 @@
+organization_name: AppScience
+website: http://appsci.io
+contact:
+    mail:
+        - address: 16350 VENTURA BLVD, STE D827, Encino, CA 91436, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@appsci.io
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers can visit our site at www.appsci.io and request to opt out of AppScience®’s sale of Personal Information about you and of receiving targeted Sabio and AppScience® ads, as well as request the deletion of Personal Information about you that we hold in our systems by submitting the form below. Visit https://appsci.io/do_not_sell_my_info/
+    Consumers can visit our site at www.appsci.io and request to opt out of AppScience®’s sale of Personal Information about you and of receiving targeted Sabio and AppScience® ads, as well as request the deletion of Personal Information about you that we hold in our systems by submitting the form below. Visit https://appsci.io/do_not_sell_my_info/
+    App  Science®  a  holding  of Sabio  Mobile  Inc. - Data  Code  of Conduct , Brand  safety  and  accountability  are  paramount  to  us  and  data is a  core  element  of that  trust  placed  on us. We  strive  to  be  a  responsible custodian  of  data and  we  work  with data partners  that  are accountable, transparent,  and  compliant  with privacy  and  information  security  laws. Our  key  principles relating  to  data include: We use  data in  a  manner  that  is lawful,  transparent, fair, legitimate  and  ethical. We comply  with applicable  personal information  laws  (e.g. the  California Consumer  Privacy  Act)  with respect  to  collection  and  processing  of information  related  to  an identified  or identifiable person  or household  (“personal information,”  or  “PI”)  and  we  only  work  with data  partners that  are  compliant. Our  employees  with  access  to  PI are  expected  to  apply  the  principles  of lawful, fair and  transparent  data processing,  respecting  any  purpose  limitations, as well  as  the  principles  of data  minimization,  accuracy, integrity  and  confidentiality  of  PI. We will be  transparent  with  consumers  and  only  work  with data  partners that  are  transparent. We assess  the impact  of  our data products  on  the  privacy  and  PI  of consumers. We ensure  that  data is  retained appropriately  for the  purposes  for which it was collected and deleted once  those  purposes  have  been  met.  We will ensure  that  our personnel understand  their role  in  upholding  these  principles and  practices. If you  wish to  learn  more  about  our practices  relating  to  personal information,  please  review our Privacy Policy here: https://appsci.io/privacypolicy/

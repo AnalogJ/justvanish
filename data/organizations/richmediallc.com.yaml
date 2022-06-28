@@ -1,0 +1,23 @@
+organization_name: Rich Media LLC
+website: http://www.richmediallc.com
+contact:
+    mail:
+        - address: 10191 sweet bay court, Parkland, FL 33076, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: jeff@richmediallc.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    via email or telephone
+    via email or telephone

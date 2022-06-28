@@ -1,0 +1,21 @@
+organization_name: Nexsales Solutions Inc.
+website: https://www.nexsales.com
+contact:
+    mail:
+        - address: '20660 Stevens Creek Blvd. #129,, Cupertino, CA 95014, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@nexsales.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nNexsales Privacy Policy at https://nexsales.com/privacy-policy/ details the various rights and OPT-OUT mechanisms that our users have under CCPA., , A data subject can request for opt of sale or submit request under CCPA by writing to privacy@nexsales.com., , With every email we send, we have a message at the bottom of the email with an Unsubscribe link.\nNexsales Privacy Policy at https://nexsales.com/privacy-policy/ details the various rights and OPT-OUT mechanisms that our users have under CCPA., , A data subject can request for opt of sale or submit request under CCPA by writing to privacy@nexsales.com., , As per CCPA, mechanisms have been provided to a data subject for:  , •\tRight to opt out, •\tRight to notice (also known as right to be informed) , •\tRight to disclosure , •\tRight to deletion , •\tRight to equal services and prices, \nNexsales provides customers with names, titles, and business contact information to help them identify and engage with other businesses (B2B data). We derive our core business contact database from publicly-available sources (e.g. company websites, social media) and sometimes email addresses deduced by our systems based on corporate email patterns (e.g., first.last@company.com). Nexsales does not provide individual consumer contact information or process sensitive personal data."

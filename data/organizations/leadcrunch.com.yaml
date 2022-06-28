@@ -1,0 +1,24 @@
+organization_name: LeadCrunch
+website: https://leadcrunch.com/privacy-policy/
+contact:
+    mail:
+        - address: 750 B Street Suite 1800, San Diego, CA 92101, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@leadcrunch.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A consumer may opt out by following the opt-out or unsubscribe instructions at the bottom of an email, or by emailing us at privacy@leadcrunch.com. For more information, please see our privacy policy here: https://leadcrunch.com/privacy-policy/
+    A protected individual can email privacy@leadcrunch.com to demand deletion. For more information, please see our privacy policy here: https://leadcrunch.com/privacy-policy/
+    For more information, please see our privacy policy here: https://leadcrunch.com/privacy-policy/

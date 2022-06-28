@@ -1,0 +1,24 @@
+organization_name: Skip Smasher Inc.
+website: https://www.skipsmasher.com
+contact:
+    mail:
+        - address: 32605 Temecula Pkwy 216, Temecula, CA 92592, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@skipsmasher.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Go to skipsmasher.com, scroll to page bottom, click on link Do Not Sell My Info (CA Residents Only)
+    Go to skipsmasher.com, scroll to page bottom, click on link Do Not Sell My Info (CA Residents Only)
+    Most if not all data collected is exempt under either the CCPA's GLB and public record exemptions however we are registering as the law is not clear if brokers of exempt information are still required to register.

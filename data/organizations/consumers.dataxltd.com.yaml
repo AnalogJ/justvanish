@@ -1,0 +1,21 @@
+organization_name: DataX, Ltd.
+website: http://consumers.dataxltd.com/
+contact:
+    mail:
+        - address: 7582 Las Vegas Boulevard South, Suite 693, Las Vegas, NV 89123, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: usprivacy@equifax.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nThrough a link at https://www.equifax.com/personal/, , \nWe do not post personal information online so this is not applicable.\nPlease visit https://www.equifax.com/privacy/privacy-statement/ to review our Privacy Statement for more information."

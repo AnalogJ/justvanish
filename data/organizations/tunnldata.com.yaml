@@ -1,0 +1,21 @@
+organization_name: Tunnl, LLC
+website: https://www.tunnldata.com/
+contact:
+    mail:
+        - address: 3100 Clarendon Boulevard, Suite 900, Arlington, VA 22201, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@tunnldata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers may opt out of the sale of their personal information by providing their full name, physical address, and telephone number either by email at ccpa.optout@tunnldata.com or by calling our dedicated toll-free number at 1-866-498-2784., , Consumers may submit requests for information under the CCPA by providing their full name, physical address, and telephone number either by email at ccpa.information@tunnldata.com or by calling our dedicated toll-free number 1-866-498-2784., \nWe do not post or publicly display personal information of consumers., , Deletion requests can be submitted to ccpa.information@tunnldata.com or by calling our dedicated toll-free number 1-866-498-2784.\nIndividuals can obtain more information regarding our data collecting practices on our website:, , https://www.tunnldata.com/privacy-policy, https://www.tunnldata.com/ccpa, "

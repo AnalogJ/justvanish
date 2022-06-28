@@ -1,0 +1,23 @@
+organization_name: Inmar-OIQ, LLC
+website: http://www.owneriq.com
+contact:
+    mail:
+        - address: 635 Vine Street, Winston-Salem, NC 27101, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@owneriq.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    The consumer can opt out by clicking on the Do Not Sell opt out link on our website and in our privacy notice, under "California Rights" section.
+    The consumer can make a deletion request through the form listed in our privacy notice on our website, under "California Rights" section.

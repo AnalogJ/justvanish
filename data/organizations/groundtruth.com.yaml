@@ -1,0 +1,24 @@
+organization_name: xAd, Inc. dba GroundTruth
+website: http://www.groundtruth.com
+contact:
+    mail:
+        - address: One World Trade, 60th Floor, New York, NY 10007, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@groundtruth.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A description of how a consumer may opt out of sale or submit requests under the CCPA is available at:  https://www.groundtruth.com/california-ccpa-rights/
+    Not applicable
+    A description of our data collecting practices is available at:  https://www.groundtruth.com/privacy-policy/

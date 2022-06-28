@@ -1,0 +1,23 @@
+organization_name: Marketing Information Specialists, Inc
+website: http://www.misdp.com
+contact:
+    mail:
+        - address: '31103 Rancho Viejo Rd, #D2-548, San Juan Capistrano, CA 92675, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@misdp.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    info@misdp.com or call (949) 493-9340
+    info@misdp.com or call (949) 493-9340

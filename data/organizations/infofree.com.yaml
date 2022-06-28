@@ -1,0 +1,24 @@
+organization_name: Infofree.com
+website: https://www.infofree.com
+contact:
+    mail:
+        - address: 11211 John Galt Blvd, Omaha, NE 68137, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: bob@infofree.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Please go to https://ccpa-optout.com/infofree/ to begin the process or contact us via phone and/or email
+    Outlined at https://www.infofree.com/privacy - Users can submit a request via online, email, phone, etc.
+    Our Consumer Database is compiled from public and self-reported data sources to be used for Business to Consumer marketing purposes.  Infofree.com does NOT compile any of the following sensitive personal information:  Driver’s License Information, Passport/Visa Numbers, State ID Information, Student Information, Social Security Numbers, Sexual Orientation Preferences, Credit/Debit Card Numbers, Private Medical/Health Records, Bank Account Numbers, Salary/Payroll/Benefit Data, PIN Numbers, Frequent Flyer Numbers, Exact FICO Scores/Credit Rating, Medical Insurance Information, Personal Account Numbers, Logon ID’s and Passwords, Biometric Data (Fingerprints, Facial Recognition, DNA, Retina Patterns, Blood Types or Signatures).

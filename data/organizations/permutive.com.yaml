@@ -1,0 +1,24 @@
+organization_name: Permutive, Inc
+website: https://permutive.com/privacy/
+contact:
+    mail:
+        - address: 244 Fifth Avenue, Suite 1437, New York, NY 10001, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@permutive.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Visit our privacy page at https://permutive.com/privacy/
+    Visit our privacy page at https://permutive.com/privacy/
+    Visit our privacy page at https://permutive.com/privacy/

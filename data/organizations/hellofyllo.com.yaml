@@ -1,0 +1,24 @@
+organization_name: Fyllo
+website: http://www.hellofyllo.com
+contact:
+    mail:
+        - address: 845 W. Washington Boulevard, 3rd floor, Chicago, IL 60670, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@hellofyllo.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Our privacy policy provides users the ability to request a review, update/change to or opt-out from the sale or use of personal information via email (privacy@hellofyllo.com) or by clicking on an opt out link within the body of our privacy policy found here: https://hellofyllo.com/privacy-policy/
+    Our privacy policy enables a user to request the deletion of their information by sending an email to privacy@hellofyllo.com
+    Fyllo collects information in three ways: information you give to us, information that we gather from your use of our Service, and information obtained from third parties, each as more specifically described below. The information we collect is comprised of both “Personal Information” and “Non-Personal Information.” Information collected through use of our Services includes: Location information such as your geolocation when you use our Services from a mobile device and/or mobile application. We also may ask you to manually provide precise location information or to enable your mobile device to send us precise location information. Device information such as your hardware model, operating system, operating system version, mobile device type, unique identifiers from your computer or mobile device, application download information, and/or IP address. Computer or browser information such as your system activity, the domain name of the web site from which you linked to our Services, the time and duration of your use of our Services and any queries, browser type, and browser language. Where the law permits, we may also obtain information from other sources and combine that with information we collect through our Services. For example, we might obtain information from data providers and advertising service providers, including assumed demographics and interests, and data about your engagement with certain ads. The information we obtain from these sources is always de-identified prior to our receipt of such information.

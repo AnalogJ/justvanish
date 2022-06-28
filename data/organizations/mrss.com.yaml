@@ -1,0 +1,24 @@
+organization_name: M&R Strategic Services
+website: http://www.mrss.com
+contact:
+    mail:
+        - address: 1101 Connecticut Ave NW, 7th Floor, Washington, DC 20036, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@mrss.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may opt out of the “sale” of their personal information by visiting https://docs.google.com/forms/d/e/1FAIpQLSefr7ccty1bMZza8chUgLe0eWktBpQ_wGhzFpzeUupGlna3CA/viewform and submitting their request. Consumers may submit other types of CCPA requests by emailing us at privacy@mrss.com.
+    M+R does not publicly post online the telephone number or address information of individuals; as such, these laws do not apply. Consumers may submit CCPA deletion requests by emailing us at privacy@mrss.com.
+    For more information about our data collection and privacy practices, please visit our Privacy Policy at https://www.mrss.com/privacy-policy/

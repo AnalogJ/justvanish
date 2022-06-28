@@ -1,0 +1,24 @@
+organization_name: Private Records LLC
+website: http://www.privaterecords.net
+contact:
+    mail:
+        - address: '1317 Edgewater Dr #1255, Orlando, FL 32804, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: support@privaterecords.net
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Private Records provides two methods for consumers to submit requests under the CCPA and opt-out of the sale of their personal information. A consumer can visit the online portal at https://www.privaterecords.net/optOut/name/landing or call (888) 270-9304.
+    Any individual may submit a deletion request by calling toll free at (888) 270-9304 or by removing their information at our portal https://www.privaterecords.net/optOut/name/landing. Private Records may request additional information to verify deletion requests from an individual as necessary.
+    Additional information about Private Records data collection practices may be found on our website at https://www.privaterecords.net/privacy

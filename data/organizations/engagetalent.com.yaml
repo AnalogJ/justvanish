@@ -1,0 +1,23 @@
+organization_name: Job Market Maker, LLC dba Engage Talent
+website: https://www.engagetalent.com/
+contact:
+    mail:
+        - address: '420 S. ORANGE AVE #600, ORLANDO, FL 32750, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dataprivacy@workforcelogiq.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    You may locate information about our CCPA policies and options by reviewing "Your California Privacy Rights" on our privacy page at https://www.engagetalent.com/privacy-policy.
+    You may locate information about our CCPA policies and options by reviewing "Your California Privacy Rights" on our privacy page at https://www.engagetalent.com/privacy-policy.

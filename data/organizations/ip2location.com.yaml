@@ -1,0 +1,24 @@
+organization_name: Hexasoft Development Sdn. Bhd.
+website: https://www.ip2location.com
+contact:
+    mail:
+        - address: 70-3-30A D'Piazza Mall, Jalan Mahsuri, Bayan Baru Pulau Pinang 11950, Malaysia
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: support@ip2location.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may opt out of the sale of their data by completing and submitting the form available at the following URL: https://www.ip2location.com/do-not-sell , , Hexasoft Development Sdn. Bhd. may request additional information to verify a consumer’s identity and complete the request, as described in our Privacy Policy available at: https://www.ip2location.com/privacy-policy
+    Hexasoft Development Sdn. Bhd. does not publicly post or publicly display on the Internet the home address, home telephone number, or image of any protected individuals by Gov. Code sections 6208.1(b) or 6254.21(c)(1)., , Should an individual wish to demand deletion of their information for any reason, they can submit a request to us via the webform available at https://www.ip2location.com/do-not-sell or by using the contact details provided in our Privacy Policy available at: https://www.ip2location.com/privacy-policy, , We may request additional information to verify a consumer’s identity and complete the request, as described in the Privacy Policy listed above.
+    Our data collecting practices are described in detail at: https://www.ip2location.com/privacy-policy

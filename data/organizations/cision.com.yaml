@@ -1,0 +1,21 @@
+organization_name: Cision US Inc.
+website: http://www.cision.com
+contact:
+    mail:
+        - address: 12501 Indian Creek Court, Beltsville, MD 20705, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dpo@cision.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers can do this by emailing Privacy@cision.com, calling toll-free on  877-297-8921 or submitting a request via an online for at https://cision.service-now.com/gdpr?id=dsr_entry_form&lang=en , \nCision does not post such information online but any deletion requests can be submitted by emailing Privacy@cision.com, calling toll-free on 877-297-8921 or submitting a request via an online for at https://cision.service-now.com/gdpr?id=dsr_entry_form&lang=en\nCision collect consumer personal information either directly from the consumer, or from publicly available sources such as: , •\tArticles or blogs the consumer may have written , •\tVlogs the consumer may have created , •\tThe consumer’s own website , •\tThe consumer’s employer's websites , •\tThe consumer’s publisher's website , •\tThe consumer’s publicly available social media profiles (including, for example, Facebook, Instagram, Twitter, and LinkedIn) , •\tTelephone conversations which may be recorded by us to help us improve our training and quality , •\tOther publicly available online sources , •\tOther consumers (who may, for example, tell us if another consumer has changed jobs, but we will not publish that information until we have independently verified it) , •\tOur customers , •\tThird parties, such as Brandwatch, Talkwalker, IHS Markit and Capestart , •\tThe consumer’s employer (if they are employed) , •\tThe consumer’s press team tell us ,  , For further Information about how Cision processes your personal information and your rights regarding this, please see here https://gdpr.cision.com/additional-information-for-californian-consumers"

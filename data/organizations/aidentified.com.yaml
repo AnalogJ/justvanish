@@ -1,0 +1,24 @@
+organization_name: Aidentified LLC
+website: https://www.aidentified.com/
+contact:
+    mail:
+        - address: 33 Bradford Street, Concord, MA 01742, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@aidentified.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    See: https://www.aidentified.com/ccpa/, , Consumers have the right to access, opt out, delete, or correct their personal information in our data services. Requests to delete, opt out or access personal information should be submitted to Aidentified at the following links on our website: , , Do Not Sell My Data: https://www.aidentified.com/do-not-sell-my-data/, , See My Data: https://www.aidentified.com/see-my-data/, , Consumers may also contact us regarding an opt out request at privacy@aidentified.com or in writing to: , Aidentified, LLC, Attn: Privacy, 33 Bradford Street, Concord, MA 01742
+    A consumer may demand deletion of information with a Do Not Sell My Info button at the bottom of our website:, Do Not Sell My Data: https://www.aidentified.com/do-not-sell-my-data/ , , As per CCPA, mechanisms have been provided to a data subject for:, • Right to opt out, • Right to notice  (also known as right to be informed), • Right to disclosure, • Right to deletion, • Right to equal services and prices (or not to be discriminated against).
+    For additional information about collection, use, sale, and disclosure of personal information by Aidentified, please visit https://www.aidentified.com/privacy-policy-2/

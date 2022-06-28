@@ -1,0 +1,24 @@
+organization_name: DataDirect Marketing Solutions, Inc.
+website: http://www.datadirectmarketing.com
+contact:
+    mail:
+        - address: 250 Crescent Road, San Anselmo, CA 94960, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: allan@datadirectmarketing.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Send Email to actual data source - provided on request.
+    Send Email to actual data source - provided on request.
+    DataDirect Marketing Solutions, Inc. does not collect data.

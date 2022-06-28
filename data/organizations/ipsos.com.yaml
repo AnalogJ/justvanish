@@ -1,0 +1,24 @@
+organization_name: Ipsos
+website: https://www.ipsos.com
+contact:
+    mail:
+        - address: 222 West Adams Street, Chicago, IL 60606, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dpo.usa@ipsos.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Using any of the following methods: 1. Email to dpo.usa@ipsos.com or info@ipsos-na.com, 2. Phone by calling (833) 931 - 1525, or 3. Through any email received by Ipsos through the unsubscribe link included in the email.
+    Using any of the following methods: 1. Email to dpo.usa@ipsos.com or info@ipsos-na.com, 2. Phone by calling (833) 931 - 1525, or 3. Through any email received by Ipsos through the unsubscribe link included in the email.
+    Using any of the following methods: 1. Email to dpo.usa@ipsos.com or info@ipsos-na.com, 2. Phone by calling (833) 931 - 1525, or 3. Through any email received by Ipsos through the unsubscribe link included in the email.

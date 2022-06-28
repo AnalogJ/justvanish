@@ -1,0 +1,24 @@
+organization_name: LeadsMarket.com LLC
+website: http://www.leadsmarket.com
+contact:
+    mail:
+        - address: 21600 Oxnard St., Suite 400, Woodland Hills, CA 91367, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@leadsmarket.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    For additional information, please visit our website at: http://leadsmarket.com/privacy-policy.
+    N/A – we do not post consumer information online.
+    LeadsMarket.com LLC does not collect personal information directly from consumers as we are a business-to-business service provider. For additional information, please visit our website at: http://leadsmarket.com/privacy-policy.

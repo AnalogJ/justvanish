@@ -1,0 +1,24 @@
+organization_name: dotin Inc.
+website: https://dotin.us/
+contact:
+    mail:
+        - address: 194 Francisco Lane, Fremont, CA 94539, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: secure-data@dotin.us
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    The user can request to be opted out any time by sending us a note at secure-data@dotin.us . Corrective actions are taken in full transparency with the consumer.
+    The user can request to delete their data by sending us a note at secure-data@dotin.us . Corrective actions are taken in full transparency with the consumer.
+    We DO NOT scrape the internet and leverage public data from the consumer through validated data source providers.

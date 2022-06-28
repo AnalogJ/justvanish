@@ -1,0 +1,24 @@
+organization_name: W2O Group
+website: http://w2ogroup.com
+contact:
+    mail:
+        - address: 50 Francisco Street, Suite 400, San Francisco, CA 941336, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dataprivacy@w2ogroup.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Via the "Do Not Sell My Personal Information" link on our website, or web forms available via the "Choice and Access" section of our privacy policy - https://www.w2ogroup.com/privacy-policy/. 1-800 number and email address also available on the privacy page.
+    Web forms available via the "Choice and Access" section of our privacy policy - https://www.w2ogroup.com/privacy-policy/. 1-800 number and email address also available on the privacy page.
+    W2O primarily collects data from publicly available sources such as social media where permitted by law for research purposes. More information here: https://www.w2ogroup.com/privacy-policy/

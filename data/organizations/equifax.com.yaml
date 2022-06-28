@@ -1,0 +1,46 @@
+organization_name: Austin Consolidated Holdings, Inc.
+website: https://www.equifax.com/personal/
+contact:
+    mail:
+        - address: 11 E. 7th Street, Suite 620, Austin, TX 78701, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1550 Peachtree Street, N.W., Atlanta, GA 30309, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 4600 S. Syracuse Street, Suite 370, Denver, CO 80237, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: usprivacy@equifax.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    through a link on our website
+    We do not post personal information online so this is not applicable.
+    Please visit https://www.equifax.com/privacy/privacy-statement/ to review our Privacy Statement for more information.
+    Through a link on our website
+    We do not post personal information online so this is not applicable.
+    Please visit https://www.equifax.com/privacy/privacy-statement/ to review our Privacy Statement for more information.
+    Through a link on our website
+    We do not post personal information online so this is not applicable.
+    Please visit https://www.equifax.com/privacy/privacy-statement/ to review our Privacy Statement for more information.
+    Through a link on our website
+    We do not post personal information online so this is not applicable.
+    Please visit https://www.equifax.com/privacy/privacy-statement/ to review our Privacy Statement for more information.
+    Through a link on our website
+    We do not post personal information online so this is not applicable.
+    Please visit https://www.equifax.com/privacy/privacy-statement/ to review our Privacy Statement for more information.

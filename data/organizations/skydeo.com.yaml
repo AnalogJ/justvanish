@@ -1,0 +1,24 @@
+organization_name: Skydeo Inc.
+website: https://skydeo.com
+contact:
+    mail:
+        - address: 401 Congress Street, Suite 1540, Austin, TX 78701, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@skydeo.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    https://skydeo.com/privacy-policy/opt-out/
+    https://skydeo.com/privacy-policy/opt-out/
+    https://skydeo.com/privacy-policy/

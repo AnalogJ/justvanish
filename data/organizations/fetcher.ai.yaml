@@ -1,0 +1,23 @@
+organization_name: Tiplinks Inc
+website: https://fetcher.ai
+contact:
+    mail:
+        - address: 335 Madison Avenue, Suite 6F-2, New York, NY 10025, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: support@fetcher.ai
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    California Civil Code Sections 1798.83-1798.84 give California residents the right to request a notice defining the types of personal information we collect, share with our customers for marketing purposes, and the contact information for these customers. California residents may request this information by writing support@fetcher.ai. Moreover, California residents can exercise their right to opt-out by visiting https://www.fetcher.ai/opt-out - we aim to process such requests and get back to you within 14 days.
+    Tiplinks Inc DBA Fetcher acknowledges that individuals have a right to access, correct, amend and delete their Personal Information. Because Tiplinks Inc DBA Fetcher is the data processor of the Personal Information and collects Personal Information under the instructions of its Customers, Tiplinks Inc DBA Fetcher shall follow its Customers’ instructions. Therefore, Tiplinks Inc DBA Fetcher encourages individuals to contact these Customers. This can be done by replying to the last email that was sent via the Tiplinks Inc DBA Fetcher system., To remove your information, , To request to remove personal information email us at support@fetcher.ai (optionally include subject line Deletion Request). We will respond to you, and work to enact this request, within 30 days.

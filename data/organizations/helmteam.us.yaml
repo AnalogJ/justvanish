@@ -1,0 +1,21 @@
+organization_name: Helm Labs, LLC
+website: https://www.helmteam.us/
+contact:
+    mail:
+        - address: 1101 K Street NW, Suite 810, Washington, DC 20005, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@helmteam.us
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nPlease see our privacy policy (https://www.helmteam.us/privacy-policy) and review the section entitled \"Your Rights Regarding Personal Information.\"\nPlease reach out to us at legal@helmteam.us. \n"

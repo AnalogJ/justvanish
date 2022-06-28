@@ -1,0 +1,24 @@
+organization_name: Adrea Rubin Media, Inc. dba Calibrant Digital
+website: http://www.calibrant.com
+contact:
+    mail:
+        - address: 19 West 44th Street, Suite 1415, New York, NY 10036, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: jennifer@calibrant.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A consumer may opt out of sale or submit requests under the CCPA by either calling a number listed on our website or filling out a form on our website., , Numbers listed on both websites www.adrearubin.com and www.calibrant.com
+    We do not knowingly and intentionally publicly post or publicly display on the Internet the home address or home telephone number of any person. A protected individual can contact us by either calling a number listed on our website or filling out a form on our website.
+    A credentialing process is implemented to prevent data usage for nefarious purposes.

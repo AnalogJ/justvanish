@@ -1,0 +1,24 @@
+organization_name: Hybrid Theory
+website: https://www.hybridtheory.com
+contact:
+    mail:
+        - address: 14 E 4th Street, New York, New York 10012, USA, New York, NY 10012, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@hybridtheory.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Through contacting privacy@hybridtheory.com through our website, or, to opt out of cookies information used for online advertising (the only data Hybrid Theory 'sell'), by clicking on the Opt Out link on our website. We have a CCPA-compliant cookie banner in place that will include a Do Not Sell My Personal Information button and have implemented a specific Do Not Sell My Personal Information link on our website.
+    No information posted online under Gov. Code sections 6208.1(b) or 6254.21(c)(1) (this relates to government and other public sector individuals’ information being posted online).
+    Hybrid Theory makes the complex simple by delivering business growth for brands and agencies as a trusted digital services partner, that powers smarter data-driven advertising through the best combinations of technology and talent. The only personal information of consumers with whom we do not have a direct relationship with that we collect or sell is browsing history and interests as collected by cookies on certain publisher websites, and which we share with our advertising partners.

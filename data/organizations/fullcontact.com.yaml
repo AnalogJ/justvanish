@@ -1,0 +1,21 @@
+organization_name: FullContact
+website: https://www.fullcontact.com/
+contact:
+    mail:
+        - address: Suite 3-163; Circa Building, 1615 Platte St, Denver, CO 80202, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@fullcontact.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers can opt out of sale or submit requests under the CCPA via our website at https://platform.fullcontact.com/claim.  Consumers can also opt out by emailing privacy@fullcontact.com\nFullContact does not have a platform that allows information to be posted online\nFullContact complete privacy policy can be found here https://www.fullcontact.com/privacy/ , "

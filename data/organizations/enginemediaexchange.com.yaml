@@ -1,0 +1,24 @@
+organization_name: EMX Digital, Inc.
+website: http://www.enginemediaexchange.com
+contact:
+    mail:
+        - address: 902 Carnegie Center - Suite 220, Princeton, NJ 08540, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@emxdigital.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Visit our website
+    Please see our privacy policy   enginemediaexchange.com/privacy
+    Please see our privacy policy   enginemediaexchange.com/privacy

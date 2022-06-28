@@ -1,0 +1,21 @@
+organization_name: Data Axle, Inc. f/k/a Infogroup Inc.
+website: https://www.data-axle.com
+contact:
+    mail:
+        - address: 13155 Noel Road, Ste. 1750, Dallas, TX 75240, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacyteam@data-axle.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nAt the bottom of our website page, there is a place to click on \"do not sell\" and our privacy policy.  An individual may go directly to: https://www.data-axle.com/privacy-policy/ to opt out and to make do not sell requests.\nAn individual may go directly to: https://www.data-axle.com/privacy-policy/ to opt out ,to make do not sell requests and to request deletion of information.\nPlease visit our privacy policy at www.data-axle.com/privacy-policy/ for additional information about data collecting practices. "

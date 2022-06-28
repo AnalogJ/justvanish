@@ -1,0 +1,24 @@
+organization_name: Connext Digital, LLC
+website: http://www.connextdigital.com
+contact:
+    mail:
+        - address: 37 Apollo Road, Bethel, CT 06801, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@connextdigital.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Now that we have registered we are adding a CCPA section to our privacy policy and will have an output link available for any consumer requests, as well as, a page that allows a consumer to opt out and provide their information so the action can take place accurately. A working, daily monitored, email address will also be present (privacy@ etc) if the consumer chooses that as their preferred option. It will be an easy and clear process for any consumer wishing to opt out of any communication and/or marketing programs.
+    No personal information is ever shared publicly at any time for any purpose. Similar to the mechanism described above an opt out link, landing page requesting removal and/or email address set up for the consumer to reply to (privacy@ etc) is available to make this action as easy and clear to the consumer as possible. All steps are taken to ensure privacy and security of data is paramount.
+    We work with various sources and data aggregators, all of whom adhere to any national, regional and/or state legislation on data privacy and use. During the collection process, via our partners, it is made clear on the use of the information and how it is being shared and for what various purposes. For any of the media programs we run the consumer is always given then opportunity to opt out of any future correspondence and we treat that globally. Meaning once the opt out action is taken that record is then deactivated and omitted from any future programs.

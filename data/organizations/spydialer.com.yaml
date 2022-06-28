@@ -1,0 +1,21 @@
+organization_name: Spy Dialer, Inc. dba SpyDialer.com
+website: https://www.spydialer.com
+contact:
+    mail:
+        - address: 32605 Temecula Pkwy, Suite 216, Temecula, CA 92592, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@spydialer.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nGo to spydialer.com, then click the link \"Do Not Sell My Info\".\nGo to spydialer.com, then click the link \"Remove My Info\".\nSpyDialer.com collects public data and uses it to provide the public free reverse phone lookups.  The data helps site users to protect their privacy by allowing them to check the identity of callers making unwanted, missed or harassing phone calls. The site also allows anyone who wants to remove their personal data to do so -- no questions asked. "

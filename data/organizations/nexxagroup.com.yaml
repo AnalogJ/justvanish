@@ -1,0 +1,21 @@
+organization_name: Nexxa Group, Inc.
+website: http://www.nexxagroup.com
+contact:
+    mail:
+        - address: 12734 Kenwood Lane, Ste 87, Fort Myers, FL 33907, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: consumerchoice@nexxagroup.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nA California resident, business or elected and authorized agent may submit a request by email to Consumerchoice@nexxagroup.com , by website form at www.nexxagroup.com/consumer-opt-out/, , by phone at (800)- 566-1895 or by mail to Consumer Choice, Nexxa Group 12734 Kenwood Lane, ste 87 Fort Myers, FL 33907 \nA individual California resident can submit their request for deletion by email to ConsumerChoice@Nexxagroup.com, by mail to Consumer Choice, Nexxa Group 12734 Kenwood lane, Ste 87 Fort Myers, FL 33907 or by phone at (800)-566-1895.\nNexxa Group data collecting practices can be found under our Privacy Policy at www.nexxagroup.com/privacy-policy/, "

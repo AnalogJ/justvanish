@@ -1,0 +1,21 @@
+organization_name: Catalina
+website: http://www.catalina.com
+contact:
+    mail:
+        - address: 200 Carillion Pky, St. Petersburg, FL 33716, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacyteam@catalina.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nCalifornia consumers may opt out of the sale of their personal information by:, Clicking the following link: https://www.catalina.com/privacy-policy/, \nCalifornia consumers may exercise their rights by clicking here:, https://www.catalina.com/privacy-policy/\nFor information on data collecting practices, please see our Privacy Notice for California Residents at https://www.catalina.com/privacy-policy/ or email us at privacyteam@catalina.com."

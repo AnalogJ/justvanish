@@ -1,0 +1,21 @@
+organization_name: Arrakis Technologies Corp.
+website: http://www.arrakis.ai
+contact:
+    mail:
+        - address: 548 Market St, PMB 61886, San Francisco, CA 94104, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@arrakis.ai
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nhttps://www.arrakis.ai/optout \nArrakis does not post such information online, nor does it operate a website that allows users to post user generated content. Nonetheless, individuals can submit deletion requests using the form on our site (https://www.arrakis.ai/optout ) or by sending a request to privacy@arrakis.ai.\nFor more information about Arrakis data collection practices please visit https://www.arrakis.ai/privacy-policy."

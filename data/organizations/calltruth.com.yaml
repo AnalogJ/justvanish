@@ -1,0 +1,21 @@
+organization_name: Connect Computer LLC
+website: http://calltruth.com
+contact:
+    mail:
+        - address: 2470 Windy Hill Road, Suite 226, Marietta, GA 30067, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: support@calltruth.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nA consumer may opt out of sale under the CCPA by visiting https://www.calltruth.com/opt_out.php (which can be accessed directly at the provided URL or by clicking the 'Do Not Sell My Info'\x9D hyperlink on the CallTruth homepage).  Customers can submit other requests and also opt out by emailing CallTruth customer support at support@calltruth.com.  \nA consumer may opt out of having their listing displayed by going online to https://www.calltruth.com/opt_out.php and submitting a request.  A consumer may also contact Customer Care at support@calltruth.com or mail in their request at the business address.\nAdditional information can be found in our Privacy Policy located at https://www.calltruth.com/privacy.php."

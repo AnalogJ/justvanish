@@ -1,0 +1,21 @@
+organization_name: 'Carney Direct Marketing '
+website: http://www.carneydirect.com
+contact:
+    mail:
+        - address: 15510 Rockfield Blvd Suite A, Irvine, CA 92676, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@carneydirect.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumer may opt out via email at privacy@carneydirect.com, via postal mail, or contact us toll-free at 800-240-3349.\nWe do not publicly post any consumer information online, or operate a website that involves user generated content.  A protected individual can contact us via email at privacy@carneydirect.com, via postal mail, or toll-free at 800-240-3349., , \nFor more information, please visit https://www.carneydirect.com/privacy-policy/"

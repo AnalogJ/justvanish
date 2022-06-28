@@ -1,0 +1,24 @@
+organization_name: IDM, Inc.
+website: https://idm.us.com
+contact:
+    mail:
+        - address: '11654 Plaza America Drive #858, Reston, VA 20190, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@idm.us.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A consumer my opt-out via our website by using the "Do Not Sell My Personal Information" link or contacting us via email at ccpa@idm.us.com.  This is referenced in our Privacy Policy on the website.
+    We do not post anything online for our customers.  We are in the Direct Mail business.  If a protected individual wanted to be removed from any of our data sources, then they may opt-out via our website by using the "Do Not Sell My Personal Information" link or contacting us via email at ccpa@idm.us.com.  This is referenced in our Privacy Policy on the website.
+    We are a data brokerage company and acquire data from many other data source providers.  We do not explicitly capture consumer data via our website or any other platforms.

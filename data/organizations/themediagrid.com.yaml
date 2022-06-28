@@ -1,0 +1,21 @@
+organization_name: The MediaGrid Inc.
+website: http://www.themediagrid.com
+contact:
+    mail:
+        - address: 625 Broadway, 10th Floor, New York, NY 10012, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@themediagrid.net
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nPlease visit our Privacy Policy, specifically the section \"Your Data Subject Rights\"., https://www.themediagrid.com/privacy-policy#rights, \nPlease visit our Privacy Policy, specifically the section \"Your Data Subject Rights\"., https://www.themediagrid.com/privacy-policy#rights, \nPlease visit our Privacy Policy to learn more about how we collect and use personal information. https://www.themediagrid.com/privacy-policy"

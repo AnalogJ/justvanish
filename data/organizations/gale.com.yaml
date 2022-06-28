@@ -1,0 +1,21 @@
+organization_name: Gale
+website: http://www.gale.com
+contact:
+    mail:
+        - address: 27500 Drake Road, Farmington Hills, MI 48331, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@cengage.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers should go to www.gale.com/privacy to submit CCPA requests or e-mail privacy@cengage.com. \nConsumers should go to www.gale.com/privacy to submit CCPA requests or e-mail privacy@cengage.com. \nConsumers can visit www.gale.com/privacy to find more information about data collection practices."

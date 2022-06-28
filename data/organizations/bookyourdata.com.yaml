@@ -1,0 +1,21 @@
+organization_name: Book Your Data
+website: http://www.bookyourdata.com
+contact:
+    mail:
+        - address: 1348 Florida Ave. NW, Washington, DC 20009, Washington, WA 20009, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: mark@bookyourdata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nBy simply sending an e-mail to the contact details shown in the website and also by filling the opt-out form. \nBy simply sending an e-mail to the contact details shown in the website and also by filling the opt-out form.\nWe only provide b2b data services and solely process thus sell business data."

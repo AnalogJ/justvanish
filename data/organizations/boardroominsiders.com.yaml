@@ -1,0 +1,24 @@
+organization_name: Boardroom Insiders, Inc.
+website: http://www.boardroominsiders.com
+contact:
+    mail:
+        - address: Hippodrome Building, 1120 Avenue of the America’s, New York, NY 10036, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: piprivacy@euromoneyplc.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    There are various avenues available for a consumer to opt-out from sale of data by Boardroom Insiders, Inc. A consumer may opt-out by submitting a request via PIPrivacy@euromoneyplc.com, via the website online-form, via mailing to Boardroom Insiders, or via using the toll free opt-out number. Please see Boardroom Insider's opt-out page for more information: https://www.boardroominsiders.com/privacy-policy
+    Same process as our opt-out requests. The avenues available for opt-outs are also available for deletion requests. Please see Boardroom Insider's opt-out page for more information: https://www.boardroominsiders.com/privacy-policy
+    Please see Boardroom Insider's opt-out page for more information: https://www.boardroominsiders.com/privacy-policy

@@ -1,0 +1,21 @@
+organization_name: Ipreo
+website: https://ipreo.com/
+contact:
+    mail:
+        - address: 'Attn: Chief Privacy Officer, 15 Inverness Drive South, Englewood, CO 80112, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@ihsmarkit.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nhttp://more.ihs.com/DoNotSell, 1-800-447-2273, \nhttps://app.onetrust.com/app/#/webform/7020d814-78eb-45f1-bfbb-491ca1076fdd, 1-800-447-2273, \nhttps://ihsmarkit.com/Legal/privacy-policy.html"

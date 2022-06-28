@@ -1,0 +1,23 @@
+organization_name: Crunchbase
+website: http://www.crunchbase.com
+contact:
+    mail:
+        - address: 564 Market Street, Suite 700, San Francisco, CA 94104, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@crunchbase.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    https://preferences.crunchbase.com/dont_sell
+    https://preferences.crunchbase.com/privacy

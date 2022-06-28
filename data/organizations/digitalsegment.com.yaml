@@ -1,0 +1,23 @@
+organization_name: Digital Segment, LLC
+website: http://www.digitalsegment.com
+contact:
+    mail:
+        - address: 1305 Sunnyslope Ct, Auburn, AL 36832, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@digitalsegment.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Email at info @ digitalsegment.com or enter information on form on home page requesting to be opted out.
+    Email at info @ digitalsegment.com or enter information on form on home page requesting to be opted out.

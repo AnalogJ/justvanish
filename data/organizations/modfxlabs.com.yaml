@@ -1,0 +1,24 @@
+organization_name: ModFx Labs Private Limited
+website: https://www.modfxlabs.com
+contact:
+    mail:
+        - address: 1123A, JMD Megapolis, Sector 48, Gurgaon Haryana 122018, India
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: mandeep@modfxlabs.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A consumer could click "Opt-Out From Collection Of Personal Information" link on our website (https://www.modfxlabs.com) to visit the relevant section of our privacy policy which has a web form to submit an Advertising ID for opt-out. Alternatively, a consumer could send an email to "opt.out@modfxlabs.com" providing his/her Advertising ID for opt-out.
+    Protected individuals may click "Opt-Out From Collection Of Personal Information" link on our website (https://www.modfxlabs.com) to visit the relevant section of our privacy policy which has a web form to submit an Advertising ID for opt-out. Alternatively, they could send an email to "opt.out@modfxlabs.com" providing their Advertising ID for opt-out.
+    Please see our privacy policy: https://www.modfxlabs.com/privacy

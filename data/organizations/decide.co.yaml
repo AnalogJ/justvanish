@@ -1,0 +1,24 @@
+organization_name: Decide Technologies Inc.
+website: http://decide.co
+contact:
+    mail:
+        - address: 1314 Washington Avenue, St. Louis, MO 63103, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@decide.co
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Via telephone at (800) 560-3603, and/or via our website through direct link in the Privacy Policy.
+    Via telephone at (800) 560-3603, and/or via our website through direct link in the Privacy Policy.
+    Decide Technologies, fka LockerDome, has developed an advertising platform that provides digital advertising placement, optimization, and analytics to its customers. The Company works with advertisers to distribute their ads across the Company's publisher network. The Company's proprietary machine learning technology, the Decision Marketplace(sm), automates and optimizes ad placement and impression pricing decisions to improve performance and financial outcomes for the Company and its partners.  The Company does not sell data to third-parties.

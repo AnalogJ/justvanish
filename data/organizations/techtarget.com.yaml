@@ -1,0 +1,21 @@
+organization_name: TechTarget, Inc.
+website: http://www.techtarget.com
+contact:
+    mail:
+        - address: 275 Grove Street, Newton, MA 02466, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@techtarget.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nA consumer may opt out of sale or submit requests under the CCPA by (i) completing our web form located at https://www.techtarget.com/CA-rights-request/, (ii) emailing us at privacy@techtarget.com, or (iii) calling us at (888) 274-4111. \nA consumer and/or protected individual can demand deletion of information by (i) completing our web form located at https://www.techtarget.com/CA-rights-request/, (ii) emailing us at privacy@techtarget.com, or (iii) calling us at (888) 274-4111. \nA consumer can review the categories of personal information that we collect and our data collecting practices in our Privacy Notice for California Residents located at https://www.techtarget.com/ccpa-privacy-notice/. Additional information about data collection and use can be found in our Privacy Policy located at https://www.techtarget.com/privacy-policy ."

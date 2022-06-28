@@ -1,0 +1,24 @@
+organization_name: Growbots Inc.
+website: http://growbots.com
+contact:
+    mail:
+        - address: 1015 Fillmore St. PMB 18339, San Francisco, CA 94115, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@growbots.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A consumer may submit requests under the CCPA to opt out of sale by filling up the form: https://www.growbots.com/do-not-sell-my-info/ and verifying the email. The form is also accessible in the "Do Not Sell My Information" section at Growbots' website
+    An individual can contact us at privacy@growbots.com. If individual wishes to request deleting all information (including email), we will not be able to keep a record of the opt-out preference and may add this information to our database again.
+    Comprehensive information in this respect is available in our Privacy Policy (https://www.growbots.com/privacy/).

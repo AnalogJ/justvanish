@@ -1,0 +1,21 @@
+organization_name: Zeta Global
+website: http://www.zetaglobal.com
+contact:
+    mail:
+        - address: 3 Park Ave., 33rd Floor, New York, NY 10016-4325, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@zetaglobal.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nFor deterministic (fully identifiable) data, a request can be made here: https://privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/d0720d0f-d427-4a7d-a773-5d6793229f15.html, For programmatic data (which is maintained in a pseudonymous format), this tool enables individuals to exercise CCPA rights: https://zetaglobal.com/rights-request/ \nFor deterministic (fully identifiable) data, a request can be made here: https://privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/d0720d0f-d427-4a7d-a773-5d6793229f15.html, For programmatic data (which is maintained in a pseudonymous format), this tool enables individuals to exercise CCPA rights: https://zetaglobal.com/rights-request/ \nThe Zeta privacy policy is available here: https://zetaglobal.com/privacy-policy/"

@@ -1,0 +1,24 @@
+organization_name: Reveal Mobile
+website: https://revealmobile.com/
+contact:
+    mail:
+        - address: 3344 Hillsborough St, Suite 200, Raleigh, NC 27607, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@revealmobile.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    https://revealmobile.com/ccpa/
+    https://revealmobile.com/ccpa/
+    https://revealmobile.com/privacy

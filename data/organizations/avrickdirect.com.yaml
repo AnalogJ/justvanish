@@ -1,0 +1,24 @@
+organization_name: Avrick Direct, Inc.
+website: https://avrickdirect.com/
+contact:
+    mail:
+        - address: 7120 185TH AVE NE, REDMOND, WA 98052, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy.compliance@avrickdirect.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers can submit CCPA requests through our link at http://privacy.avrickdirect.com/request/opt-out, by emailing privacy.compliance@avrickdirect.com or by visiting www.AvrickDirect.com and reviewing our Privacy Policy.
+    Consumers can submit CCPA requests through our link at http://privacy.avrickdirect.com/request/opt-out, by emailing privacy.compliance@avrickdirect.com or by visiting www.AvrickDirect.com and reviewing our Privacy Policy.
+    Consumers can visit www.AvrickDirect.com and review our Privacy Policy as well as our Consumer Information link.

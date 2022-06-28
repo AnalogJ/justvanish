@@ -1,0 +1,24 @@
+organization_name: First Direct, Inc.
+website: http://www.firstdirectmarketing.com
+contact:
+    mail:
+        - address: 1508 J F Kennedy Dr, Suite 103, Bellevue, NE 68005, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: support@firstdirectmarketing.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers can directly go to https://alerts.com/ and both search and submit requests.
+    The consumer can go directly to https://alerts.com/ and request deletion of their information.
+    Consumers can refer to our published privacy policy at : https://www.firstdirectmarketing.com/privacy-policy/

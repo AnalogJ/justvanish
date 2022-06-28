@@ -1,0 +1,23 @@
+organization_name: Cross Pixel Media, Inc.
+website: http://www.crosspixel.net
+contact:
+    mail:
+        - address: 1815 Purdy Avenue, Miami Beach, FL 33139, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@crosspixel.net
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    https://privacy.crsspxl.com/optout, https://www.privacyrights.info/
+    https://privacy.crsspxl.com/cookie

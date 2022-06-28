@@ -1,0 +1,21 @@
+organization_name: 'LiveIntent, Inc. '
+website: https://www.liveintent.com/
+contact:
+    mail:
+        - address: 222 Broadway, Floor 22, New York, NY 10038, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@liveintent.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers may opt out of sales or submit requests under the CCPA through any of our publishing or advertising partners who have a direct relationship with the consumer through a variety of methods that pass the consumer's privacy preference to opt out of sale onto LiveIntent. In addition, consumers can choose to opt out of sale via LiveIntent’s privacy portal at privacy.liveintent.com.  , \nConsumers may request the deletion of information through one of our publishing or advertising partners who have a direct relationship with the consumer through a variety of methods to pass the deletion requests onto LiveIntent. In addition, consumers can choose to submit a deletion request directly to LiveIntent via LiveIntent’s privacy portal at privacy.liveintent.com. , \n"

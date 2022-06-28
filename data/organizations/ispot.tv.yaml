@@ -1,0 +1,24 @@
+organization_name: iSpot.tv
+website: https://www.ispot.tv/
+contact:
+    mail:
+        - address: 15831 NE 8th Street, Suite 100, Bellevue, WA, WA 98008, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@ispot.tv
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may opt out by following this link: https://www.ispot.tv/privacy/opt-out.
+    California residents with rights under the CCPA, may contact iSpot by email to privacy@ispot.tv or by calling 1-888-671-6860 for access, deletion requests, and right to be forgotten requests.
+    iSpot provides measurement and analytics services that enable advertisers to understand the effectiveness of their TV ad campaigns. iSpot’s clients collect data from consumers that interact with them through web browsers & mobile devices. Clients provide this consumer data to iSpot and iSpot uses the data to provide the services. iSpot also acquires TV viewing data from companies that manufacture smart TVs.

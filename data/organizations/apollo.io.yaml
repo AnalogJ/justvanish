@@ -1,0 +1,21 @@
+organization_name: Apollo.io
+website: https://www.apollo.io
+contact:
+    mail:
+        - address: 101 Montgomery Street, Suite 400, San Francisco, CA 94104, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: tim@apollo.io
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nThey may visit the url https://www.apollo.io/claim/person to submit a request to claim their profile. Afterwards, we will verify their information, and if verified, we will respond accordingly (opt-out, provide information we have about them, etc.). They may also email us at privacy@apollo.io with a specific request. \nThey may visit the url https://www.apollo.io/claim/person to submit a request to remove their profile.  Afterwards, we will verify their information, and if verified, we will delete any information posted online as well as opt them out of sales. They may also email us at privacy@apollo.io with a specific request. \n"

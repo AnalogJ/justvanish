@@ -1,0 +1,23 @@
+organization_name: 'American City Business Journals, Inc. '
+website: https://www.acbj.com
+contact:
+    mail:
+        - address: 120 W. Morehead St., Charlotte, NC 28202, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@bizjournals.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Through a link on our website
+    Through a link on our website

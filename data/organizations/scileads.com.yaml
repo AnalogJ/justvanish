@@ -1,0 +1,24 @@
+organization_name: SciLeads
+website: https://scileads.com/
+contact:
+    mail:
+        - address: Arnott House, Third Floor, 12-16 Bridge Street, Belfast, BT11LU, United Kingdom
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@scileads.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may opt-out by clicking on the "Do Not Sell My Info" link on the website homepage and filling out the form: https://scileads.com/opt-out/
+    To be deleted individuals can submit a verifiable request via this link https://scileads.com/opt-out/ or email legal@scileads.com
+    Our data collection practices can be located here: https://scileads.com/privacy-policy/ or https://scileads.com/terms-and-conditions/

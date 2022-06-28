@@ -1,0 +1,21 @@
+organization_name: AccuData Integrated Marketing, Inc.
+website: http://www.accudata.com
+contact:
+    mail:
+        - address: 5220 Summerlin Commons Blvd., Suite 200, Fort Myers, FL 33907, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy.compliance@accudata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers can submit CCPA requests through our link http://optout.accudata.com/request/opt-out, by emailing privacy.compliance@accudata.com or by visiting www.AccuData.com and reviewing our Privacy Policy.  \nConsumers can submit CCPA requests through our link http://optout.accudata.com/request/opt-out, by emailing privacy.compliance@accudata.com or by visiting www.AccuData.com and reviewing our Privacy Policy.  \nConsumers can visit www.AccuData.com and review our Privacy Policy as well as our Consumer Information link.  "

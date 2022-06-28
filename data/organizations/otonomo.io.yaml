@@ -1,0 +1,21 @@
+organization_name: 'Otonomo Inc. '
+website: https://otonomo.io/privacy-policy/
+contact:
+    mail:
+        - address: 889 Winslow Street Suite 500, Redwood City, CA 94062, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@otonomo.io
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: ""

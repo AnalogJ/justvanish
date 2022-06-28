@@ -1,0 +1,21 @@
+organization_name: Midnight Oil Marketing Group Inc
+website: http://midnightoil.marketing
+contact:
+    mail:
+        - address: 3663 Garrison St, San Diego, CA 92106, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: support@midnightoil.marketing
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nUsers are able to submit a request using the following forms: , , https://www.midnightoil.marketing/opt-out, \nAn individual may demand deletion of information using this form:, , https://www.midnightoil.marketing/remove-my-data\nhttps://www.midnightoil.marketing/copy-of-privacy-policy, https://www.midnightoil.marketing/terms"

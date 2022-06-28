@@ -1,0 +1,24 @@
+organization_name: PitchBook Data, Inc.
+website: http://www.pitchbook.com
+contact:
+    mail:
+        - address: 901 Fifth Avenue, Suite 1200, Seattle, WA 98164, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@pitchbook.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    California consumers can opt out of the sale of their personal information or submit a request under the CCPA at PitchBook's parent company’s website: https://www.morningstar.com/request-data.
+    A protected individual can demand deletion of information posted online at PitchBook's parent company’s website: https://www.morningstar.com/request-data.
+    Additional information about PitchBook's data collection practices can be found in PitchBook's privacy policy: https://pitchbook.com/privacy-policy

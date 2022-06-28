@@ -1,0 +1,21 @@
+organization_name: 'Valassis Communications, Inc. '
+website: https://www.valassis.com/
+contact:
+    mail:
+        - address: 19975 Victor Parkway, Livonia, MI 48152, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@valassis.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nTo opt out of sale, CA consumers can fill out this form:  https://www.valassis.com/do-not-sell-my-personal-information/, To submit requests for other CCPA consumer rights, CA consumers can fill out this form:  https://www.valassis.com/privacy-request/, For additional information, please see our Privacy Policy:  https://www.valassis.com/legal/privacy-policy, \nWe do not post consumer information online, but CA consumers can always request that we delete their personal information by filling out this form: https://www.valassis.com/privacy-request/\nFor additional information about our data collection practices, please review our Privacy Policy:  https://www.valassis.com/legal/privacy-policy"

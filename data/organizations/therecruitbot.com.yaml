@@ -1,0 +1,21 @@
+organization_name: RecruitBot, Inc.
+website: http://www.therecruitbot.com
+contact:
+    mail:
+        - address: '149 New Montgomery St., #569, SAN FRANCISCO, CA 94105, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: accounting@therecruitbot.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers may contact us at our toll free number, at 1-888-481-6811. They may also contact us via email at privacy@therecruitbot.com, or fill out a request form at www.therecruitbot.com/opt-out/.\nProtected individuals may contact us at our toll free number, at 1-888-481-6811. They may also contact us via email at privacy@therecruitbot.com, or fill out a request form at www.therecruitbot.com/opt-out/.\nWe collect data from a variety of sources. All purchased data sources are explicitly in compliance with CCPA and GDPR. We have obtained a signed attestation from our third party vendors explicitly affirming their compliance. "

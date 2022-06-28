@@ -1,0 +1,21 @@
+organization_name: Scryer, Inc. (dba Reonomy)
+website: http://www.reonomy.com
+contact:
+    mail:
+        - address: 767 Third Avenue, New York, NY 10017, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@reonomy.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: ""

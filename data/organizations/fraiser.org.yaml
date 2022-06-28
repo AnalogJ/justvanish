@@ -1,0 +1,24 @@
+organization_name: Fraiser LLC
+website: http://www.fraiser.org
+contact:
+    mail:
+        - address: 80 M Street, Southeast, c/o Fraiser, Washington, DC 20003, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@fraiser.org
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may manage their data management preferences through Fraiser’s comprehensive privacy center: www.fraiser.org/ccpa
+    Consumers may manage their data management preferences through Fraiser’s comprehensive privacy center: www.fraiser.org/ccpa
+    Fraiser’s data collection and management practices can be located by visiting www.fraiser.org/privacy-policy

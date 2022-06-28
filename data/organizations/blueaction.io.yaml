@@ -1,0 +1,21 @@
+organization_name: Blue Action
+website: http://www.blueaction.io
+contact:
+    mail:
+        - address: '1380 Monroe St NW, #604, Washington, DC 20010, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@blueaction.io
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers may manage their data management preferences by using the \"Do Not Sell My Personal Information\" link on our website https://blueaction.io/\nConsumers may manage their data management preferences by using the \"Do Not Sell My Personal Information\" link on our website https://blueaction.io/\nOur data collection and management practices can be found on our privacy policy located on our website. "

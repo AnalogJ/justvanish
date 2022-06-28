@@ -1,0 +1,24 @@
+organization_name: Lotame Solutions, Inc.
+website: https://www.lotame.com/
+contact:
+    mail:
+        - address: 8850 Stanford Blvd, Suite 4000, Columbia, MD 21045, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@lotame.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Please visit Lotame's Privacy Center (https://www.lotame.com/about-lotame/privacy/) and our Privacy Manager, available at:, , https://www.lotame.com/about-lotame/privacy/privacy-manager-opt-out/
+    Please visit Lotame's Privacy Center (https://www.lotame.com/about-lotame/privacy/) and our Privacy Manager, available at:, , https://www.lotame.com/about-lotame/privacy/privacy-manager-opt-out/
+    Please visit Lotame's Privacy Center (https://www.lotame.com/about-lotame/privacy/) and our Privacy Manager, available at:, , https://www.lotame.com/about-lotame/privacy/privacy-manager-opt-out/

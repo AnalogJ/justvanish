@@ -1,0 +1,21 @@
+organization_name: Left Click
+website: http://www.left-click.com
+contact:
+    mail:
+        - address: 1263 First Street Southeast, 217, Washington, DC 20003, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@left-click.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nOne may opt-out in the following ways:, -Email info@left-click.com and asked to be opted-out, -Click \"Unsubscribe\" on emails, -Fill out the Opt-Out form on the website\nOne may demand deletion in the following ways:, -Email info@left-click.com and asked to be deleted, \n"

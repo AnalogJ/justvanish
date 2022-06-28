@@ -1,0 +1,21 @@
+organization_name: Slashdot Media, LLC
+website: http://www.slashdotmedia.com
+contact:
+    mail:
+        - address: 225 Broadway, Suite 1600, San Diego, CA 92101, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@slashdotmedia.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nA consumer may opt out of sale or submit requests under CCPA by (i) clicking on and completing our Do Not Sell My Information button located at the bottom of our website at www.slashdotmedia.com, (ii) emailing us at privacy@slashdotmedia.com, (iii) calling us at (800) 552-9000, or (iv) by mail at : Slashdot Media, PO Box 2452, La Jolla, CA 92038, Attention: Privacy Compliance, \nA consumer and/or protected individual can demand deletion of information by (i) clicking on and completing our Do Not Sell My Information button located at the bottom of our website at www.slashdotmedia.com, (ii) emailing us at privacy@slashdotmedia.com, (iii) calling us at (800) 552-9000, or (iv) by mail at : Slashdot Media, PO Box 2452, La Jolla, CA 92038, Attention: Privacy Compliance, \nA consumer can review the categories of personal information that we collect and our data collection practices in our Privacy Statement located at https://slashdotmedia.com/privacy-statement/."

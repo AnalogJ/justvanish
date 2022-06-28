@@ -1,0 +1,24 @@
+organization_name: NetWise
+website: https://www.netwisedata.com
+contact:
+    mail:
+        - address: 350 Camino Gardnes Blvd, Suite 202, Boca Raton, FL 33432, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@netwisedata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    https://www.netwisedata.com/consumer-privacy
+    https://www.netwisedata.com/consumer-privacy
+    https://www.netwisedata.com/privacy

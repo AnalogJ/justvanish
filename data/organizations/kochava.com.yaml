@@ -1,0 +1,23 @@
+organization_name: Kochava Inc.
+website: https://www.kochava.com
+contact:
+    mail:
+        - address: 201 Church Street, Sandpoint, ID 83864, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@kochava.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4+
+    https://www.kochava.com/support-privacy/#kochava-collective
+

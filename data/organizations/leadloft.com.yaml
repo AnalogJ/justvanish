@@ -1,0 +1,24 @@
+organization_name: LeadLoft Inc.
+website: https://www.leadloft.com/
+contact:
+    mail:
+        - address: '4712 Admiralty Way #1116, Marina Del Rey, CA 90292, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@leadloft.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers can opt out of sale or submit requests by visiting https://www.leadloft.com/user-agreements/personal-data and completing the online form.
+    Consumers can request deletion by visiting https://www.leadloft.com/user-agreements/personal-data and completing the online form, or contacting LeadLoft at privacy@leadloft.com.
+    Please see LeadLoft's Privacy Policy online at https://www.leadloft.com/user-agreements/privacy-policy for more information on data collecting practices.

@@ -1,0 +1,21 @@
+organization_name: 'Giant Partners, Inc '
+website: http://giantpartners.com
+contact:
+    mail:
+        - address: 1461 Lawrence Dr, 2nd Floor, Thousand Oaks, CA 91320, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: compliance@giantpartners.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nOur Website has been updated with CCPA verbiage, forms and phone number(s) as required by the California Consumer Protection Act.  \nOur Website has been updated with CCPA verbiage, forms and phone number(s) as required by the California Consumer Protection Act.  Once a consumer has been verified to be in our database, as required in the CCPA, verified consumers can have their information removed permanently.\n"

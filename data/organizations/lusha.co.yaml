@@ -1,0 +1,21 @@
+organization_name: Lusha Systems Inc
+website: https://www.lusha.co/
+contact:
+    mail:
+        - address: 1177 Avenue of the Americas, 5th Floor, New York, NY 10036, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@lusha.co
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nWe have dedicated \"Do Not Sell My Personal Information\" page which is available at this link: , https://dashboard.lusha.co/opt-out?ccpa=true\nOur \"Do Not Sell My Personal Information\" page is removing automatically the information from our database  , \n"

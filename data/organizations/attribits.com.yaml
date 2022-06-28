@@ -1,0 +1,23 @@
+organization_name: All Good Media, LLC
+website: http://www.attribits.com
+contact:
+    mail:
+        - address: 117 Kendrick Street, Suite 300, Needham, MA 02494, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@attribits.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    California Consumers can submit a request by email to compliance@allgoodmediagroup.com or on our website at https://www.attribits.com.
+    Protected individuals can submit a request by email to compliance@allgoodmediagroup.com or on our website at https://www.attribits.com.

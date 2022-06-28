@@ -1,0 +1,21 @@
+organization_name: Institutional Shareholder Services Inc.
+website: http://www.issgovernance.com
+contact:
+    mail:
+        - address: 702 King Farm Boulevard, Suite 400, Rockville, MD 20850, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dataprotectionofficer@issgovernance.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: ""

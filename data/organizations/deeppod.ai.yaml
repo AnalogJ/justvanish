@@ -1,0 +1,23 @@
+organization_name: DeepPod
+website: http://deeppod.ai
+contact:
+    mail:
+        - address: 250 Treeline park 1209, San Antonio, TX 78209, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: discover@deeppod.ai
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Please mail requests to , , Attn: DeepPod Privacy Request, 989 S Santa Fe Ave, Los Angeles, CA 90021, , Or email, , Discover@deeppod.ai
+    Please request deletion via email or via USPS mail , , Email discover@deeppod.ai , Subject: CCPA Privacy Request

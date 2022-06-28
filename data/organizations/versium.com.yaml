@@ -1,0 +1,21 @@
+organization_name: Versium
+website: http://www.versium.com
+contact:
+    mail:
+        - address: 7530 164th Ave NE, A204, Redmond, WA 98052, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@versium.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers may opt out via email to optout@versium.com, webform at https://versium.com/ccpa-opt-out, or by calling 1-800-395-0164.\nConsumers may demand deletion of information via email to optout@versium.com, webform at https://versium.com/ccpa-opt-out, or by calling 1-800-395-0164. \nFor information on data collecting practices, please see our Privacy Notice for California Residents at https://versium.com/ccpa-privacy-policy."

@@ -1,0 +1,31 @@
+organization_name: Experian Health, Inc.
+website: https://www.experian.com/healthcare/
+contact:
+    mail:
+        - address: 720 Cool Springs Blvd., Suite 200, Franklin, TN 37067, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 475 Anton Blvd, Costa Mesa, CA 92626, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 955 American Lane, Schaumburg, IL 60173, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacyrequests@experian.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nTo exercise the right to opt out of the sale of information or submit a request under CCPA an consumer may contact Experian in the following way, as further described below:, •Online at experian.com/ccpa, •By phone at 1-833-210-4615, •By mail at PO Box 703, Allen, TX 75013, A consumer may also visit our Privacy Policy at https://www.experian.com/privacy/ccpa-privacy-policy, \nExperian does not engage in any practice subject to these laws. \n\nTo exercise the right to opt out of the sale of information or submit a request under CCPA an consumer may contact Experian in the following way, as further described below:, •Online at experian.com/ccpa, •By phone at 1-833-210-4615, •By mail at PO Box 703, Allen, TX 75013, A consumer may also visit our Privacy Policy at https://www.experian.com/privacy/ccpa-privacy-policy\nExperian does not engage in any practice subject to these laws. \n\nTo exercise the right to opt out of the sale of information or submit a request under CCPA an consumer may contact Experian in the following way, as further described below:, •Online at experian.com/ccpa, •By phone at 1-833-210-4615, •By mail at PO Box 703, Allen, TX 75013, A consumer may also visit our Privacy Policy at https://www.experian.com/privacy/ccpa-privacy-policy\nExperian does not engage in any practice subject to these laws. \n"

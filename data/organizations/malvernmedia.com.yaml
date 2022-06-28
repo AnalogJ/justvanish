@@ -1,0 +1,24 @@
+organization_name: Malvern Media Inc.
+website: http://www.malvernmedia.com
+contact:
+    mail:
+        - address: '1060 N. Paulina St., #3, Chicago, IL 60622, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@malvernmedia.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A consumer may opt out out of the sale of their personal information by submitting a request to unsubscribe@malvernmedia.com or write us at: , Malvern Media Inc., Attn: Privacy & Compliance Department , 1060 N. Paulina St. #3 , Chicago IL 60622
+    We do not post information online for public view. If a consumer wishes to have their information deleted they may submit a request to unsubscribe@malvernmedia.com or write us at: , Malvern Media Inc., Attn: Privacy & Compliance Department , 1060 N. Paulina St. #3 , Chicago IL 60622
+    For further information about our data collecting practices please see our Privacy Policy at: https://www.malvernmedia.com/privacy-policy

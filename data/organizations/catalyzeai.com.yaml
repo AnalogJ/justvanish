@@ -1,0 +1,21 @@
+organization_name: Catalyze AI, Inc
+website: http://www.catalyzeai.com
+contact:
+    mail:
+        - address: 1925 Century Park E Suite 1700, Los Angeles, CA 90067, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@catalyzeai.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nA consumer may opt out with a Do Not Sell My Info button at the bottom of our website.\nA consumer may demand deletion of informatin with a Do Not Sell My Info button at the bottom of our website.\nWe plug into several data providers (Experian, etc). We have made sure that they all have 100% legal practices in this data collection. "

@@ -1,0 +1,23 @@
+organization_name: BIGDBM
+website: http://www.bigdbm.com
+contact:
+    mail:
+        - address: 19707 TURNBERRY WAY, APT 4H, Aventura, FL 33180, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@bigdbm.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    To opt out of the sale of personal information or submit other CCPA requests, consumers may visit the web-based portal BIGDBM created at http://optoutccpa.com/ or complete the Personal Information Request Form available from https://www.bigdbm.com/privacy.html
+    To request deletion of personal information, protected individuals may visit the web-based portal BIGDBM created at http://optoutccpa.com/ or complete the Personal Information Request Form available from https://www.bigdbm.com/privacy.html

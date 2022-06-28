@@ -1,0 +1,21 @@
+organization_name: ResearchUSA
+website: http://researchusallc.com/
+contact:
+    mail:
+        - address: 11133 O Street, Omaha, NE 68137, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@researchusallc.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nPlease go to https://ccpa-optout.com/rsusa/ to begin the process. \nPlease go to https://ccpa-optout.com/rsusa/ to begin the process. \nOur Consumer Database is compiled from public and self-reported data sources to be used for Business to Consumer marketing purposes.  ResearchUSA does NOT compile or possess any of the following sensitive personal information:  Driver’s License Information, Passport/Visa Numbers, State ID Information, Student Information, Social Security Numbers, Sexual Orientation Preferences, Credit/Debit Card Numbers, Private Medical/Health Records, Bank Account Numbers, Salary/Payroll/Benefit Data, PIN Numbers, Frequent Flyer Numbers, Exact FICO Scores/Credit Rating, Medical Insurance Information, Personal Account Numbers, Logon ID’s and Passwords, Biometric Data (Fingerprints, Facial Recognition, DNA, Retina Patterns, Blood Types or Signatures)."

@@ -1,0 +1,24 @@
+organization_name: ShareThis, Inc
+website: https://sharethis.com/
+contact:
+    mail:
+        - address: 3000 El Camino Real, 5 Palo Alto Square Suite 150, Palo Alto, CA 94306, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@sharethis.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Opt out requests may be made here:  https://sharethis.com/do-not-sell-my-data-page/
+    Information on Data Subject Requests can be found here: https://sharethis.com/ccpa-gdpr-data-subject-access-request-page/
+    Information on ShareThis data collection can be found here: https://sharethis.com/privacy/

@@ -1,0 +1,24 @@
+organization_name: SafeGraph Inc.
+website: http://www.safegraph.com
+contact:
+    mail:
+        - address: 1543 Mission St., Ste 300, SAN FRANCISCO, CA 94103-2512, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@safegraph.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may opt out of sale or submit requests to SafeGraph by submitting their email and Advertising ID number here: https://www.safegraph.com/do-not-sell-my-info
+    SafeGraph does not display or permit the display of such information, or operate a website that involves user generated content.
+    Additional information about SafeGraph's data collection practices can be found here: https://www.safegraph.com/ccpa-privacy-policy

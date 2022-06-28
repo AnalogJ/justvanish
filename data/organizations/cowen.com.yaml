@@ -1,0 +1,24 @@
+organization_name: Kyber Health Data LLC
+website: https://www.cowen.com/capabilities/kyber-data/
+contact:
+    mail:
+        - address: 599 Lexington Avenue, 20th Floor, New York, NY 10022, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: kyberccpa@cowen.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may submit requests to opt-out of a "sale" here: https://www.cowen.com/kyber-data-science-disclosures/do-not-sell-my-information-request-form/ and may submit requests under the CCPA to KyberCCPA@cowen.com or by calling 800-648-1158.
+    Not applicable. Kyber Health Data LLC does not post this type of information online.
+    Certain of Kyber Health Data LLC’s data products include limited personal information related to professional activities of health care providers who reside in California. Kyber does not meet the definition of a “data broker” as it pertains to information about other California residents, including patients. More information is available here: https://www.cowen.com/kyber-data-science-disclosures/kyber-privacy-supplement/.

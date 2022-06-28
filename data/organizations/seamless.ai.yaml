@@ -1,0 +1,21 @@
+organization_name: Seamless Contacts, Inc. d/b/a Seamless.AI or Seamless AI
+website: https://www.seamless.ai/about
+contact:
+    mail:
+        - address: 7652 Sawmill Road, Suite 341, Dublin, OH 43016, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: 'privacy@seamlessleads.com '
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nIndividuals may opt-out by using opt out request form located at https://login.seamless.ai/personalDataRequest. They may opt-out of the inclusion of an individual profile from Seamless.AI’s directory or search engine by emailing privacy@seamlessleads.com with the subject line “Remove.”\nIndividuals may opt-out or delete their information by using opt out request form located at https://login.seamless.ai/personalDataRequest. They may opt-out of the inclusion of an individual profile from Seamless.AI’s directory or search engine by emailing privacy@seamlessleads.com with the subject line “Remove.”\nYou may read more about Seamless.AI’s privacy practices in their Privacy Policy (available at https://www.seamless.ai/privacypolicy/) and California Consumer Privacy Policy (available at https://www.seamless.ai/california-consumer-privacy-act-policy/). "

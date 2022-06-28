@@ -1,0 +1,24 @@
+organization_name: Wunderkind Corporation
+website: https://www.bouncex.com/
+contact:
+    mail:
+        - address: 285 Fulton St, 74th Floor, New York, NY 10007, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@bouncex.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Information about how California consumers can opt out of the sale of their personal information or submit requests can be found here: https://www.bouncex.com/privacy/data-request-instructions/
+    Information about how a protected individual can demand deletion of information posted online can be found here: https://www.bouncex.com/privacy/data-request-instructions/
+    Additional information about BounceX's data collection practices can be found in BounceX's privacy policy: https://www.bouncex.com/privacy/

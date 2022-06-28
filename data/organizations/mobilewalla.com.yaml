@@ -1,0 +1,21 @@
+organization_name: Mobilewalla, Inc.
+website: https://www.mobilewalla.com
+contact:
+    mail:
+        - address: 5170 Peachtree Road, Building 100, STE 100, Chamblee, GA 30341, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ccpacompliance@mobilewalla.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nOn our website in multiple places including https://www.mobilewalla.com/california-residents-do-not-sell-my-personal-information, \nOn our website in multiple places including https://www.mobilewalla.com/california-residents-do-not-sell-my-personal-information\non our website https://www.mobilewalla.com/business-services-privacy-policy"

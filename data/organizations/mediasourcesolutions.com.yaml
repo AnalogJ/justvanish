@@ -1,0 +1,23 @@
+organization_name: Media Source Solutions
+website: http://mediasourcesolutions.com
+contact:
+    mail:
+        - address: 27 SE 24th Avenue, Suite 6, Pompano Beach, FL 33062, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: mvolpe@mediasourcesolutions.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Please contact us at:, Media Source Solutions, Attn: Privacy Officer, 27 SE 24th Avenue, Suite 6, Pompano Beach, FL 33062, Phone: 954-788-0213, Email: privacyofficer@mediasourcesolutions.com
+    Please contact us at:, Media Source Solutions, Attn: Privacy Officer, 27 SE 24th Avenue, Suite 6, Pompano Beach, FL 33062, Phone: 954-788-0213, Email: privacyofficer@mediasourcesolutions.com

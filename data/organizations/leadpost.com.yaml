@@ -1,0 +1,24 @@
+organization_name: LeadPost, LLC
+website: http://www.leadpost.com
+contact:
+    mail:
+        - address: 4170 Manchester Avenue, 2nd Floor, St. Louis, MO 63110, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: contact@leadpost.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    You have the right to opt out from LeadPost collecting or storing any data about you.  To opt out of data collection and storage, you may visit https://www.leadpost.com/contact-us/, you may call us toll free at (866) 456-6674 or email this request to dontstore_mydata@LeadPost.com.
+    -You have the right to request the deletion of all data that has been collected and stored about you by LeadPost.  To request permanent deletion of this data, you may visit https://www.leadpost.com/contact-us/, you may call us toll free at (866) 456-6674 or email this request to delete_mydata@LeadPost.com.
+    https://leadpost.com/ccpa-privacy-notice/

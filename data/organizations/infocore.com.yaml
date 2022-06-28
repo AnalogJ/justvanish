@@ -1,0 +1,23 @@
+organization_name: Infocore, Inc.
+website: http://www.infocore.com
+contact:
+    mail:
+        - address: 2766 Gateway Rd, Carlsbad, CA 92009, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@infocore.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    This is the link to our privacy policy , , https://infocore.com/infocore-privacy-policy/
+    Infocore receives, processes, and uses data owned by business(es) on behalf of the business(es) and to which the business(es) disclose to Infocore consumer personal information for a business purpose under written contracts.  The written contracts prohibit Infocore from retaining, using or disclosing consumer personal information for any purpose other than for the specific purpose of performing the services specified in the contract for the business as permitted by the Act.  The contracts do not provide Infocore with the right to disclose or delete any personal information to any consumer.  Indeed, Infocore may lack critical information necessary to verify that a request to know or a request to delete is from a consumer., , Please note that Infocore cannot respond to requests from third parties or bots because Infocore cannot verify that the consumer is the one making the consumer request.

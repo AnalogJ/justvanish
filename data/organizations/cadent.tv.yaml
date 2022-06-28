@@ -1,0 +1,24 @@
+organization_name: Cadent, LLC
+website: https://www.cadent.tv
+contact:
+    mail:
+        - address: 1675 Broadway 22nd Floor, New York, NY 10019, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@cadent.tv
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    https://cadent.tv/privacy-policy
+    https://cadent.tv/privacy-policy
+    https://cadent.tv/privacy-policy

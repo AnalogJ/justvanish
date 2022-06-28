@@ -1,0 +1,23 @@
+organization_name: SMA Communications, LLC.
+website: http://www.smacomm.com
+contact:
+    mail:
+        - address: 6853 SW 18th Street, Suite M200, Boca Raton, FL 33433, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: steven@smacomm.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    A consumer can opt out via US Mail or via an opt out link.
+    A protected individual can demand deletion via an opt out link or via the US Mail

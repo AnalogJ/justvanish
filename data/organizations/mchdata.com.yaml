@@ -1,0 +1,21 @@
+organization_name: MCH Strategic Data
+website: http://www.mchdata.com
+contact:
+    mail:
+        - address: 601 East Marshall Street, Sweet Springs, MO 65351, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@mchdata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nInformation can be found at https://www.mchdata.com/about/ccpaemail or call us directly at 800 776-6373\nInformation can be found at https://www.mchdata.com/about/ccpaemail or call us directly at 800 776-6373\nMCH Strategic Data is a 90-year-old family business that specializes in business to business data compilation for the market segments of education, healthcare, church and government work address contact information.  MCH does not make a practice of compiling personal information on individuals beyond their job titles and work department-level information.  Personally descriptive information (age, income, etc)  is \"not\" found in MCH databases.  "

@@ -1,0 +1,21 @@
+organization_name: Outlogic, LLC
+website: https://outlogic.io/
+contact:
+    mail:
+        - address: P.O. Box 17247, Arlington, VA 22216, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@outlogic.io
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nAny individual may submit a request to opt-out via the publicly available webform at this URL:  https://outlogic.io/opt-out-form/, or may make an opt out request by calling toll free at +1 (830) 423-5996 or sending an email to privacy@outlogic.io. \nAny individual may submit a deletion request by calling toll free at +1 (830) 423-5996 or sending an email to privacy@outlogic.io.  Outlogic may request additional information to verify deletion requests from an individual as necessary.\nAdditional information about Outlogic's data collection practices may be found on our website at https://outlogic.io/privacy-policy/. "

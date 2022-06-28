@@ -1,0 +1,21 @@
+organization_name: LocateSmarter, LLC
+website: http://www.locatesmarter.com
+contact:
+    mail:
+        - address: 1309 Technology Parkway, Suite 101, Cedar Falls, IA 50613, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@locatesmarter.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nTo opt out of a sale or submit other requests under the CCPA, consumers can visit https://www.locatesmarter.com/privacy-policy/ for detailed instructions on how they can opt out and manage certain collection and sharing of information in connection with our services. Specifically, to opt out of a sale of personal information, consumers may submit an opt-out form on our website using the following link, https://www.locatesmarter.com/request-to-opt-out-do-not-sell-my-personal-information/, or via phone at 877-815-2268. \nA deletion request may be submitted using the following link,https://www.locatesmarter.com/request-to-opt-out-do-not-sell-my-personal-information/, or via phone at 877-815-2268. Consumers may visit https://www.locatesmarter.com/privacy-policy/ for detailed instructions on deletion requests. In order to ensure that the person making the request to delete a consumer’s information is authorized to do so, the requester must provide information such as a full name, mailing address, and last four digits of social security number. \nLocateSmarter, LLC offers innovative and customizable data solutions and analytics for clients in a variety of industries, with a focus on location and contact services, fraud identification and detection, and compliance products. For more information about LocateSmarter’s practices, please see our privacy policy at https://www.locatesmarter.com/privacy-policy/."

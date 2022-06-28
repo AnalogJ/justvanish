@@ -1,27 +1,24 @@
-organization_name: 'Telefi LLC'
-website: 'https://www.telefi.app'
+organization_name: ContactOut
+website: https://contactout.com/
 contact:
-  mail:
-    - address: |
-        934 Howard St
-        San Francisco, CA
-        94103
-        United States
-      usage:
-        - request.ccpa
-        - delete.ccpa
-  email:
-    - address: support@contactout.com
-      usage:
-        - request.ccpa
-        - donotsell.ccpa
-        - delete.ccpa
-
+    mail:
+        - address: 934 Howard St, San Francisco, CA 94103, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: support@contactout.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
 organization_type:
-  - databroker
-
+    - databroker
 regulation:
-  - ccpa
-
-notes: 'An in-depth discussion of ContactOuts data collection practices can be found at: https://contactout.com/privacy_data_subjects'
-
+    - ccpa
+notes: |4-
+    California consumers may opt out of the sale of their personal information by submitting an online request to https://contactout.com/optout. Consumers may also submit an email request to support@contactout.com
+    California consumers may opt out of the sale of their personal information by submitting an online request to https://contactout.com/optout. Consumers may also submit an email request to support@contactout.com
+    An in-depth discussion of ContactOut's data collection practices can be found at: https://contactout.com/privacy_data_subjects

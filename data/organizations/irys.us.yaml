@@ -1,0 +1,21 @@
+organization_name: 'Irys '
+website: https://irys.us/
+contact:
+    mail:
+        - address: 244 5th avenue, suite N238, New York City, NY 10031, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@irys.us
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nIrys maintains a unique email address for all privacy related requests at privacy@irys.us. Users may also click on a \"Do Not Sell My Personal Information\" link in the footer of each page of our website which contains instructions on how to retrieve a consumer's Device Identifier and share it with Irys via email at privacy@irys.us. \nIrys does not publish or otherwise make publicly available home addresses. In order for an individual to be reidentified, a party must have the mobile Device Identifier and precise geolocation coordinates (latitude and longitude). Any consumer may email Irys at privacy@irys.us to submit a general request to delete their personal information. All requests to delete information must be verified for legitimacy and identity. In the event a consumer request to delete data is verified, Irys deletes personal information associated with the consumer's Device Identifier from active systems. Backups age out naturally when they are overwritten. \nIrys works with mobile app developers, ad networks, and data providers to collect precise geolocation data in order to provide foot traffic and other location analytics products. Irys also creates audiences that include visitation data for other parties by analyzing raw precise geolocation data and adding various proprietary insights to create data products. For more information on how data is collected, please see https://irys.us/privacy-policy."

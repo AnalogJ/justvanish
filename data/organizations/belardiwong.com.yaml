@@ -1,0 +1,23 @@
+organization_name: Belardi Wong
+website: http://www.belardiwong.com
+contact:
+    mail:
+        - address: 39 Broadway, Floor 32, New York, NY 10006, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: jason.bier@alc.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    By visiting www.belardiwong.com and submitting web form OneTrust requests.
+    By visiting the privacy policy of www.belardiwong.com.

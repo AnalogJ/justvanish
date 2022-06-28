@@ -1,0 +1,23 @@
+organization_name: Infutor Data Solutions LLC
+website: https://infutor.com/
+contact:
+    mail:
+        - address: One Lincoln Center, 18W140 Butterfield Rd. Ste 1020, Oakbrook Terrace, IL 60181, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: infutorvendorinfo@infutor.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Consumers should go to https://privacy.infutor.com/ to submit CCPA requests. Consumers may also call (866) 207-1399 or email compliance@infutor.com
+    Consumers should go to https://privacy.infutor.com/ to submit CCPA requests. Consumers may also call (866) 207-1399 or email compliance@infutor.com

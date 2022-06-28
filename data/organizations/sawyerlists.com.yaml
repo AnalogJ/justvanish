@@ -1,0 +1,23 @@
+organization_name: Sawyer Lists, LLC
+website: http://www.sawyerlists.com
+contact:
+    mail:
+        - address: 2910 E. 57th Ave, Ste 5-135, Spokane, WA 99223, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: admin@sawyerdatadirect.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Go to www.sawyerlists.com or call 800-327-3595
+    Go to www.sawyerlists.com or call 800-327-3595

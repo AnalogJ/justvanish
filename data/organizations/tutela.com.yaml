@@ -1,0 +1,21 @@
+organization_name: Tutela Technologies Ltd.
+website: https://www.tutela.com/
+contact:
+    mail:
+        - address: 838 Fort Street, 320, Victoria, BC V8W 1H8, Canada
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: data.protection.officer@tutela.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nTo opt out of sale, or submit any other request under the CCPA, California residents or their Authorized Agents may use the webform available at: https://www.tutela.com/opt-out\nNot applicable, \nTutela is a world leader in improving wireless networks based on users’ perspective of performance., , We typically use data to identify areas where there are poor WiFi or cellular signals so that wireless carriers can fix their network issues and improve performance for their subscribers. , , For further information about Tutela’s data practices please see the Tutela Privacy Charter available at: https://tute.la/privacy"

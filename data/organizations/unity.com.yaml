@@ -1,0 +1,21 @@
+organization_name: Unity Technologies SF
+website: https://unity.com/
+contact:
+    mail:
+        - address: 30 3rd Street, San Francisco, CA 94103, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dpo@unity3d.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nWe have provided instructions to opt-out and obtain data reports at https://unity3d.com/legal/do-not-sell-my-personal-information.  \nSubmit a request to dpo@unity3d.com\nPlease see our privacy policy at https://unity3d.com/legal/privacy-policy"

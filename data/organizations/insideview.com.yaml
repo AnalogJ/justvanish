@@ -1,0 +1,24 @@
+organization_name: InsideView
+website: http://www.insideview.com
+contact:
+    mail:
+        - address: 680 Folsom, Suite 400, San Francisco, CA 94107, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@insideview.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may contact us at privacy@insideview.com or use the links on our privacy policy
+    Consumers may contact us at privacy@insideview.com or use the links on our privacy policy.
+    InsideView gathers its data, insights, and connections about business users from more than 40,000 sources and 400 million company and contact records, using multiple data gathering methodologies to take advantage of the strengths of each. The data is curated from many different types of media: news, specialty data vendors, social media, web, crowd-sourcing, and more. Our reputable sources include: Thomson Reuters, Capital IQ (a Standard & Poor’s Company), Equifax, Facebook, Twitter, InsideView user input, and many more., , Our Sources of Information, , InsideView collects information about individuals in business and companies from a variety of publicly available and other sources, such as company websites, company blogs, non-confidential corporate records or reports (for example SEC filings, commercial registers), press releases, news articles, magazines, social media sites, and other content published by or on behalf of a company or published by data brokers or third parties in accordance with their terms and conditions for the collection, disclosure and sharing of information., , InsideView also collects information about individuals and companies from government publications in accordance with their terms and conditions for the disclosure and sharing of information., , Finally, InsideView may also receive some information directly from the individual or company whose Profile is featured in our Database. Subscribers who know facts about a particular individual or company may contribute some information to our Database about that individual (name, title, email, phone, social profile link (Facebook and Twitter)) or company (name, URL, address, phone, industry, revenue, employee count) if they desire. This information provided is only used for the sole purpose of completing your request or for whatever reason it may have been provided. InsideView confirms where possible accuracy of information provided as described above by individuals, companies, subscribers and other third parties before it is added to the Database and Profiles.

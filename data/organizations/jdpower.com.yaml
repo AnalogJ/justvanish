@@ -1,0 +1,21 @@
+organization_name: J.D. Power
+website: http://jdpower.com
+contact:
+    mail:
+        - address: 30870 Russell Ranch Rd, Suite 300, Westlake Village, CA 91362, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: laszlo.kupan@jdpa.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nCalifornia consumers may opt out of sale or submit requests under the CCPA by submitting a request through the online forms available at jdpower.com/Privacy/California/DSAR or by calling the toll-free number at (866) 467-8688 x327. \nA protected individual can submit a request to jdpowerprivacy@jdpa.com or call (888) 537-6937.\nMore information about the company’s privacy practices is available at jdpower.com/privacy.  "

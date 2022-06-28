@@ -1,0 +1,24 @@
+organization_name: InMarket Media LLC
+website: http://www.inmarket.com
+contact:
+    mail:
+        - address: '11111 Jefferson Blvd., #5243, Culver City, CA 90231, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@inmarket.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Opt-out requests can be submitted by email to privacy@inmarket.com or via this form which we link to in our Privacy Policy: https://inmarket2.wpengine.com/opt-out/. All requests under the CCPA can be submitted by following the links included in our Privacy Policy or emailing privacy@inmarket.com. Requests to Access Information can be submitted through our toll free number: 1-888-506-4042.
+    Deletion requests can be submitted via the InMarket website: https://inmarket2.wpengine.com/delete-my-personal-information/ (a link is included in our Privacy Policy) or by emailing privacy@inmarket.com
+    InMarket's data collection practices are described in our Privacy Policy: https://inmarket.com/privacy/

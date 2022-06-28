@@ -1,0 +1,24 @@
+organization_name: Pipl, Inc.
+website: https://pipl.com/
+contact:
+    mail:
+        - address: 510 Clearwater Loop, Ste 100, Post Falls, ID 83854, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: susan.haddad@pipl.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A consumer may opt out either by submitting a form on our website or by telephone.
+    We don't post on the Internet or publicly display the personal information of any consumer.
+    our practices are outlined in our privacy center on our Website. California residents are directed to a special URL that includes our CCPA privacy statement.

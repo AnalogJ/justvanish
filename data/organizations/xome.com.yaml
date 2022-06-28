@@ -1,0 +1,21 @@
+organization_name: 'Xome Inc. '
+website: http://www.xome.com
+contact:
+    mail:
+        - address: 750 Highway 121 Bypass, Suite 100, Lewisville, TX 75067, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: licensing@xome.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nAll relevant CCPA-related requests are facilitated through our website.  \nA protected individual can contact us through our website to request certain information posted online be removed.  \nWe license real estate information found in broker-owned Multiple Listing Service(s). While not wholly government records, the information is generally in the public domain.    "

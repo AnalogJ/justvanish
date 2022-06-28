@@ -1,0 +1,21 @@
+organization_name: AcademixDirect, Inc
+website: https://www.degree.me/
+contact:
+    mail:
+        - address: '548 Market St #33674, San Francisco, CA 94104, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: admin@academixdirect.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nNavigate to the Privacy Notice for California Residents on our website, which details categories of information we collect, use of personal information, sharing personal information, and the consumer's rights and choices.  Under \"Your Rights And Choices\" a clickable link to submit a verifiable User request form, a toll-free number, email and physical address is provided to the consumer to opt out of sale or submit requests under CCPA\nNavigate to the Privacy Notice for California Residents on our website, which details categories of information we collect, use of personal information, sharing personal information, and the consumer's rights and choices.  Under \"Exercising Access, Data Portability and Deletion Rights\" a clickable link to submit a verifiable User request form, a toll-free number, email and physical address is provided to the consumer to opt out of sale or submit requests under CCPA\nNavigate to the Privacy Notice for California Residents on our website, which details categories of information we collect, use of personal information, sharing personal information, and the consumer's rights and choices.  "

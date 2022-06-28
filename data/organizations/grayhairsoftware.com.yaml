@@ -1,0 +1,23 @@
+organization_name: GrayHair Software, LLC
+website: http://www.grayhairsoftware.com
+contact:
+    mail:
+        - address: 1 SE Ocean Blvd, Stuart, FL 34994, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@grayhairsoftware.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Send an email to privacy@grayhairsoftware.com and request a deletion request form. Fill out the form and return it to privacy@grayhairsoftware.com. Once identity is validated, any information will be removed.
+    This does not apply to us.

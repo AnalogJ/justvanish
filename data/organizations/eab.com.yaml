@@ -1,0 +1,28 @@
+organization_name: EAB Global, Inc.
+website: http://www.eab.com
+contact:
+    mail:
+        - address: 2445 M Street NW, Washington, DC 20037, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@eab.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: legal@eab.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Completing a webform available within our online privacy page, and honoring all opt-out requests sent to EAB by collectors of the data.
+    Completing a webform available within our online privacy page, and honoring all deletion requests sent to EAB by collectors of the data.

@@ -1,0 +1,21 @@
+organization_name: STEP2SUCCESS Marketing
+website: http://www.step2successmarketing.com
+contact:
+    mail:
+        - address: 12561 Ulmerton Road, Largo, FL 33774, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: mary@step2successmarketing.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nSTEP2SUCCESS Marketing has contracted with a www.mydataprivacy.com as your compliance dashboard that provides an automated solution to CA consumers that allows them to view the information we have on them, opt out or request to be deleted. \nSTEP2SUCCESS Marketing has contracted with a www.mydataprivacy.com as your compliance dashboard that provides an automated solution to CA consumers that allows them to view the information we have on them, opt out or request to be deleted. \nSTEP2SUCCESS Marketing has contracted with a www.mydataprivacy.com as your compliance dashboard that provides an automated solution to CA consumers that allows them to view the information we have on them, opt out or request to be deleted. "

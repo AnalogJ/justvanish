@@ -1,0 +1,24 @@
+organization_name: V12 Privacy
+website: http://www.v12data.com
+contact:
+    mail:
+        - address: 90 Matawan Road, Suite 301, Matawan, NJ 07747, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: v12privacy@v12data.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Your California Privacy Rights , As a CA resident, you have the right to request that V12 disclose the categories and specific pieces of personal information the that we have collected about you.  To request this information, click on the following link:, , https://v12data.com/inbound/ccpa-form/, , Alternatively, you may call 1-866-I-OPT-OUT (1-866-467-8688), service code 225#, ,  You have the right to request that V12 delete any personal information about you that V12 has collected.  To request this information, click on the following link:, , https://v12data.com/inbound/ccpa-form/, , Alternatively, you may call 1-866-I-OPT-OUT (1-866-467-8688), service code 225#, , You have the right, at any time, to direct V12 not to sell your personal information.  To request this information, click on the following link:, , https://v12data.com/inbound/ccpa-form/
+    https://v12data.com/inbound/ccpa-form/
+    V12 collects the following categories of information about consumers:, , Personal and online identifiers;, Commercial or transactions information;, Internet activity information;, Geolocation data;, Inferences about your predicted characteristics and preferences; and, Categories of personal information described in Cal. Civ. Code § 1798.80(e)—such as telephone number, Other information about you that is linked to personal information above, such as information on individuals of recently moved, V12 collects personal information from different sources.  In the past twelve (12) months, V12 has collected personal information about consumers from the following categories of sources:, , Apparel & Accessory Companies, Automotive Companies, Business to Business Companies, Inquiries About Products or Services, Consumer Survey Companies, Surveys from Consumers/Self-Reported Data, Data Compiling Companies, Health and Wellness Product and Service Companies, Electronics Companies, Financial Services Companies, Food & Beverage Companies, Gift Product Companies, Lifestyle & Interest Product Companies, Not for Profit Organizations, Public or Government Entities, Publishing Product Companies, Telecommunications Companies, Travel, Leisure & Entertainment Companies

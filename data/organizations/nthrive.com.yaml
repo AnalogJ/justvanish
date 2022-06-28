@@ -1,0 +1,39 @@
+organization_name: Equation Consulting LLC
+website: http://www.nthrive.com
+contact:
+    mail:
+        - address: 200 North Point Center East Suite 400, Alpharetta, GA 30022, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: equation@nthrive.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: tsg@nthrive.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: tuhc@nthrive.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Send an email to equation@nThrive.com for all opt out requests.
+    Send an email to equation@nThrive.com for all opt out requests.
+
+    Send an email to tsg@nthrive.com to opt out
+    Send an email to tsg@nthrive.com to opt out
+
+    send an email to tuhc@nthrive.com to opt-out.
+    send an email to tuhc@nthrive.com to demand deletion of information.

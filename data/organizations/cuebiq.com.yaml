@@ -1,0 +1,24 @@
+organization_name: Cuebiq, Inc.
+website: http://www.cuebiq.com
+contact:
+    mail:
+        - address: 45 W 27th Street, New York, NY 10001, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@cuebiq.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may opt-out through the Cuebiq App (iTunes App store: https://apps.apple.com/vn/app/cuebiq/id1392906266 or the Google Play store: https://play.google.com/store/apps/details?id=com.cuebiq.app.data&hl=en ) or through the TrustArc app (iTunes App store: https://apps.apple.com/us/app/truste/id551047372#?platform=iphone or the Google Play store: https://play.google.com/store/apps/details?id=com.truste.mobile.consumer). You may also submit a request on our website: https://www.cuebiq.com/privacy-request/
+    Consumers may request deletion through the Cuebiq App (iTunes App store: https://apps.apple.com/vn/app/cuebiq/id1392906266 or the Google Play store: https://play.google.com/store/apps/details?id=com.cuebiq.app.data&hl=en ) or through the TrustArc app (iTunes App store: https://apps.apple.com/us/app/truste/id551047372#?platform=iphone or the Google Play store: https://play.google.com/store/apps/details?id=com.truste.mobile.consumer). You may also submit a request on our website: https://www.cuebiq.com/privacy-request/
+    For additional information on our privacy practices, please visit our Privacy Center: https://www.cuebiq.com/about/privacy-commitment/

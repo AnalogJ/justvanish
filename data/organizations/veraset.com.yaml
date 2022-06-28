@@ -1,0 +1,24 @@
+organization_name: Veraset
+website: http://www.veraset.com
+contact:
+    mail:
+        - address: 2810 N Church St, Num 38188, Wilmington, DE 19802, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@veraset.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may opt out by submitting their email and mobile advertising ID number here: https://www.veraset.com/do-not-sell-my-info
+    Veraset does not display or permit the display of such information, or operate a website that involves user generated content
+    Please see https://www.veraset.com/ccpa-privacy-policy

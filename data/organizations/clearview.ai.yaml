@@ -1,0 +1,23 @@
+organization_name: Clearview AI, Inc.
+website: http://www.clearview.ai
+contact:
+    mail:
+        - address: 214 W 29th Street, 2nd Floor, New York, NY 10001, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: thomas@clearview.ai
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Please see our website or email privacy@clearview.ai
+    Please see our website or email privacy@clearview.ai

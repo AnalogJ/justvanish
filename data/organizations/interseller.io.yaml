@@ -1,0 +1,23 @@
+organization_name: Perf Labs, Inc. d/b/a Interseller
+website: https://www.interseller.io
+contact:
+    mail:
+        - address: '245 8th Ave #1094, New York, NY 10011, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@interseller.io
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    https://www.interseller.io/do-not-sell
+    https://www.interseller.io/do-not-sell

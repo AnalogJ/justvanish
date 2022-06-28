@@ -1,0 +1,24 @@
+organization_name: Eyeota Pte Ltd
+website: https://eyeota.com
+contact:
+    mail:
+        - address: 12a Upper Circular Road, 058410, Singapore
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@eyeota.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Instructions on how to opt out of sale or submit requests under the CCPA is available here:https://www.eyeota.com/how-to-opt-out.
+    Instructions on how individuals can request for deletion of information can be found here:https://www.eyeota.com/subject-access-request.
+    Eyeota's Privacy Center (https://www.eyeota.com/privacy-center) gives more information about how we manage our privacy compliance globally, highlight how we protect and manage personal data and provide details how you can exercise your rights as a data subject.

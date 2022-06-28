@@ -1,0 +1,21 @@
+organization_name: Dun & Bradstreet,  Inc
+website: https://www.dnb.com/utility-pages/privacy-policy.html
+contact:
+    mail:
+        - address: 103 JFK Parkway, Short Hilla, NJ 07078, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: 'privacyofficer@dnb.com '
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nA consumer may opt out of sale or submit requests under the CCPA by going to the California Resident Section of our Privacy Notice and filling out the corresponding forms: https://www.dnb.com/utility-pages/privacy-policy.html#title-twenty \nA protected individual can demand deletion of their personal information posted online by filling out a Right to Deletion Form, available at: https://www.dnb.com/utility-pages/privacy-policy.html#title-twenty \nFor additional information about our data collection practices, please see: , •\tOur Privacy Notice, available at: https://www.dnb.com/utility-pages/privacy-policy.html, •\tThe California Resident section of our Privacy Notice, available at: https://www.dnb.com/utility-pages/privacy-policy.html#title-twenty, , If you would like to see the CCPA categories of information we collect, please look under the California Resident section of our Privacy Notice for the text:, “Please see below for the categories of personal information about California consumers that we have collected, sold and disclosed for a business purpose over the past 12 months.” And click on “Additional Information”, "

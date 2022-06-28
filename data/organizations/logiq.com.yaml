@@ -1,0 +1,24 @@
+organization_name: Logiq, Inc
+website: https://www.logiq.com
+contact:
+    mail:
+        - address: 225 Thomas Ave N, c/o Logiq, Minneapolis, MN 55405, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: compliance@logiq.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Please email your requests to compliance@pushint.com, call us at (800) 916-5661, or submit a request through https://pushint.com/manage-my-data
+    Please email your requests to compliance@pushint.com, call us at (800) 916-5661, or submit a request through https://pushint.com/manage-my-data
+    We capture data from internally owned and operated websites under a variety of brands, and either provide the requested services to the customer, or distribute the data to a 3rd party to provide the required services with the customers permission.

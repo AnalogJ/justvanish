@@ -1,0 +1,24 @@
+organization_name: Alphonso Inc.
+website: http://www.alphonso.tv
+contact:
+    mail:
+        - address: 211 Hope Street, Suite 390905, Mountain View, CA 94041, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: general.counsel@alphonso.tv
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers are able to opt out by clicking the "Do Not Sell My Info" link on our website, or through our privacy center (https://alphonso.tv/privacy/ccpa/).  Both of these methods lead to our Do Not Sell form, available at https://choice.alphonso.tv/donotsell.
+    Consumers are able to request data deletion through our privacy center (https://alphonso.tv/privacy/ccpa/) which will then lead them to the specific request form available at https://choice.alphonso.tv/otherccparequests.
+    Alphonso collects television viewing information through various Smart TVs.   The collection personal information is limited to IP Addresses.

@@ -1,0 +1,23 @@
+organization_name: Datonics, LLC
+website: http://www.datonics.com
+contact:
+    mail:
+        - address: 37-18 Northern Boulevard, Suite 404, Long Island City, NY 11101, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@datonics.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    To opt out of the sale of personal information or submit other CCPA requests, consumers may visit https://www.datonics.com/do-not-sell-my-info or https://www.datonics.com/technology-privacy-policy.
+    To request deletion of personal information, please visit the “What other rights do I have to my personal information?” section of our privacy policy at https://www.datonics.com/technology-privacy-policy or email privacy@datonics.com.

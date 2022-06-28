@@ -1,0 +1,24 @@
+organization_name: Rhetorik Limited
+website: https://www.rhetorik.com/
+contact:
+    mail:
+        - address: Indigo House, Fishponds Road, Wokingham, Berkshire, RG41 2GY, United Kingdom
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@rhetorik.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may opt out via our website - https://www.rhetorik.com/do-not-sell-my-info, or via email, telephone, post or social media, If they receive an email from us, they can also opt-out via the unsubscribe link, or replying to the email.
+    A protected individual can demand deletion via our website - https://www.rhetorik.com/do-not-sell-my-info, or via email, telephone, post or social media, If they receive an email from us, they can also reply to the email to demand deletion.
+    The personal data processed by Rhetorik is limited solely to information typically found on a business card – name, company name, company address, company phone number, business email address, job title etc.

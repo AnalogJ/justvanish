@@ -1,0 +1,23 @@
+organization_name: Speedeon Data LLC
+website: https://www.speedeondata.com/
+contact:
+    mail:
+        - address: 5875 Landerbrook Dr., Suite 130, Cleveland, OH 44124, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@speedeondata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    To opt out of the sale of personal information or submit other CCPA requests, consumers may visit https://www.speedeondata.com/privacy-policy/opt-out-deletion-request/ or https://www.speedeondata.com/privacy-policy.
+    To request deletion of personal information, please visit the https://www.speedeondata.com/privacy-policy/opt-out-deletion-request/ or https://www.speedeondata.com/privacy-policy.

@@ -1,0 +1,21 @@
+organization_name: listsOnline
+website: http://www.listsonline.com
+contact:
+    mail:
+        - address: 1942 Broadway, Suite 314, Boulder, CO 80304, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacyofficer@listsonline.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nA consumer may opt out of sale or submit requests under the CCPA by emailing privacyofficer@listsonline.com or calling listsOnline at (800) 734-2275. More information is available by clicking on the “Do Not Sell My Personal Info” link at the bottom of the home page at www.listsOnline.com. \nlistsOnline does not publicly display or permit the display of any consumer information. A protected individual can demand deletion of information by emailing privacyofficer@listsonline.com or calling listsOnline at (800) 734-2275. More information is available by clicking on the “Do Not Sell My Personal Info” link at the bottom of the home page at www.listsOnline.com. \nAdditional information is available by clicking on the “Do Not Sell My Personal Info” link at the bottom of the home page at www.listsOnline.com. "

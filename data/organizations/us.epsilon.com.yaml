@@ -1,0 +1,21 @@
+organization_name: Epsilon Data Management, LLC
+website: https://us.epsilon.com/privacy-policy
+contact:
+    mail:
+        - address: 11030 Circle Point Road, Suite 110, Westminster, CO 80020, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy_eps@lionresources.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nThere are 2 methods by which a consumer may submit an opt-out of a sale request or other request under the CCPA:  , #1 - By phone, a consumer may call 1 (866)267-3861.  , #2 - By webform, a consumer may complete a form online at Epsilon.com/request., •\tIf a consumer moves or changes his/her name after opting out or after requesting to be deleted from the Epsilon database, he/she will need to submit a new request using his/her new name and/or address., \n•\tIn the ordinary course of its business, Epsilon does not publicly post or publicly display on the Internet the home address, home telephone number, or image of individuals, with the exception for employees’ pictures, posted with their knowledge., •\tNotwithstanding the preceding sentence, to the extent that an individual wishes to demand deletion of information he/she believes was posted online by Epsilon in violation of Gov. Code Sections 6208.1and 6254.21(c)(1), he/she should submit a deletion request by contacting Epsilon Privacy at privacy_EPS@lionresources.com  or at 11030 Circle Point Road, Suite 110, Westminster, CO 80020, \n1.  Epsilon had 0 security breaches during the prior 12 months. , 2.  Epsilon does not knowingly possess brokered personal information of minors., "

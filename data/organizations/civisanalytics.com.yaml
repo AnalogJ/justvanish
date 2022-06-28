@@ -1,0 +1,21 @@
+organization_name: Civis Analytics, Inc.
+website: https://www.civisanalytics.com/
+contact:
+    mail:
+        - address: 200 W Monroe St, STE 2200, Chicago, IL 60606, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dataprotection@civisanalytics.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nIf you are a California resident and would like to exercise one of your rights, please contact Civis at dataprotection@civisanalytics.com or dial (312) 985-0173 and please include one of the following in your request, “Request to Know,” or “Request to Opt-Out” in the subject line of the email communication or in the context of the voicemail message, and provide all of the following information in the body of the email or in the content of the voicemail message: (i) first name, (ii) last name, (iii) email address, and (iv) address, city, state (must be California) and zip code. California law requires us to verify the requests we receive from you when you exercise certain rights listed above, which may include sending you a letter containing your personal data and verification token to the California address you provide. We (or third parties we engage to assist us) may ask you to provide certain information to us in order for us to verify the request. \nIf you are a California resident and would like to exercise your right to “Request to Delete”, please contact Civis at dataprotection@civisanalytics.com or dial (312) 985-0173 and please include the following in your request, “Request to Delete” in the subject line of the email communication or in the context of the voicemail message, and provide all of the following information in the body of the email or in the content of the voicemail message: (i) first name, (ii) last name, (iii) email address, and (iv) address, city, state (must be California) and zip code. California law requires us to verify the requests we receive from you when you exercise certain rights listed above, which may include sending you a letter containing your personal data and verification token to the California address you provide. We (or third parties we engage to assist us) may ask you to provide certain information to us in order for us to verify the request. For Requests to Delete, we will confirm your request prior to deletion.\nhttps://www.civisanalytics.com/privacy_policy/"

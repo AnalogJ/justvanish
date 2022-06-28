@@ -1,0 +1,24 @@
+organization_name: 33Across, Inc.
+website: http://www.33across.com/
+contact:
+    mail:
+        - address: 229 W 28th Street, 4th Floor, New York, NY 10001, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@33across.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may opt out of sale by visiting our CCPA Notice at Collection policy, which details the ways in which site visitors can exercise their CCPA rights. The policy is located at https://www.33across.com/wp-content/uploads/2020/04/33Across-CCPA-Notice-Collection-Policy_US.pdf., , This page can also be accessed by clicking the "Do Not Sell My Information" link posted at the bottom of our website, www.33across.com.
+    Individuals may visit our our CCPA Notice at Collection policy, located at https://www.33across.com/wp-content/uploads/2020/04/33Across-CCPA-Notice-Collection-Policy_US.pdf to understand their options., , They can also access our User Data Portal directly, which provides the means for consumers to exercise their CCPA rights, at https://www.33across.com/user-data-portal/.
+    33Across maintains a dedicated FAQs page for CCPA, which explains our policy stance in easy-to-understand language. https://www.33across.com/ccpa/, , Consumers may also visit our general privacy policy page, to understand our stance on respecting and handling user privacy requests. https://www.33across.com/privacy-policy/.

@@ -1,0 +1,21 @@
+organization_name: NMS Data, Inc.
+website: https://www.neilsonmarketing.com/
+contact:
+    mail:
+        - address: '23172 Plaza Pointe Dr. #205, Laguna Hills, CA 92653, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: operations@neilsonmarketing.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nemail: operations@neilsonmarketing.com, telephone: (800) 736-9741 (toll-free) or (949) 472-2700, mail: NMS Data, Inc., Attention: Operations, 23172 Plaza Pointe Dr #205, Laguna Hills, CA, online: through web forms that are linked to in NMS Data, Inc.'s privacy policy \nNot applicable: NMS Data, Inc. does not publicly post online applicable information of individuals\nAdditional information can be found in NMS Data, Inc.'s privacy policy:, https://www.neilsonmarketing.com/privacy-security-policy/"

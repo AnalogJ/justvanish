@@ -1,0 +1,21 @@
+organization_name: Postie
+website: https://postie.com
+contact:
+    mail:
+        - address: 12130 Millennium Drive, 3rd Floor, Los Angeles, CA 90094, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: data@postie.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nA consumer may submit requests under the CCPA:, - Going to https://postie.com/ca_info.html, - Via telephone: 855-931-2869, - Directly at optout.postie.com/ccpa_data.html or optout.postie.com/ccpa_delete.html, , Note that, as required by law, we will require you to prove your identity. Depending on your request, we will ask for information such as your full name, email address, postal address, and other information to process a removal request or right to know request. Postie will send a validation email to the provided email with a link that must be clicked to verify the individual. This email will also contain details about the request process.\nProtected individuals may demand deletion of information through the following methods:, - Via telephone: 855-931-2869, - Directly at optout.postie.com/ccpa_data.html or optout.postie.com/ccpa_delete.html, \nInformation regarding Postie's collection and use of data can be found at:, https://postie.com/pp.html"

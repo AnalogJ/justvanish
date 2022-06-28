@@ -1,0 +1,23 @@
+organization_name: Claritas LLC.
+website: http://www.claritas.com
+contact:
+    mail:
+        - address: 8044 Montgomery Road, Suite 455, Cincinnati, OH 45236, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: al.gadbut@claritas.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    There is a link on our home page and in our privacy policy.  We also offer a 1-800 # to consumers to opt-out
+    There is a link on our home page and in our privacy policy.  We also offer a 1-800 # to consumers to request deletion

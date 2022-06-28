@@ -1,0 +1,24 @@
+organization_name: 4C Insights
+website: http://www.mediaocean.com
+contact:
+    mail:
+        - address: 120 Broadway, New York, NY 10271, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ccpa@mediaocean.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    We provide a link from our privacy notice at www.mediaocean.com/privacy-policy to a CCPA Do Not Sell Request form.  The privacy notice includes instructions for contacting Mediaocean, including an email address and a toll-free number
+    While the scope of our services do not allow for the posting of information about individuals online, individuals can use the email address and toll-free number shown in our privacy notice to exercise their rights under the CCPA.
+    Mediaocean acquired 4C Insights in July 2020 and 4C Insights are now an affiliate of Mediaocean.  4C Insights provides services to advertisers and advertising agencies allowing them to manage digital advertising campaigns.  One of the services includes the ability to use the 4C Scope platform to push lists of consumers to social media partners such as Facebook and Snapchat.  Mediaocean / 4C has no visibility of the membership of these lists which are provided as encrypted files to our system.  We do not hold encryption keys to these files and they are retained in our system for no longer than 5 days.

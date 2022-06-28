@@ -1,0 +1,24 @@
+organization_name: Effyis Inc. dba Socialgist
+website: https://socialgist.com
+contact:
+    mail:
+        - address: 700 Tower Dr., Troy, MI 48098, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@socialgist.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Data subjects can email the specific social media websites and usernames for removal to info@socialgist.com.
+    Data subjects can email the specific social media websites and usernames for removal to info@socialgist.com.
+    Data is collected from public websites for market research.

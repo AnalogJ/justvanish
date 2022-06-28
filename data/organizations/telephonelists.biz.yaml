@@ -1,0 +1,21 @@
+organization_name: Electronic Voice Services, Inc.
+website: https://www.telephonelists.biz
+contact:
+    mail:
+        - address: 8111 LYNDON B JOHNSON FWY, STE 1045, DALLAS, TX 75251, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: richard@evs7.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nBy calling 800-713-8353 or 972-713-6622, or by filling out our online request form here: https://www.evs7.com/personal-information-request\nWe don't post any personal information online for public viewing.\nWe do not collect the personal information that we sell. We purchase that from a data broker. "

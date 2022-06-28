@@ -1,0 +1,21 @@
+organization_name: TrueData Solutions, Inc.
+website: https://www.truedata.co
+contact:
+    mail:
+        - address: c/o TrueData Privacy Office, 555 W 5th Street, 35th Floor, Los Angeles, CA 90013, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@truedata.co
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers may opt-out of sale or submit requests by email (privacy@truedata.co), by webform (https://info.truedata.co/are-you-in), or by clicking the \"DO NOT SELL MY INFO\" button at the bottom of all of our webpages.\nProtected individuals may demand deletion by email (privacy@truedata.co), by webform (https://info.truedata.co/are-you-in), or by clicking the \"DO NOT SELL MY INFO\" button at the bottom of all of our webpages.  Please add a note explaining the type of request made or citing the statute so we can easily understand the purpose of the request. \nPlease see our Privacy Policy: https://www.truedata.co/privacy-policy/"

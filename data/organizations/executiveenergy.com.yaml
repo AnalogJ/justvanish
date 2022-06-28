@@ -1,0 +1,23 @@
+organization_name: All Global Resources, LLC
+website: http://www.executiveenergy.com/all-global-resources/
+contact:
+    mail:
+        - address: 6275 S. Pearl Street, Suite 100, Las Vegas, NV 89120, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: drieke@executiveenergy.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Online.
+    Online and via mail.

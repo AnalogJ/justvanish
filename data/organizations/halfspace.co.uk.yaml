@@ -1,0 +1,21 @@
+organization_name: Halfspace
+website: http://www.halfspace.co.uk
+contact:
+    mail:
+        - address: 6th Floor, 25 Farringdon Street, London, EC4A 4AB, United Kingdom
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@halfspace.co.uk
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers may email privacy@halfspace.co.uk with requests, and they may also opt out of  cookie and other ID-based data collection at https://optout.networkadvertising.org/?c=1 (the DMP that Halfspace uses for our data broker activities in Lotame, which participates in the Network Advertising Initiative).   , \nHalfspace doesn’t control websites where we post information about consumers.  However, if a consumer has any request for us, they can  email privacy@halfspace.co.uk., \nHalfspace is a marketing agency and a data processor for our clients, the data controllers.  We help them to use data platforms to collect consumer data.  The specific data that we broker is collected using Lotame DMP (data management platform), with Lotame tags on our clients’ sites.  Only users who give consent through a CMP (consent management platform) will have data collected via cookies and similar technologies.  The data that we broker is aggregated in Lotame Data Exchange and does not contain personally identifiable information such as name, date of birth or email.  More detail here:   https://halfspace.co.uk/halfspace-processor-privacy-policy/  , "

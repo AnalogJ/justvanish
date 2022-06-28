@@ -1,0 +1,24 @@
+organization_name: Grassroots Analytics
+website: http://grassrootsanalytics.com
+contact:
+    mail:
+        - address: 700 k St, ste 300, Washington, DC 20001, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ryan@grassrootsanalytics.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may use the link on our website "Do Not Sell My Personal Information" to opt out from sales.
+    Using the same link consumers have the option to demand deletion of personal information. We do not post this information publicly online.
+    Our main collection practice is purchasing data that has been obtained by campaigns.

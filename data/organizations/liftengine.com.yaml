@@ -1,0 +1,23 @@
+organization_name: Blue Hill Marketing Solutions, inc
+website: http://www.liftengine.com
+contact:
+    mail:
+        - address: LiftEngine-1 Blue Hill Plaza, PO Box 1674, Pearl River, NY 10965, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: emailprivacy@liftbasedata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Complete a form at https://www.liftbasedata.com/request-to-know/
+    https://www.liftbasedata.com/request-to-know/

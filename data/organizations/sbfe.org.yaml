@@ -1,0 +1,24 @@
+organization_name: SBFE, LLC
+website: http://www.sbfe.org
+contact:
+    mail:
+        - address: 20600 Chagrin Blvd., Suite 803, Shaker Heights, OH 44122, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ccpa@sbfe.org
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A consumer may submit a request to SBFE at ccpa@sbfe.org or call (855) 497-3638.  The consumer would receive a form to complete (via secure email) to verify the consumer's identity and to determine whether SBFE has any of the consumer's information.  If the consumer's identity is confirmed and SBFE has information on the consumer, SBFE would remove the consumer's information from its database.
+    A protected individual may submit a request to SBFE at ccpa@sbfe.org or call (855) 497-3638.  The consumer would receive a form to complete (via secure email) to verify the consumer's identity and to determine whether SBFE has any of the consumer's information.  If the consumer's identity is confirmed and SBFE has information on the consumer, SBFE would remove the consumer's information from its database.
+    SBFE receives small business lending information (which may contain consumer information, as defined in the CCPA) from small business lenders that have contracted with SBFE to store the information.  SBFE acts as a central repository for the small business lending information.  SBFE provides the small business lending information to credit reporting agencies (pursuant to contractual agreements between SBFE and the credit reporting agencies), and the credit reporting agencies use the small business lending information to provide commercial credit reports and other similar products and services back to small business lenders.

@@ -1,0 +1,24 @@
+organization_name: PeoplefindersDaaS
+website: http://www.peoplefindersdaas.com/
+contact:
+    mail:
+        - address: 1915 21st Street, Sacramento, CA 95819, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@peoplefindersdaas.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Email, Form, Phone - will require additional information to confirm identity.
+    Email, Form, Phone - will require additional information to confirm identity.
+    Data collection is based on licensing agreements for third party data to power B2B marketing solutions. PeoplefindersDaaS does not maintain direct relationships with consumers. PeoplefindersDaaS will honor all optout requests, from persons in California and elsewhere.

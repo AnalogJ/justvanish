@@ -1,0 +1,23 @@
+organization_name: People Data Labs
+website: http://www.peopledatalabs.com
+contact:
+    mail:
+        - address: 455 Market Street Suite 1690, San Francisco, CA 94105, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@peopledatalabs.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    https://www.peopledatalabs.com/opt-out-form
+    https://www.peopledatalabs.com/opt-out-form

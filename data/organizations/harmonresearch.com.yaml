@@ -1,0 +1,21 @@
+organization_name: Harmon Research Group, LLC
+website: http://www.harmonresearch.com
+contact:
+    mail:
+        - address: 751 S Weir Canyon Rd, Suite 157622, Anaheim, CA 92808, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@harmonresearch.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nPlease submit an email to info@harmonresearch.com to be removed from any of our market research studies.  They may also go to http://www.harmonresearch.com/ and click on \"Privacy Policy\" to see other options.  \nPlease submit an email to info@harmonresearch.com to be removed from any of our market research studies.  They may also go to http://www.harmonresearch.com/ and click on \"Privacy Policy\" to see other options.  \nHarmon Research is a market research / insights firm. We consult and conduct surveys for various agencies around the world.  We do not do any marketing from our data collection lists and our data is used for statistical purposes only.  "

@@ -1,0 +1,21 @@
+organization_name: Definitive Healthcare, LLC
+website: https://www.definitivehc.com/
+contact:
+    mail:
+        - address: 550 Cochituate Road, Unit 4, Framingham, MA 01701, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@definitivehc.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\n•\tE-mail: privacy@definitivehc.com , •\tPhone: 774-300-8156 , •\tMail:, Definitive Healthcare, Attn: Data Privacy Officer, 550 Cochituate Road, Suite 4, Framingham, MA 01701, \n•\tE-mail: privacy@definitivehc.com   , •\tPhone: 774-300-8156 , •\tMail:  , Definitive Healthcare  , Attn: Data Privacy Officer  , 550 Cochituate Road  , Suite 4  , Framingham, MA 01701  , \nDefinitive Healthcare collects data in several ways, including: , , •\tPublicly available information, including from federal, state, and other regulatory agencies , •\tLicensed data from other companies , •\tWeb research on publicly available information through technology and our in-house research team , •\tElectronic and phone surveys conducted by our research team based in the United States , , We collect data around leadership at healthcare organizations, where we will track Name, Job Title, Business E-mail, Business Phone, and Social Media links, information which is designed to help facilitate business-to-business communication. No sensitive personal information is collected., , For healthcare professionals (HCP), we collect business personal information, such as NPI, Name, Places of Employment, Practice Address, Business E-mail and Business Phone, Affiliation to other HCOs, clinical, and quality data.  No sensitive personal information is collected."

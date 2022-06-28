@@ -1,0 +1,24 @@
+organization_name: WealthEngine, Inc.
+website: https://www.wealthengine.com/
+contact:
+    mail:
+        - address: '4340 East West Highway #900, Bethesda, MD 20814, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: contracts@wealthengine.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    There are various avenues available for a consumer to opt-out from sale of data by WealthEngine, Inc. A consumer may opt-out by submitting a request via privacy@wealthengine.com, via the website online-form, via mailing to WealthEngine, or via using the toll free opt-out number. Please see WealthEngine's opt-out page for more information: https://www.wealthengine.com/optout-privacypolicy/
+    Same process as opt-out requests. The avenues available for opt-outs are also available for deletion requests. Please see WealthEngine's opt-out page for more information: https://www.wealthengine.com/optout-privacypolicy/
+    Please see WealthEngine privacy policy: https://www.wealthengine.com/wealthengine-inc-privacy-policy/

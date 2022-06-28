@@ -1,0 +1,21 @@
+organization_name: X-Mode Social, Inc.
+website: https://xmode.io/
+contact:
+    mail:
+        - address: 938 Park Ave, Herdon, VA 20170, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ap@xmodesocial.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: ""

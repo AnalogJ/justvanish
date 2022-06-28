@@ -1,0 +1,24 @@
+organization_name: Andrews Wharton Inc.
+website: https://andrewswharton.com
+contact:
+    mail:
+        - address: 700 Veterans Hwy 115, Hauppauge, NY 11788, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@andrewswharton.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    The consumer has three methods of opt-out: email, phone, web form. All methods may be accessed on our privacy page at (https://andrewswharton.com/privacy-policy).
+    A protected individual may demand deletion of any information posted online by emailing privacy@andrewswharton.com.
+    Additional information about our data collecting practices may be found on our privacy page at (https://andrewswharton.com/privacy-policy).

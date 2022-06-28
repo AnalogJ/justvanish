@@ -1,0 +1,21 @@
+organization_name: Wisdom Media Group LLC
+website: http://wisdommediagroupllc.com/
+contact:
+    mail:
+        - address: 8584 Washington St, Chagrin Falls,, OH 44023, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: contact@wisdommediagroupllc.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nThey can visit  http://wisdommediagroupllc.com/unsubscribe.php \nWe always send a reply email to all opt outs\nAll opt out are maintained in a global suppression file for email marketing only. "

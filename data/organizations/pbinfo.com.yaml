@@ -1,0 +1,21 @@
+organization_name: Pension Benefit Information, LLC
+website: http://www.pbinfo.com
+contact:
+    mail:
+        - address: 333 South Seventh St., Suite 2400, Minneapolis, MN 55402, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: 'ccparequests@pbinfo.com '
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nCalifornia consumers may opt out or submit requests under the CCPA at:  https://www.pbinfo.com/crf/ or https://www.pbinfo.com/dnsmpi/.  California consumers may also submit a request by phone at 1-800-327-2720 or by mail to: Pension Benefit Information, LLC, Attn: Director of Data, CCPA Consumer Request, 333 South Seventh Street, Suite 2400, Minneapolis, MN 55402. \nNot applicable.\nAdditional information is available at: https://www.pbinfo.com/ca-privacy-policy/."

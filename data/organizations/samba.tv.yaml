@@ -1,0 +1,24 @@
+organization_name: Free Stream Media Corp. DBA Samba TV
+website: https://samba.tv
+contact:
+    mail:
+        - address: 118 King St. Suite 100, San Francisco, CA 94107, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@samba.tv
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    California consumer's may exercise their CCPA rights by emailing privacy@samba.tv or completing an online form. Links to the form and detailed information about our data collection practices are included in our privacy policy: https://samba.tv/users/privacy-policy/. Consumers may also click the "Do not sell my info link" in the footer of our website, Samba.tv.
+    California consumers may request that we delete any personal information that we hold about them by contacting us directly via email, webform, or postal mail., , Email:, privacy@samba.tv, , Webform:, https://privacyportal.onetrust.com/webform/87c5ee85-893d-4972-ba26-2e82b743d041/d84d9664-facb-4de3-85fd-a2e339b73dbf, , Postal:, Free Stream Media Corp., 118 King St. Suite 100, San Francisco, CA 94107
+    Our Privacy Principles, , We understand that your data belongs to you and no one else. At the heart of all Samba TV’s products and services is our commitment to protecting your data and giving you complete control over its use. This is why we handle your data with the same care we would expect our own data to be handled by adhering to the following principles:, , Your Choice, Always. Samba TV’s relationship with the consumer starts with a clear-cut choice to use our services (or not), and flexible controls to change or tailor this choice at any time., , Transparency is Key. We are boldly transparent about how Samba TV and the consumer both benefit when you choose to opt in to our services., , Enabling the Perfect TV Experience. We only collect information that is necessary to enhance and improve your TV experience. As a result, we offer our products and services without requiring that consumers provide us with their name, phone number, home, email or work address., , We Protect your Data. Once a consumer has entrusted us with their data, we actively defend it with appropriate safeguards.

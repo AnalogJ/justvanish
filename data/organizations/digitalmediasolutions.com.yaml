@@ -1,0 +1,23 @@
+organization_name: Digital Media Solutions, LLC
+website: http://digitalmediasolutions.com
+contact:
+    mail:
+        - address: 4800 140th Ave N, Ste 101, Clearwater, FL 33762, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@dmsgroup.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    dmsunsub.io
+    dmsunsub.io

@@ -1,0 +1,21 @@
+organization_name: TargetSmart Communications LLC
+website: https://privacy.targetsmart.com/
+contact:
+    mail:
+        - address: 1155 15TH ST NW SUITE 750, WASHINGTON, DC 20006, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@targetsmart.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nDirect link to web form:  https://privacy.targetsmart.com/do-not-sell-my-personal-information, CCPA privacy request by phone: 888-678-6880\nDirect link to web form:  https://privacy.targetsmart.com/do-not-sell-my-personal-information, CCPA privacy request by phone: 888-678-6880\nInformation about TargetSmart's practices can be found in these links., , https://privacy.targetsmart.com/, https://privacy.targetsmart.com/privacy-policy, https://privacy.targetsmart.com/cookie-policy, "

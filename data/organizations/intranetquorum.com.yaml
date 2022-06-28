@@ -1,0 +1,21 @@
+organization_name: Leidos Digital Solutions, Inc.
+website: https://intranetquorum.com/
+contact:
+    mail:
+        - address: 7990 Quantum Drive, Vienna, VA 22182, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@leidos.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: ""

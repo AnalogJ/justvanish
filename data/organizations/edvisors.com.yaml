@@ -1,0 +1,24 @@
+organization_name: Edvisors Network, Inc.
+website: http://www.edvisors.com
+contact:
+    mail:
+        - address: 10000 W. Charleston Blvd., Suite 200, Las Vegas, NV 89135, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: customerservice@edvisors.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Edvisors provides information relative to consumer opt-out in our Privacy Policy. Consumers are able to submit their request to, opt out through a webpage https://www.edvisors.com/third-party-opt-out/ which was created to provide a consumer the ability, to opt out of sharing and/or selling their personal information. We also honor opt out requests if submitted in any other manner,, e.g., email or chat.
+    N/A
+    N/A

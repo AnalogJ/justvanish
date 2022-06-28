@@ -1,0 +1,21 @@
+organization_name: MeritB2B
+website: http://www.meritb2b.com/
+contact:
+    mail:
+        - address: 2 International Drive, Rye Brook, NY NY 10573, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@meritb2b.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nCalifornia consumers may now easily submit an opt-out request by submitting an online request via our webform, found here: http://www.meritb2b.com/privacy-policy or calling our Toll-Free Number (800) 368-7602 and following the prompts on the recorded message.   Mail requests need to be sent to the Compliance Officer, 2 International Drive, Rye Brook, NY, 10573.  Detailed information and instructions on how a California consumer may exercise their rights under CCPA can also be found in our Privacy Policy http://www.meritb2b.com/privacy-policy., , Please describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it., , As required by law, we may take steps to verify your identity before granting you access to your information or completing your request to exercise your rights.  Under CCPA regulations we will acknowledge your request within 10 days and confirm this has been done within 45 days of your request submission.  We do not charge a fee for processing your request to exercise your rights., \nCalifornia consumers and/or elected or appointed officials may submit an opt-out request online via our webform, found here: http://www.meritb2b.com/privacy-policy or calling our Toll-Free Number (800) 368-7602 and following the prompts on the recorded message.   Mail requests need to be sent to the Compliance Officer, 2 International Drive, Rye Brook, NY, 10573.  , \nAn in-depth Overview of MeritB2B’s data collection/processing practices can be found at http://www.meritb2b.com/privacy-policy., , MeritB2B does not collect information directly from consumers. We are a business-to-business service provider. , , "

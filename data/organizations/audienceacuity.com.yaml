@@ -1,0 +1,23 @@
+organization_name: Audience Acuity LLC
+website: https://audienceacuity.com/
+contact:
+    mail:
+        - address: 10845 Griffith Peak Dr. Suite 200, Las Vegas, NV 89135, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@audienceacuity.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Consumers should go to https://audienceacuity.com/opt-out-of-database/ to opt-out.   Consumers may also call (800) 730-3451 or email privacy@audienceacuity.com or visit our website at https://audienceacuity.com/contact/ for any CCPA requests.
+    Consumers should go to https://audienceacuity.com/opt-out-of-database/ to opt-out.   Consumers may also call (800) 730-3451 or email privacy@audienceacuity.com or visit our website at https://audienceacuity.com/contact/ for any CCPA requests.

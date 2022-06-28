@@ -1,0 +1,23 @@
+organization_name: PeekYou LLC
+website: http://www.peekyou.com
+contact:
+    mail:
+        - address: 19 E Market St., Leesburg, VA 20176, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@peekyou.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Via https://www.peekyou.com/privacy#DoNotSellMyInfo or by emailing us at ccpa@peekyou.com.
+    Via https://www.peekyou.com/privacy#DoNotSellMyInfo or by emailing us at admin@peekyou.com.

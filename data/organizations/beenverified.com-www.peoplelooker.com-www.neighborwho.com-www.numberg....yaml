@@ -1,0 +1,23 @@
+organization_name: BeenVerified, Inc. and its subsidiaries and affiliates
+website: http://www.beenverified.com-www.peoplelooker.com-www.neighborwho.com-www.numberg...
+contact:
+    mail:
+        - address: 48 West 38th Street, 8th Floor, New York, NY 10018, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ccpa@beenverified.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Via https://www.beenverified.com/app/optout/search or other related links provided on our website or by emailing us at ccpa@beenverified.com or by calling us at 888-579-5910
+    Via https://www.beenverified.com/app/optout/search or other similar links provided on our website or by emailing us at support@beenverified.com or by calling us at 888-579-5910

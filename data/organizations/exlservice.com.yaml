@@ -1,0 +1,21 @@
+organization_name: ExlService.com
+website: https://www.exlservice.com/privacy-policy
+contact:
+    mail:
+        - address: 24 Arnett Avenue, Suite 100, Lambertville, NJ 08530, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@exlservice.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nA Consumer may contact us by email,  toll free phone at 1-855-760-3562 or on the internet at https://www.exlservice.com/privacy-policy.  Our privacy web page includes a Consumer Data Request From and “Do Not Sell My Data”  Button. \nConsumer may demand deletion of information posted online under Gov. Code section 6208.1(b) or 6254.21 (c)(1) formation  by visiting our privacy policy page at  https://www.exlservice.com/privacy-policy  or by calling us toll-free number – 1-855-760-3562.\nExlService.com does not collect any data directly from consumers. RPM Direct is a reseller of  FCRA regulated data and non FCRA regulated data provided by  third party data providers.  "

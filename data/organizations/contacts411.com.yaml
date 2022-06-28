@@ -1,0 +1,21 @@
+organization_name: Infinite Knot Inc dba Contacts411
+website: http://contacts411.com
+contact:
+    mail:
+        - address: PO Box 390, Greens Farms, CT 06838-0390, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: barrygold@contacts411.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nSee website link - https://contacts411.com/optOut\nhttps://contacts411.com/ccpa\nContacts411 does not collect data beyond our effort to provide an update to our app users, one contact at a time.  Our users submit an update request on our iOS app, and we submit the data to external third party databases for matching purposes.  When a match is achieved, we deliver new contact data back to the user and or confirm their existing data.  "

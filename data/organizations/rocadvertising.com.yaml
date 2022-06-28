@@ -1,0 +1,24 @@
+organization_name: Results Only Consulting and Advertising
+website: http://www.rocadvertising.com
+contact:
+    mail:
+        - address: 4251 Gateway Blvd, Suite B, Sacramento, CA 95834, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@rocadvertising.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may visit www.rocadvertising.com and click the "do not sell my personal information" link taking them to www.mydataprivacy.com where they may opt out of sale or submit requests under the CCPA.
+    Consumers may visit www.rocadvertising.com and click the "do not sell my personal information" link taking them to www.mydataprivacy.com where they may demand deletion of information under the CCPA.
+    Consumers may visit https://www.rocadvertising.com/privacy-policy/ to view our privacy policy which includes data collecting practices.

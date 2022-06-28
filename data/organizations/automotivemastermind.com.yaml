@@ -1,0 +1,21 @@
+organization_name: automotive Mastermind
+website: https://www.automotivemastermind.com/
+contact:
+    mail:
+        - address: One Park Avenue 14th Floor, New York, NY 10038, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@automotivemastermind.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nhttps://www.automotivemastermind.com/california-consumer-privacy-act/, 1-800-801-0018, \nhttps://app.onetrust.com/app/#/webform/7020d814-78eb-45f1-bfbb-491ca1076fdd, 1-800-801-0018, \nhttps://www.automotivemastermind.com/privacy-policy/"

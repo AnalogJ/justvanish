@@ -1,0 +1,24 @@
+organization_name: Homeowners Marketing Services Inc
+website: https://homeownersmarketingservices.com/
+contact:
+    mail:
+        - address: 12444 Victory Blvd, 2nd Floor, North Hollywood, CA 91606, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dnm@homeownersmarketingservices.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    https://homeownersmarketingservices.com/list-removal-request/
+    An individual can either use the link shown in the previous question to complete the form or can call us at 1-888-888-5557
+    We obtain information from County Recorder’s offices, which is excluded from the definition of “Personal Information” as set forth in the amendment of the California Consumer Privacy Act (“CCPA”), AB 874.

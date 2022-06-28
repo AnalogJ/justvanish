@@ -1,0 +1,24 @@
+organization_name: BIDSWITCH GmbH
+website: http://www.bidswitch.com
+contact:
+    mail:
+        - address: Bahnhofstrasse 28, Postfach 7563, 6302 Zug, Switzerland
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@bidswitch.net
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Please visit our Privacy Policy, specifically the section "Your Data Subject Rights"., https://www.bidswitch.com/privacy-policy/#rights
+    Please visit our Privacy Policy, specifically the section "Your Data Subject Rights"., https://www.bidswitch.com/privacy-policy/#rights
+    Please visit our Privacy Policy to learn more about how we collect and use personal information., https://www.bidswitch.com/privacy-policy/

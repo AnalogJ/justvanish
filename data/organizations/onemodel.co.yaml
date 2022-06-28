@@ -1,0 +1,24 @@
+organization_name: One Model, Inc.
+website: https://www.onemodel.co/lmi
+contact:
+    mail:
+        - address: 8208 Kirkwall Cove, Austin, TX 78749, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@onemodel.co
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    via form on our website (https://www.onemodel.co/ccpa-consumer-rights-request-form) or by emailing privacy@onemodel.co
+    via form on our website (https://www.onemodel.co/ccpa-consumer-rights-request-form) or by emailing privacy@onemodel.co
+    We provide a chart summarizing the personal data collect in our privacy policy for our Labor Market Intel product. That chart can be found on this page:  https://www.onemodel.co/privacy-policy-lmi

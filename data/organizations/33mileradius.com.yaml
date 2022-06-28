@@ -1,0 +1,21 @@
+organization_name: 33 Mile Radius LLC
+website: http://33mileradius.com
+contact:
+    mail:
+        - address: 6133 Rockside Rd., Suite 400, Independence, OH 44131, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@evercommerce.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nPlease contact us in writing by mail at the physical address provided or email at privacy@33mileradius.com. For more information, please review privacy policies made available on our websites. \nPlease contact us in writing by mail at the physical address provided or email at privacy@33mileradius.com. For more information, please review privacy policies made available on our websites. \nFor more information, please review privacy policies made available on our websites. "

@@ -1,0 +1,21 @@
+organization_name: BB Direct, Inc
+website: http://www.bbdirect.com
+contact:
+    mail:
+        - address: 1212 Country Club Blvd, Ste. 201, Cape Coral, FL 33990, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: brianberg@bbdirect.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nSimply visit http://www.bbdirect.com/list-removal-request \nSimply visit http://www.bbdirect.com/list-removal-request\nBy visiting our List Removal Request page on our website, visitors can complete the form provided and request to be removed from future mailings, and ask us to provide what personal information we have on that individual."

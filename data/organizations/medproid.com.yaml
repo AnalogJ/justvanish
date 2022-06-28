@@ -1,0 +1,21 @@
+organization_name: MedPro Systems LLC
+website: https://www.medproid.com
+contact:
+    mail:
+        - address: 100 Stierli Court, Mt. Arlington, NJ 07856, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ccpa@medprosystems.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers may submit opt out requests by sending an email to CCPA@MedProSystems.com or calling (833)-633-4866.  Additional information can be found on our website: https://www.medproid.com/public/home/dataprivacyandsecurityrationalestatement.\nNot applicable as MedPro does not post any personal information online. \nTo learn more about our privacy practices, please visit our website: https://www.medproid.com/public/home/dataprivacyandsecurityrationalestatement. "

@@ -1,0 +1,23 @@
+organization_name: L2, Inc.
+website: http://www.l2political.com
+contact:
+    mail:
+        - address: 18912 North Creek Parkway, Bldg 1, Suite 201, Bothell, WA 98011, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@l2political.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Please visit our CCPA page at the following link for instructions:, , https://l2political.com/california-privacy-rights-for-california-residents-only/
+    Please visit our CCPA page at the following link for instructions:, , https://l2political.com/california-privacy-rights-for-california-residents-only/

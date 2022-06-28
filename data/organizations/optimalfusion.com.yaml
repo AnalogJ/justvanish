@@ -1,0 +1,21 @@
+organization_name: Optimal Fusion
+website: http://www.optimalfusion.com
+contact:
+    mail:
+        - address: '7162 Beverly Boulevard, #580, Los Angeles, CA 90036, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dataprotectionofficer@optimalfusion.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers can visit www.OptimalFusion.com and click on the hyperlink at the footer of the page that says “DO NOT SELL MY PERSONAL INFORMATION.”  Once they do so, they will be directed to our CCPA compliant privacy policy which will automatically scroll the page to the relevant paragraph https://optimalfusion.com/privacy#CCPA .  The email address to our Data Protection Officer (dataprotection@optimalfusion.com), along with a toll free phone number (866-764-1025) is provided herein. Consumers can utilize either method to request that their information is not sold.\nConsumers can visit www.OptimalFusion.com and click on the hyperlink at the footer of the page that says “DO NOT SELL MY PERSONAL INFORMATION.”  Once they do so, they will be directed to our CCPA compliant privacy policy which will automatically scroll the page to the relevant paragraph https://optimalfusion.com/privacy#CCPA .  The email address to our Data Protection Officer (dataprotection@optimalfusion.com), along with a toll free phone number (866-764-1025) is provided herein. Consumers can utilize either method to request that their information is deleted.\nData is collected in compliance with our privacy policy and CCPA.  "

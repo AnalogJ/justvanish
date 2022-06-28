@@ -1,0 +1,24 @@
+organization_name: i360, LLC
+website: http://www.i-360.com
+contact:
+    mail:
+        - address: PO Box 663, Arlington, VA 22216, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@i-360.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A California consumer may opt out of sale or submit requests under the CCPA by visiting www.i-360.com/ccpa to access the link to i360's online CCPA request portal or to obtain i360's CCPA Information toll-free phone number, or by clicking on the "Do Not Sell My Information" button on i360's website footer to access i360's online CCPA request portal.
+    i360 does not post information online under Gov. Code sections 6208.1(b) or 6254.21(c)(1). If a protected individual believes such information has been posted by i360, email privacy@i-360.com.
+    Additional information about data collecting practices can be found at www.i-360.com/ccpa and www.i-360.com/privacy-policy.

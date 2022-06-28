@@ -1,0 +1,24 @@
+organization_name: MH Sub I, LLC
+website: http://www.internetbrands.com
+contact:
+    mail:
+        - address: 909 N. Pacific Coast Highway, 11th Floor, El Segundo, CA 90245, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@internetbrands.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    California consumers submit requests under the CCPA by visiting https://www.internetbrands.com/privacy/privacy-contact-form.php
+    California consumers request deletion of information posted under Gov. Code sections 6208.1(b) or 6254.21(c)(1) by sending an email to privacy@internetbrands.com
+    Consumers can refer to our published privacy policy located at https://www.internetbrands.com/privacy/privacy-main.html

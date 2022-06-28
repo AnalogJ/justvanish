@@ -1,0 +1,21 @@
+organization_name: Demyst Data, Ltd
+website: https://demyst.com/
+contact:
+    mail:
+        - address: PO Box 2035, New York, NY 10159, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@demystdata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nThere is a link on the website where they can fill out a form to opt out of sale or submit a request.  Or the person can use the designated email (privacy@demystdata.com) to contact Demyst and make a request. \nThey can utilize the link on the Demyst home page and fill out the form or email Demyst at the designated email address (privacy@demystdata.com) and make the request. \n"

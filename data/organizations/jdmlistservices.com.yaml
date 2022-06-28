@@ -1,0 +1,23 @@
+organization_name: JDM List Services, LLC
+website: http://www.jdmlistservices.com
+contact:
+    mail:
+        - address: 320 S. Harrison Street, Suite  16-J, EAST ORANGE, NJ 07018, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: chrissy@jdmlistservices.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Through Email and Telephone
+    Through Email and Telephone

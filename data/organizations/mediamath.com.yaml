@@ -1,0 +1,24 @@
+organization_name: MediaMath, Inc.
+website: https://www.mediamath.com/
+contact:
+    mail:
+        - address: 4 World Trade Center, 45th Floor, New York, NY 10007, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@mediamath.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Please visit our Privacy Policy, specifically the section “Your legal rights”. , http://www.mediamath.com/privacy-policy/#Section-11
+    Please visit our Privacy Policy, specifically the section “Your legal rights”. , http://www.mediamath.com/privacy-policy/#Section-11
+    Please visit our Privacy Policy to learn more about how we collect and use personal information. , http://www.mediamath.com/privacy-policy/

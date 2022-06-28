@@ -1,0 +1,37 @@
+organization_name: Bureau van Dijk Electronic Publishing Ltd.
+website: https://www.bvdinfo.com/en-us/
+contact:
+    mail:
+        - address: 1 Canada Square, Canary Wharf, London, E14 5FA, United Kingdom
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: '211 S. Gulph Road #125, King of Prussia, PA 19406, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@bvdinfo.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 'privacy@bvdinfo.com '
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    https://www.bvdinfo.com/en-gb/legal/personal-data-request-form
+    https://www.bvdinfo.com/en-gb/legal/personal-data-request-form
+
+    https://www.bvdinfo.com/en-gb/rdc-product-privacy-notice
+    https://www.bvdinfo.com/en-gb/rdc-product-privacy-notice
+    https://www.bvdinfo.com/en-gb/rdc-product-privacy-notice

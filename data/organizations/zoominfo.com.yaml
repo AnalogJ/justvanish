@@ -1,0 +1,24 @@
+organization_name: ZoomInfo
+website: http://www.zoominfo.com
+contact:
+    mail:
+        - address: '805 Broadway, #900, Vancouver, WA 98660, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@zoominfo.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may manage their data management preferences through our comprehensive privacy center: , https://www.zoominfo.com/about-zoominfo/privacy-center
+    Consumers may manage their data management preferences through our comprehensive privacy center: , https://www.zoominfo.com/about-zoominfo/privacy-center
+    Our data collection and management practices can be located here: , https://www.zoominfo.com/business/about-zoominfo/privacy-policy

@@ -1,0 +1,24 @@
+organization_name: Tymax Media
+website: http://tymaxmedia.com
+contact:
+    mail:
+        - address: 3755 Avocado Blvd, 305, La Mesa, CA 91941, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacyofficer@datacomplianceportal.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers can visit http://tymaxmedia.com/ccpa.php and click on the link to visit our data compliance portal.
+    Consumers can visit http://tymaxmedia.com/ccpa.php and click on the link to visit our data compliance portal.
+    Additional information is available at http://tymaxmedia.com/privacy.php

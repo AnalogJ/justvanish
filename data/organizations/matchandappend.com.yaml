@@ -1,0 +1,24 @@
+organization_name: MatchAndAppend.com LLC
+website: http://www.matchandappend.com
+contact:
+    mail:
+        - address: 16125 Zagros Way, Austin, TX 78738, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@matchandappend.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may contact us at privacy@matchandappend.com or use the links on our website https://www.matchandappend.com., , Access, Deletion and Do Not Sell Right, , Under the CCPA, California consumers have the right to:, •	Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers., , •	Request that a business delete any personal data about the consumer that a business has collected., , •	Request that a business that sells a consumer's personal data, not sell the consumer's personal data., If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us using the link to Do Not Sell My Data. (https://www.matchandappend.com/do-not-sell-my-data/)
+    Consumers may contact us at privacy@matchandappend.com or use the links on our website https://www.matchandappend.com, , An individual has the right to request that Match and Append unpublish, remove, or make unavailable to third parties any information about him or her from the Databases or disconnect a link to another site. , , If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us using the link to Unsubscribe. (https://www.matchandappend.com/unsubscribe/)
+    Please visit our privacy policy at https://matchandappend.com/privacy-policy-3/ for additional information about data collecting practices.

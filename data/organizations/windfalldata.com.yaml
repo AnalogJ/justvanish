@@ -1,0 +1,23 @@
+organization_name: Windfall Data, Inc.
+website: http://www.windfalldata.com
+contact:
+    mail:
+        - address: 430 Pacific Ave, San Francisco, CA 94133, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@windfalldata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    https://windfalldata.com/database-opt-out/
+    N/A

@@ -1,0 +1,24 @@
+organization_name: FourLeaf LLC
+website: https://www.fourleafdata.com/
+contact:
+    mail:
+        - address: 30 N. Gould Street, Suite 5479, Sheridan, WY 82801, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@fourleafdata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A consumer may opt-out of sale or submit requests under the CCPA by following the instructions provided in our Privacy Policy which can be accessed at https://www.fourleafdata.com/privacy-policy/ or by emailing us at privacy@fourleafdata.com.
+    A protected individual can demand deletion of information posted online by emailing privacy@fourleafdata.com.
+    Additional information about our data collecting practices can be found in our Privacy Policy which can be accessed at https://www.fourleafdata.com/privacy-policy/.

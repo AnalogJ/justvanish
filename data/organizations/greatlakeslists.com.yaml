@@ -1,0 +1,23 @@
+organization_name: Great Lakes List Management
+website: http://www.greatlakeslists.com
+contact:
+    mail:
+        - address: 3126 Peach St, Erie, PA 16508, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ccpa@greatlakeslists.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Web form or email
+    Web form or email

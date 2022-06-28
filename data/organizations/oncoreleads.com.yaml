@@ -1,0 +1,21 @@
+organization_name: CO2 Ventures, LLC dba Oncore Leads
+website: http://oncoreleads.com
+contact:
+    mail:
+        - address: 9580 Oak Avenue Parkway, Suite 7, Folsom, CA 95630, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: leads@oncoreleads.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nBy following the directions provided on: https://oncoreleads.com/california-privacy-rights/\nBy following the directions provided on: https://oncoreleads.com/california-privacy-rights/ \nPlease see: https://oncoreleads.com/california-privacy-rights/  "

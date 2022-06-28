@@ -1,0 +1,21 @@
+organization_name: CoStar Realty Information, Inc. 
+website: https://www.costar.com/
+contact:
+    mail:
+        - address: 1331 L Street, N.W., Washington, DC 20005, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: costarprivacy1@costar.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nIf the consumer is a California resident, the consumer may have the right to opt-out of the sale of its personal information. To make such a request, the consumer may opt-out at https://www.costar.com/feedback/datainquiry or contact CoStar by email at CoStarPrivacy1@costar.com. To opt-out of CoStar sharing a consumer's personal information with third parties to advertise CoStar's services, the consumer may additionally manage user-enabled global privacy controls, including disabling or deleting browser cookies through the consumer's browser settings and opting out of third parties collecting the consumer's personal information for targeted advertising purposes in the United States by visiting the National Advertising Initiative’s (NAI) opt-out page and the Digital Advertising Alliance’s (DAA) opt-out page (https://optout.aboutads.info/?lang=EN&c=2) and in the EEA by visiting The Programme’s opt-out page (https://www.youronlinechoices.com/uk/your-ad-choices).\nCoStar does not knowingly and intentionally publicly post or publicly display on the Internet the home address, home telephone number, or image of any individual protected under Gov. Code sections 6208.1(b) or 6254.21(c)(1).  If a consumer believes such information is posted or displayed, and wants to request that it be removed from the CoStar site, the consumer may contact CoStar by email at CoStarPrivacy1@costar.com, by toll-free phone at (800) 204-5960, or submit the request through its CoStar account or our applicable web form located at https://www.costar.com/feedback/datainquiry. In order to verify the consumer's request, CoStar may require the consumer to provide additional information to confirm the identity of the consumer. Once CoStar verifies the consumer's request, CoStar will remove the information, unless an exception applies.\nFor the purposes of this registration, CoStar collects from third party sources business-related contact information, such as name, business address, and email address, which are then included in the CoStar product to help facilitate commercial real estate transactions. As the leading provider of information, analytics, and online marketplaces to the commercial real estate industry, CoStar respects consumers' privacy and is committed to protecting your personal information.  For more information on CoStar's privacy practices, please see CoStar's Global Privacy Notice at https://www.costar.com/about/privacy-notice. "

@@ -1,0 +1,21 @@
+organization_name: Reklaim Ltd.
+website: https://www.reklaimyours.com/privacy-policy
+contact:
+    mail:
+        - address: 1306-80 John Street, Toronto, ON M5V 3X4, Canada
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@reklaimyours.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nIn the Identity Screen of your registered Account, you have the option to edit any data point that you are sharing. Once you click ‘stop sharing’, the data point will no longer be shared with any advertisers it will only reside on your phone. This is with exception to IDFA., , You can, however, refresh your IDFA and stop sharing your location at any point by doing the following:, , Apple devices:, Opt out of app-based tracking for interest-based advertising by updating to iOS 6.0 or higher, and setting Limit Ad Tracking to ‘ON’.  For iOS 6, you can do this by selecting Settings -> General -> About -> Advertising and toggling Limit Ad Tracking to ‘ON’. For iOS 7 and higher, you can do this by selecting Settings -> Privacy -> Advertising and toggling Limit Ad Tracking to ‘ON’. You can obtain further information on how to limit ad tracking on your iOS device or to reset your IDFA here:  IDFA Opt-Out (https://support.apple.com/en-ca/HT202074)., , Opt out location sharing by selecting Settings -> Location Services -> Killi -> Select never., , Android devices:, Opt out app-based tracking for interest-based advertising by taking the following steps: (i) Open the Google Settings app on your device; (ii) Select “Ads”; and (iii) Opt out of interest-based ads. You can obtain further information about how identifiers on mobile are used for advertising and receive instruction for how to opt out of mobile advertising here: Google Privacy & Terms webpage (https://support.google.com/ads/answer/1660762?visit_id=637188598659700124-734125724&rd=1)., Opt out location sharing by selecting Settings -> Apps and Notifications -> Killi -> Permissions -> Location -> Toggle to off., \nTo opt out of a data point from being shared you can simply go to the specific data point in your registered Account profile and select not to share it. Alternatively, if you would like to stop sharing all your data points and request all data used previously, be purged, you can delete your registered Account. To delete your registered Account, select “Delete Account” within the App., , , , \nWe understand how important protecting your privacy is, and we are committed to safeguarding the Data collected or accessed. We have implemented specific security procedures to protect the storage and disclosure of Data we gather. Access to Data is restricted to select employees or representatives. By default, Killi stores all User Data on your mobile device until the App is deleted., , No Data leaves your mobile device until you explicitly share it., , Killi reserves the right, in its sole discretion, to delete your Account if it has not been in use for 180 consecutive days. Killi reserves the right in its sole discretion to retain anonymous User response data for the purpose of analysis and marketing., , Killi retains and uses information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements., ,  Postal Code/Zip, Age, Gender, Phone Number, Email."

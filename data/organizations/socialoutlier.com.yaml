@@ -1,0 +1,21 @@
+organization_name: Social Outlier
+website: http://socialoutlier.com
+contact:
+    mail:
+        - address: 934 S Santa Fe Ave, Los Angeles, CA 90021, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: data@socialoutlier.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nPlease email data@socialoutlier.com\nSubmit a written request. Either mailed, email, or contact sheet online. \n"

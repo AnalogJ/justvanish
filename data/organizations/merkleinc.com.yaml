@@ -1,0 +1,21 @@
+organization_name: Merkle Inc.
+website: https://www.merkleinc.com/
+contact:
+    mail:
+        - address: 7001 Columbia Gateway Dr, Columbia, MD 21046, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: 'dpous@merkleinc.com '
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers may request to exercise their rights by:, , •\tCompleting the online form https://www.merkleinc.com/getting-know-your-privacy-rights/control-your-data or, •\tCalling us at (+1) (833) 457-0192 or, •\tEmailing your request to dpous@merkleinc.com , , •\tRequests can be made by the consumer or by the consumer’s authorized agent and are subject to verification. More detailed information on how consumers may opt out of sale or submit requests under CCPA can be found at https://www.merkleinc.com/getting-know-your-privacy-rights/privacy-notice , , https://www.4cite.com/4cite-marketing-llc-privacy-policy/ccpa/, https://compliance.4cite.com/d330f92c-d2d2-491f-a1cd-6c0e3a865a5a/right-to-know/, https://compliance.4cite.com/d330f92c-d2d2-491f-a1cd-6c0e3a865a5a/request-to-delete/ \nCalifornia consumers and/or elected or appointed officials may submit a request by:, Complete online form https://www.merkleinc.com/getting-know-your-privacy-rights/control-your-data, Email dpous@merkleinc.com , Telephone (+1) (833) 457-0192 , , https://www.4cite.com/4cite-marketing-llc-privacy-policy/ccpa/, https://compliance.4cite.com/d330f92c-d2d2-491f-a1cd-6c0e3a865a5a/right-to-know/, https://compliance.4cite.com/d330f92c-d2d2-491f-a1cd-6c0e3a865a5a/request-to-delete/, \nPlease see our Privacy Notice on our website for additional information about Merkle’s data collection practices.  , https://www.merkleinc.com/getting-know-your-privacy-rights/privacy-notice , , https://www.4cite.com/4cite-marketing-llc-privacy-policy/ccpa/, https://compliance.4cite.com/d330f92c-d2d2-491f-a1cd-6c0e3a865a5a/right-to-know/, https://compliance.4cite.com/d330f92c-d2d2-491f-a1cd-6c0e3a865a5a/request-to-delete/, "

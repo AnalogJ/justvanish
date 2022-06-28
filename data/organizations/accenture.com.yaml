@@ -1,0 +1,21 @@
+organization_name: Accenture LLP
+website: https://www.accenture.com/us-en
+contact:
+    mail:
+        - address: 161 N. Clark Street, Chicago, IL 60601, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: regulatory.licenses@accenture.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nCalifornia consumers may opt out of the sale of their personal information directly through the following link:  https://www.accenture.com/us-en/form-do-not-sell-my-personal-information. California consumers may exercise their opt out of sale and all other rights as described in Accenture’s California Privacy Statement:  https://www.accenture.com/us-en/about/privacy-policy#accenture-privacy-statement-california-residents. It provides detailed information about the rights of the consumer and instructions how to exercise those rights.\nNot applicable since Accenture LLP does not publicly post online the telephone number or address information of individuals.\nAccenture processes information about California consumers in accordance with Accenture’s California PrivacyStatement:, https://www.accenture.com/us-en/about/privacy-policy#accenture-privacy-statement-california-residents., "

@@ -1,0 +1,23 @@
+organization_name: Pop Acta Media LLC
+website: https://popacta.com/
+contact:
+    mail:
+        - address: 10 Fairway Drive, Suite 180V, Deerfield Beach, FL 33441, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@popacta.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Consumers may use the opt-out webform offered on its website, located at http://popacta.com/ccpa/.  Consumers may also submit an opt-out request to contact@popacta.com.
+    Individuals may exercise their right to delete by emailing contact@popacta.com.  They may also visit https://popacta.com/ click "Contact" to submit the request.

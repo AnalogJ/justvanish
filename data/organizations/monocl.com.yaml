@@ -1,0 +1,24 @@
+organization_name: Monocl
+website: http://www.monocl.com
+contact:
+    mail:
+        - address: '222 Third St #3130, Cambridge, MA 02142, Cambridge, MA 02142, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@monocl.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    An Expert (medical, scientific, and healthcare professionals and academics) may opt out of sale by clicking on the "Do Not Sell My Info" link on our web page and filling out the form., , To exercise the access and data portability rights please review our Privacy Policy (https://www.monocl.com/privacy/privacy-policy/) and/or our Expert Privacy Policy (https://www.monocl.com/privacy/expert-privacy-policy/) and submit a verifiable consumer request to us by following the applicable link and filling in the request form, calling us at 888-211-9007, or emailing us at privacy@monocl.com
+    To exercise deletion rights please review our Privacy Policy (https://www.monocl.com/privacy/privacy-policy/) and/or our Expert Privacy Policy (https://www.monocl.com/privacy/expert-privacy-policy/) and submit a verifiable consumer request to us by following the applicable link and filling in the request form, calling us at 888-211-9007, or emailing us at privacy@monocl.com
+    Additional information about our data collecting practices may be found on our privacy pages: General Privacy Policy (https://www.monocl.com/privacy/privacy-policy/) and Expert Privacy Policy (https://www.monocl.com/privacy/expert-privacy-policy/)

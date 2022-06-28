@@ -1,0 +1,24 @@
+organization_name: SIRDATA SAS
+website: https://www.sirdata.com/home/
+contact:
+    mail:
+        - address: 20 RUE SAINT-FIACRE, 75002 PARIS, France
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dpo@sirdata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A consumer can review Sirdata's privacy practices and opt-out of sales and submit requests under the CCPA by visiting the page https://www.sirdata.com/privacy/
+    Sirdata does not publicly post or display personal information online.
+    Please review our privacy statement to learn more about how we collect and use data: https://www.sirdata.com/privacy/

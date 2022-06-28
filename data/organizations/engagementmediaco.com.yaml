@@ -1,0 +1,23 @@
+organization_name: Engagement Media Company, LLC
+website: http://engagementmediaco.com
+contact:
+    mail:
+        - address: 888 W. Big Beaver Road, Suite 360, Troy, MI 48084, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: rwright@engagementmediaco.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    We have an opt-out button that is prominently displayed on our home page, under the label "Do not sell my personal information"
+    We have an opt-out button that is prominently displayed on our home page, under the label "Do not sell my personal information"

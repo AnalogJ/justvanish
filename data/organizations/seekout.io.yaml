@@ -1,0 +1,23 @@
+organization_name: 'Zipstorm LLC '
+website: http://seekout.io
+contact:
+    mail:
+        - address: 2475 152nd Ave NE, Bldg 17 Suite 2475, Redmond, WA 98502, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@seekout.io
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    They can email us at opout@seekout.io, call us at the toll free number listed under "do not sell my data" or fill out a form that is also under the "do not sell my data" tab.
+    They can email us at opout@seekout.io, call us at the toll free number listed under "do not sell my data" or fill out a form that is also under the "do not sell my data" tab.

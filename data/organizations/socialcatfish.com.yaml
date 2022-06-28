@@ -1,0 +1,24 @@
+organization_name: Social Catfish, LLC
+website: http://socialcatfish.com
+contact:
+    mail:
+        - address: 38770 Sky Canyon Dr, STE A, Murrieta, CA 92563, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: david@socialcatfish.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Information about your rights and how you may exercise them under the CCPA, including requests to opt-out of the sale of your information, may be found here: https://socialcatfish.com/faq/privacy/#ca-nv-privacy.
+    Individuals protected under Government Code Sections 6208.1(b) or 6254.21(c)(1) may demand deletion of their information using the link below. Please note that Social Catfish recommends that a protected individual enter all variation of their name to capture as many records as possible., , https://socialcatfish.com/opt-out/?id=request_optout
+    No information provided.

@@ -1,0 +1,21 @@
+organization_name: Apollo Program LLC
+website: http://www.apolloprogram.com
+contact:
+    mail:
+        - address: 536 Broadway, Floor 9, New York, NY 10012, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@apolloprogram.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: ""

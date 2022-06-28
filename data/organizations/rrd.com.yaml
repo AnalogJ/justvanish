@@ -1,0 +1,24 @@
+organization_name: R. R. Donnelley & Sons Company
+website: https://rrd.com
+contact:
+    mail:
+        - address: 35 West Wacker Drive, Chicago, IL 60601-9703, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dataprivacy@rrd.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A California consumer may opt out of sale or submit requests under the CCPA by emailing  dataprivacy@rrd.com or by calling 1-877-RRD-4411. A consumer may get more information about our privacy policy by visiting https://www.rrd.com/privacy-policy
+    R.R. Donnelley does not knowingly post online information governed by Gov. Code sections 6208.1(b) or 6254.21(c)(1). However, a protected individual can email dataprivacy@rrd.com or call 1-877-RRD-4411 to demand deletion in the event any such information is posted online.
+    Please visit https://www.rrd.com/privacy-policy to review our Privacy Statement for more information.

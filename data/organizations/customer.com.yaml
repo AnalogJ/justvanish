@@ -1,0 +1,21 @@
+organization_name: Customer Communications Group, Inc.
+website: http://www.customer.com
+contact:
+    mail:
+        - address: '12081 W. Alameda Parkway, #500, Lakewood, CO 80228, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ccgprivacy@customer.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nFrom our Website:, , How You Can Opt Out, You can make the following choices to opt out of certain activities regarding your personal information:, , 1. Promotional emails or mailers. You can stop receiving promotional emails by clicking the “unsubscribe” links in the emails or by contacting us as described below. You can stop receiving promotional mailings by contacting us using this request form., 2. Do not track. Some web browsers and devices permit you to broadcast a preference that you not be “tracked” online. At this time, we do not modify your experience based upon whether such a signal is broadcast, except as required by law., 3. Right to opt out of disclosure of personal information for valuable consideration. To the extent CCG sells any of your personal information, if you are 16 years of age or older, you have the right to direct us to not sell your personal information at any time. We do not sell the personal information of consumers we actually know are less than 16 years of age, unless we receive affirmative authorization from the consumer who is between 13 and 16 years of age. Consumers who opt in to personal information sales may opt out of future sales at any time. To exercise the right to opt out, you (or your authorized representative) may submit a request to us by contacting us as described below. Once you make an opt-out request, we will wait at least twelve (12) months before asking you to reauthorize personal information sales. However, you may change your mind and opt back in to personal information sales at any time by contacting us as described below. We will only use personal information provided in an opt-out request to review and comply with the request., 4. Notice of disclosure for direct marketing. Under California Civil Code sections 1798.83-1798.84, California residents who have an established business relationship with us are entitled to ask us for a notice describing what categories of personal information we share with third parties for their direct marketing purposes. This notice will identify the categories of information shared with third parties and will include a list of the third parties with which it is shared, along with their names and address. If you are a California resident and would like a copy of this notice, please submit a written request to us at the address listed below., 5. Automated decision making. CCG does not employ automated decision-making techniques such as machine learning or artificial intelligence., \nEmail ccgprivacy@customer.com\nFrom our website:, , Sources of Personal Information, We obtain the categories of personal information listed above from the following sources:, , Personal information obtained from third parties – CCG may obtain or receive personal information about you from other third-party sources. For example, we receive personal information from our business partners., Personal information obtained by observation of real estate advertising on the internet., "

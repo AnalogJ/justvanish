@@ -1,0 +1,21 @@
+organization_name: Lighthouse List
+website: https://www.lighthouselist.com/
+contact:
+    mail:
+        - address: '27 SE 24th Ave #6, Pompano Beach, FL 33062, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: robert@lighthouselist.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nThey can email Privacy@lighthouselist.com, or they can opt out on our website.  \nRequesting data to be deleted would be the same process as opting out,  they can either email privacy@lighthhouselist.com, or through our website.  \nWe treat all opt outs and data deletions with the same care. "

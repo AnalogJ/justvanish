@@ -1,0 +1,21 @@
+organization_name: Deloitte Consulting LLP
+website: http://www.deloitte.com
+contact:
+    mail:
+        - address: 200 Berkeley Street, Boston, MA 02116, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: usprivacyquestions@deloitte.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nTo submit an opt out of sale request, follow the instructions on our “Do Not Sell My Personal Information” webpage located at https://www2.deloitte.com/us/en/footerlinks1/do-not-sell-my-personal-information.html. To submit other requests under the CCPA, follow the instructions on our “How to Submit a Personal Information Request” webpage located at https://datasubject.deloitte.com/.\nNot applicable as Deloitte Consulting LLP does not publicly post online the telephone number or address information of individuals. \n"

@@ -1,0 +1,24 @@
+organization_name: List Service Direct Inc.
+website: http://www.listservicedirect.com
+contact:
+    mail:
+        - address: 1983 Marcus Avenue - Suite 220, 220, New Hyde Park, NY 11042, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: spalilla@listservicedirect.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Posted on our website
+    Posted on our website
+    N/A

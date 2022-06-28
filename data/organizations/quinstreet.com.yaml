@@ -1,0 +1,21 @@
+organization_name: 'QuinStreet, Inc. '
+website: https://www.quinstreet.com/
+contact:
+    mail:
+        - address: 950 Tower Lane Suite 600, Foster City, CA 94404, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: qs_compliance@quinstreet.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nA consumer may opt-out of sale or submit requests under the CCPA by following the links provided in QuinStreet's Privacy Notice which can be accessed at this URL, https://www.quinstreet.com/privacy-notice/. , , , \nA protected individual may demand deletion of any information posted online by emailing legalq@quinstreet.com. \nhttps://www.quinstreet.com/privacy-notice/"

@@ -1,0 +1,24 @@
+organization_name: Swordfish AI Inc.
+website: http://www.swordfish.ai
+contact:
+    mail:
+        - address: 8 The Green, STE 4000, Dover, DE 19901, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: contact@swordfish.ai
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A consumer may opt out either by submitting a form on our website or by telephone, https://swordfish.ai/Optout
+    We do not post on the Internet or publicly display the personal information of any consumer.
+    Our practices are outlined as per our privacy page on our website. , California residents are directed to a special URL that includes our CCPA privacy statement.

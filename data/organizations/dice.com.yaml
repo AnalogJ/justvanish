@@ -1,0 +1,24 @@
+organization_name: Dice Career Solutions, Inc.
+website: http://www.dice.com
+contact:
+    mail:
+        - address: 6465 South Greenwood Plaza Boulevard, Suite 400 Centennial, Centennial, CO 80111, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@dice.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers can go to https://www.dice.com/about/ccpa and submit a CCPA Opt-Out Request via an online form or use the toll-free number 1-888-321-DICE (3423).
+    How a protected can go to https://www.dice.com/about/ccpa and submit a CCPA Deletion Request via an online form or use the toll-free number 1-888-321-DICE (3423).
+    Consumers can refer to our published privacy policy at: https://www.dice.com/about/privacy-policy

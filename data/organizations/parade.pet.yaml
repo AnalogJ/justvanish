@@ -1,0 +1,21 @@
+organization_name: Good Boy Studios, Inc
+website: https://parade.pet
+contact:
+    mail:
+        - address: 47 Benjamin St., Old Greenwich, CT 06870, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: hello@goodboystudios.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nIf you want to opt out of having your Personal Information disclosed to third parties for their direct marketing purposes, please let us know by sending us an email at hello@goodboystudios.com. Please be sure to include your full name, email address, mailing address, and specifically state that you do not want your personal information shared with third parties for their direct marketing purposes.  Additionally, you will have an opportunity to unsubscribe from receiving promotional material from Company by sending us an email at hello@goodboystudios.com.\nIf you want to delete your Personal Information from our system, please let us know by sending us an email at hello@goodboystudios.com. Please be sure to include your full name, email address, mailing address, and specifically state that you want your personal information deleted from our system.  \n"

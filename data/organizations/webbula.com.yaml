@@ -1,0 +1,21 @@
+organization_name: Webbula, LLC
+website: https://webbula.com/
+contact:
+    mail:
+        - address: 5000 Stonewood Drive, ste 310, Wexford, PA 15090, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: support@webbula.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nTo opt out or submit a request, California residents may exercise their California privacy rights by sending an email to privacy@webbula.com, submitting their request to our Online Privacy Center at https://webbula.com/privacy-center/ or by calling 888-993-2285 ext 4. , In addition, Residents of California may send the request by mailing us at:, , Webbula, LLC, ATTN: Privacy / Compliance , 5000 Stonewood Drive., Suite 310 , Wexford, PA. 15090, \nWebbula does not display or permit the display of such information,  we do not operate a website that involves user generated content. We will however honor an opt-out submitted as described above. \nThe majority of our business consists of services that involve personal information to provide or support data hygiene services, i.e., to assist companies who wish to purge outdated or potentially fraudulent email or other information. Supplemental to that we sometimes help customers supplement their own lists with additional customer insight data. Which might be personal interests, inferred demo or supplemental personal contact information.  "

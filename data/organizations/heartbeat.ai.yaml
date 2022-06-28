@@ -1,0 +1,24 @@
+organization_name: Heartbeat.AI Inc
+website: http://www.heartbeat.ai
+contact:
+    mail:
+        - address: 8 THE GREEN, STE 4000, DOVER, DE 19901, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: contact@heartbeat.ai
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A consumer may opt out either by submitting a form on our website or by telephone https://www.heartbeat.ai/optout
+    We do not post on the Internet or publicly display the personal information of any consumer., We hold registered nurse rn email mailing lists, physician email mailing lists, dentist email mailing lists
+    Our practices are outlined as per our privacy page on our website. California residents are directed to a special URL that includes our CCPA privacy statement.

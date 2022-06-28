@@ -1,0 +1,21 @@
+organization_name: Yobi Ventures, LLC
+website: http://yobi.ventures
+contact:
+    mail:
+        - address: 136 e 76th st, 4B, NYC, NY 10021, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: admin@yobi.ventures
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: ""

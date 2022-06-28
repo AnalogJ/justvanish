@@ -1,0 +1,24 @@
+organization_name: DealerDirect LLC
+website: http://www.forddirect.com
+contact:
+    mail:
+        - address: 4 Parklane Blvd., Suite 140, Dearborn, MI 48126-4218, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dprivacy@forddirect.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may click the “Do Not Sell My Personal Information” link displayed on the company webpage or the link in the company privacy statement (www.forddirectprivacy.com) and fill out the request form.
+    Consumers may click the “Do Not Sell My Personal Information” link displayed on the company webpage or the link in the company privacy statement (www.forddirectprivacy.com), and then choose the delete option, and fill out the request form.
+    Additional information on data collecting practices can be found at www.forddirectprivacy.com

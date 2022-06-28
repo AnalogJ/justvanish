@@ -1,0 +1,21 @@
+organization_name: ZS Associates, Inc.
+website: https://www.zs.com
+contact:
+    mail:
+        - address: 1560 Sherman Ave Ste 800, Evanston, IL 60201, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dataprivacy@zs.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nIndividuals may send an e-mail to dataprivacy@zs.com or visit www.zs.com/datarequest. \nNot applicable. ZS does not conduct the activities described in Gov. Code sections 6208.1(b) or 6254.21(c)(1).\nAdditional information for California residents may be found at www.zs.com/datarequest."

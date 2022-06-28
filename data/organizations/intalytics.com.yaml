@@ -1,0 +1,24 @@
+organization_name: Intalytics Inc.
+website: https://intalytics.com/
+contact:
+    mail:
+        - address: 5 Research Dr Ste A, Ann Arbor, MI 48103, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@intalytics.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Contact Intalytics by email at privacy@intalytics.com or by mail at: Intalytics 5 Research Drive, Suite A Ann Arbor, MI 48103
+    Contact Intalytics by email at privacy@intalytics.com or by mail at: Intalytics 5 Research Drive, Suite A Ann Arbor, MI 48103
+    For more information about how we collect and process data, visit https://intalytics.com/privacy-policy/

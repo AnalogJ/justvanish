@@ -1,0 +1,21 @@
+organization_name: Simio Cloud, LLC
+website: http://simiocloud.com
+contact:
+    mail:
+        - address: 10155 Westmoor Drive, Building 3, Suite 135, Westminster, CO 80021, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@simiocloud.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers may opt-out via our website:  https://simiocloud.com/optout, , Consumers may  also submit requests by postal mail or telephone., , Our telephone number is 1-866-600-3430., , Our mailing address is:, , Simio Cloud, LLC, Attention:  CCPA Requests, 10155 Westmoor Dr. Bldg. 3, Ste. 135 , Westminster, CO 80021, \nWe do not post on the Internet or publicly display the personal information of any consumer. Accordingly, we do not have a specific method for submitting the requests described in this section.\nWe use consumer data in our products and services that are only made available to and for use by qualified companies, non-profit organizations and political organizations in their marketing, fundraising, customer service, and constituent service and outreach programs.  We do not permit our clients to use our products and services for sensitive decisions like credit, employment or housing. In addition, we limit the type of data we receive and the type of data we share in the interest of consumer privacy. We don’t possess or utilize sensitive data like credit card or bank account numbers, Social Security Numbers or other government-issued identifiers. We do not accept or generate information specifying individuals’ health conditions such as protected health information (as defined under HIPAA) and do not seek to predict that any person has a particular health condition. We don’t release information to third parties concerning specific items that a consumer has purchased, what media they consume, or what charities they support unless requested by the organization with whom the consumer has a relationship. Our marketing products and services are designed only for use in marketing to United States consumers above the age of 18. We do not knowingly collect information about consumers residing outside of the United States or about children. "

@@ -1,0 +1,23 @@
+organization_name: EL TORO.COM, LLC
+website: http://www.eltoro.com
+contact:
+    mail:
+        - address: 124 N. 1st Street, Louisville, KY 40202, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@eltoro.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    El Toro's privacy policy can be found at https://www.eltoro.com/privacy-policy/.  In addition, El Toro's Privacy Rights Addendum for California Consumers can be found at https://www.eltoro.com/privacy-policy-ca-addendum/.  , , To opt-out, consumers should complete the form at https://www.eltoro.com/do-not-sell-my-personal-information/.  Consumer may also call 855-935-8676 or send an email to privacy@eltoro.com.
+    Consumers should complete the form at https://www.eltoro.com/ca-resident-access-deletion-form/.  Consumers may also call 855-935-8676 or send an email to privacy@eltoro.com.

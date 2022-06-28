@@ -1,0 +1,24 @@
+organization_name: NFocus Consulting, Inc.
+website: https://www.n-focus.com/~nfci/index.php/privacy-policy/
+contact:
+    mail:
+        - address: 1594 Hubbard Dr., Lancaster, OH 43130, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: consumer@n-focus.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers will be able to submit a request by calling (844) 201-3013, emailing consumer@n-focus.com or completing the appropriate web form at n-focus.com.
+    Consumers will be able to submit a request by calling (844) 201-3013, emailing consumer@n-focus.com or completing the appropriate web form at n-focus.com.
+    Consumers will be able to find additional information by visiting n-focus.com

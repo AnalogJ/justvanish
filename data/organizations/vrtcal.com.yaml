@@ -1,0 +1,23 @@
+organization_name: VRTCAL Markets, Inc.
+website: https://vrtcal.com
+contact:
+    mail:
+        - address: 351 Paseo Nuevo, Santa Barbara, CA 93108, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@vrtcal.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Our Opt-Out service is located at https://vrtcal.com/opt-out/.  These are our published instructions for requests.  California Resident Rights – CCPA. If you are a resident of the State of California, you have the right to know what type of Personal Information we process, the categories of sources from which we obtain Personal Information, and the third parties with whom we share Personal Information which are described in Section A “Information We Receive.” You also have the right to request what information we process and how we use and disclose it. If you would like to exercise this right, please see our Subject Access Request Policy for instructions on how to do so: https://vrtcal.com/docs/subjectaccess-request-policy.pdf. Please note that because most of the information we receive can only identify a particular browser or device, and cannot identify you individually, we require you to provide us with some additional information to ensure that we provide you with accurate information. Our Privacy Policy Advertising is: https://vrtcal.com/docs/PrivacyPolicy-Advertising.pdf
+    We do not have access to home address or telephone number of any individuals in our advertising transactions.

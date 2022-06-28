@@ -1,0 +1,21 @@
+organization_name: Brooks Integrated Marketing, LLC
+website: https://www.brooksim.com/
+contact:
+    mail:
+        - address: 3333 Renaissance Blvd.#224, Bonita Springs, FL 34134, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@brooksim.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nYou may request to exercise your rights by: phone (800-531-2601x998) or email Privacy@BrooksIM.com provided on our website (https://www.brooksim.com/privacy-form), Please provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information about.  Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it., As required by law, we may take steps to verify your identity before granting you access to your information or completing your request to exercise your rights. We will respond to your request within 45 days of your request submission view email response or written format via mail. We do not charge a fee for processing your request to exercise your rights., \nYou may request to exercise your rights by: phone (800-531-2601x998) or email Privacy@BrooksIM.com provided on our website (https://www.brooksim.com/privacy-form), Please provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information about.  Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it., As required by law, we may take steps to verify your identity before granting you access to your information or completing your request to exercise your rights. We will respond to your request within 45 days of your request submission view email response or written format via mail. We do not charge a fee for processing your request to exercise your rights., \nBrooksIM does not collect information directly from consumers. We are a business-to-business software and marketing service provider. When we use third party data we adhere to the terms and conditions defined by those parties."

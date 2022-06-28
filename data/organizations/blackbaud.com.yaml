@@ -1,0 +1,21 @@
+organization_name: 'Blackbaud, Inc. '
+website: http://blackbaud.com
+contact:
+    mail:
+        - address: 65 Fairchild St., Charleston, SC 29492, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@blackbaud.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nIndividuals can exercise their rights with respect to their personal data we control by visiting our CCPA page (https://www.blackbaud.com/company/california-consumer-privacy-act) or by calling Toll-Free Phone Number: 1-866-I-OPT-OUT, Service Code: 220. \nIndividuals can exercise their rights with respect to their personal data we control by visiting our CCPA page (https://www.blackbaud.com/company/california-consumer-privacy-act) or by calling Toll-Free Phone Number: 1-866-I-OPT-OUT, Service Code: 220. \n"

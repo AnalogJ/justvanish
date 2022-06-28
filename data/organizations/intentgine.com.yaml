@@ -1,0 +1,23 @@
+organization_name: Intentgine Inc.
+website: http://intentgine.com
+contact:
+    mail:
+        - address: '316 California Ave #34, Reno, NV 89509, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: paul@intentgine.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    A consumer may make a request to privacy@intentmacro.com. They may also utilize an opt-out function via our website.
+    An individual can demand deletion of information through a request to privacy@intentmacro.com

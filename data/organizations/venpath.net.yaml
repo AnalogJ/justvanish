@@ -1,0 +1,24 @@
+organization_name: Venpath, Inc.
+website: https://www.venpath.net/
+contact:
+    mail:
+        - address: 665 S BAYVIEW AVE, FREEPORT, NY 11520, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: support@venpath.net
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A consumer may opt-out by clicking the link on our website, or toggling their “Do not track” setting on their device. Venpath will not process data without Enhanced advertising consent. Consumers can submit requests directly through our website with the global navigation link that states “Do Not Sell My Info”, or may reach out to VenPath through email : support@venpath.net, through our contact form on the website, or through our general “Privacy@venpath.net” account.
+    All of the opt-out methodologies above can provide for full deletion of information and we will then verify to the email provided of the deletion of data associated to the provided Advertising ID.
+    We collect data direct through mobile applications, requiring all of our partners to provide any consent or opt-out change within 24 hours, and push our partners to use our global compliance software which maintains both a global consent/opt-out list, but also an API to check consent for any of our partners at any time - providing real-time consent visibility.

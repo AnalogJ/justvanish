@@ -1,0 +1,21 @@
+organization_name: Exponential Interactive, Inc. doing business as VDX.tv
+website: http://vdx.tv
+contact:
+    mail:
+        - address: '2340 Powell Street, #378, Emeryville, CA 94608, United States'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@vdx.tv
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\n7.\tCONTACT INFORMATION, , Please contact us with any questions or concerns about this Policy using the information below:, , United States Address, Exponential Interactive, Inc. doing business as VDX.tv, Attn: Legal Department, 5858 Horton Street, Suite 300, Emeryville, CA 94608, , United Kingdom Address, Exponential Interactive, Inc., Attn: Data Privacy Officer, 30 Stamford Street, London, SE19LQ, , Email , privacy@vdx.tv, , Phone, (510) 250-5500, , To protect the security of your information, we will take steps as we deem necessary to confirm your identity before completing your request or sharing any personal information with you., \n7.\tCONTACT INFORMATION, , Please contact us with any questions or concerns about this Policy using the information below:, , United States Address, Exponential Interactive, Inc. doing business as VDX.tv, Attn: Legal Department, 5858 Horton Street, Suite 300, Emeryville, CA 94608, , United Kingdom Address, Exponential Interactive, Inc., Attn: Data Privacy Officer, 30 Stamford Street, London, SE19LQ, , Email , privacy@vdx.tv, , Phone, (510) 250-5500, , To protect the security of your information, we will take steps as we deem necessary to confirm your identity before completing your request or sharing any personal information with you., \nN/A."

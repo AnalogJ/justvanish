@@ -1,0 +1,21 @@
+organization_name: 'Integrated Medical Data, LLC.  '
+website: http://www.integratedmedicaldata.com
+contact:
+    mail:
+        - address: 261 Hawkin Rd, New Egypt, NJ 08533, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: bzink@integratedmedicaldata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nThe footer on our website includes a link to Alerts.com, a CCPA compliance service, in which the consumer can search what information we have and opt out of the database.  Those opts outs are added to a global suppression file that is then omitted from future list sales.  \nAlerts.com allows the deletion request to be submitted directly on the website, which provides a time/date and IP address stamp.  The individual then receives a notification of their request, referring to the time and date it was received.\nIMD is a list broker, we do not compile or aggregate data.  We are contracted to purchased data on behalf of our clients.  "

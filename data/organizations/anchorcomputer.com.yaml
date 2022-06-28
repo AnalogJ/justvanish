@@ -1,0 +1,21 @@
+organization_name: Anchor Computer Inc.
+website: https://www.anchorcomputer.com/
+contact:
+    mail:
+        - address: 1900 New Hwy, Farmingdale, NY 11735, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: 'privacyteam@anchorcomputer.com '
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nA consumer may opt out of sale or submit requests under the CCPA by (1) going to the anchor computer website https://www.anchorcomputer.com/ and clicking the “Please do not sell my personal information” button to fill out the online form, (2) emailing privacyteam@anchorcomputer.com , or (3) calling our toll-free number 800-646-2563. \nA consumer and/or protected individual can demand deletion of information by (1) going to the anchor computer website https://www.anchorcomputer.com/ and clicking the “Please do not sell my personal information” button to fill out the online form, (2) emailing privacyteam@anchorcomputer.com , or (3) calling our toll-free number 800-646-2563.\nPlease see our privacy policy https://www.anchorcomputer.com/index.php/privacy-policy/"

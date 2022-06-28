@@ -1,0 +1,21 @@
+organization_name: Infinite Media Concepts Inc
+website: http://www.mlxp.com
+contact:
+    mail:
+        - address: 190 East Post Road, White Plains, NY 10601, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: sheck@mlxp.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nA consumer can be deleted by sending and email to:  opt-out@mailinglists.com, , or contact us at:, , Infinite Media Concept Inc, 190 East Post Road, White Plains, NY  10601, 914-948-8300, mail@mlxp.com\nA consumer can be deleted by sending and email to:  opt-out@mailinglists.com, , or contact us at:, , Infinite Media Concept Inc, 190 East Post Road, White Plains, NY  10601, 914-948-8300, mail@mlxp.com\nwe are a re-seller of data, not a manufacturer of data "

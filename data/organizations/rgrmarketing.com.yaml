@@ -1,0 +1,21 @@
+organization_name: ReallyGreatRate, Inc., DBA RGR Marketing
+website: http://www.rgrmarketing.com
+contact:
+    mail:
+        - address: 2041 ROSECRANS AVENUE, SUITE 320, EL SEGUNDO, CA 90245, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ccpa@rgrmarketing.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nRGR has \"Do Not Sell My Info\" links on all consumer-facing sites. The same link and phone number are available in the RGR privacy policies. Consumers can leave a voicemail in order to opt of the sale of their data. Alternatively, they can go through the only portal in order to opt-out. All requests are completed well within the required timeline. \nRGR has \"Do Not Sell My Info\" links on all consumer-facing sites. The same link and phone number are available in the RGR privacy policies. Consumers can leave a voicemail in order to have their data deleted. Alternatively, they can go through the only portal in order to have their data deleted. All requests are completed well within the required timeline. \n"

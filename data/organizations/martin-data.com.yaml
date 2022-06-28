@@ -1,0 +1,23 @@
+organization_name: Martin Data LLC
+website: http://www.martin-data.com
+contact:
+    mail:
+        - address: 735 Taylor Rd STE 220, Columbus, OH 43230, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ccpa@usinfosearch.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Please go to www.martindataoptout.com to start the process.
+    Please go to www.martindataoptout.com to start the process.

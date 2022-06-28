@@ -1,0 +1,21 @@
+organization_name: 180 by Two, LLC
+website: http://www.180bytwo.com
+contact:
+    mail:
+        - address: 600 Cleveland St., Suite 213, Clearwater, FL 33755, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@180bytwo.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\n1.  Via our website @ https://180bytwo.com/privacycaliforniaresidents/, 2.  Via email to privacy@180bytwo.com, 3.  Via phone @ (909) 340-3259\n1.  Via our website under \"Do Not Sell My Personal Information\" Webform Link or from our CCPA Privacy notice., 2.  Via email to privacy@180bytwo.com, 3.  Via phone @ (909) 340-3259\nWe collect information:, , 1. Via our website:  Our Website collects information that identifies, relates to, describes, references, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer, household, or device (“personal information”)., , 2. Additionally, we may obtain personal information from the following categories of sources:,     a) Directly from you. For example, if you submit such information to us using forms on our website or by otherwise contacting us.,     b) Indirectly from you. For example, from your usage of mobile and computing devices from which we receive information from cookies and other device identifiers.,     c) From our third-party vendors and data licensors.,     d) From our partners and affiliates., "

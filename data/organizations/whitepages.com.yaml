@@ -1,0 +1,21 @@
+organization_name: 'Whitepages, Inc. '
+website: http://www.whitepages.com
+contact:
+    mail:
+        - address: 2033 6th Avenue, Suite 1100, Seattle, WA 98121, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@whitepages.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nCalifornia residents may submit a opt-out request online at https://www.whitepages.com/privacy/ccpa\nProtected individuals can request deletion at support.whitepages.com. Non-protected individuals who make CCPA requests via this webpage will be directed to https://www.whitepages.com/privacy/ccpa to submit their request.  \nWhitepages, founded in 1996, makes data available for a number of purposes, including fraud prevention, family safety, spam call detection, background vetting and contacting people outside your inner circle.  The majority of this data originates from public sources, including government agencies and state and local courts.  "

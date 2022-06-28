@@ -1,0 +1,24 @@
+organization_name: Amobee, Inc.
+website: https://www.amobee.com/
+contact:
+    mail:
+        - address: 10201 Wateridge Circle, Suite 400, San Diego, CA 92129, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: amobeeprivacy@amobee.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Please visit our Consumer Opt Opt page here: https://www.amobee.com/trust/consumer-opt-out/
+    Please visit our CCPA portal here: https://www.amobee.com/ccpa/
+    Please review our Privacy Guidelines here: https://www.amobee.com/trust/privacy-guidelines/

@@ -1,0 +1,21 @@
+organization_name: DMDatabases
+website: http://dmdatabases.com
+contact:
+    mail:
+        - address: 150 N Radnor Chester Rd., Suite F200, Wayne, PA 19087-5245, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: optout@dmdatabases.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nsimply click the opt-out link that is clearly shown on website. \nsimply complete the \"Opt-Out\" form clearly listed on website. \n"

@@ -1,0 +1,24 @@
+organization_name: SalesIntel Research Inc.
+website: http://www.salesintel.io
+contact:
+    mail:
+        - address: 4040 Fairfax Dr Ste 700a, Arlington, VA 22203-1613, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@salesintel.io
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Fill out the form on https://salesintel.io/opt-out/
+    Fill out the form on https://salesintel.io/opt-out/
+    https://salesintel.io/privacy-policy/

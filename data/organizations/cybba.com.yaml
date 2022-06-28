@@ -1,0 +1,21 @@
+organization_name: Cybba Inc.
+website: https://cybba.com
+contact:
+    mail:
+        - address: 580 Harrison Ave, Suite 401, Boston, MA 02118, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@cybba.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nHere is our CCPA policy which includes the OneTrust opt-out link: https://cybba.com/ccpa-notice/, , Step 1: User visits CCPA Policy, , Step 2: On the privacy policy page the user selects ‘Do not sell my personal data’, , Step 3: On th OneTrust web form the user selects ‘Do not sell my personal data’ and is directed to the following Onetrust Privacy Web Form, , Step 4: User is asked to confirm their identity via email, , Step 5: User receives Email Confirmation and is asked to confirm via the provided link, , Step 6: User is directed to a confirmation page, , Additionally, a user can opt-out via phone using the provided phone number and pin: +1 888 914 9661 pin:551480, , \nHere is our CCPA policy which includes the OneTrust opt-out link: https://cybba.com/ccpa-notice/, , Step 1: User visits CCPA Policy, , Step 2: On the privacy policy page the user selects ‘Do not sell my personal data’, , Step 3: On th OneTrust web form the user selects  'Delete My Information' and is directed to the following Onetrust Privacy Web Form, , Step 4: User is asked to confirm their identity via email, , Step 5: User receives Email Confirmation and is asked to confirm via the provided link, , Step 6: User is directed to a confirmation page, , Additionally, a user can opt-out via phone using the provided phone number and pin: +1 888 914 9661 pin:551480\nA user may access their information by doing the following, , Here is our CCPA policy which includes the OneTrust opt-out link: https://cybba.com/ccpa-notice/, , Step 1: User visits CCPA Policy, , Step 2: On the privacy policy page the user selects ‘Do not sell my personal data’, , Step 3: On th OneTrust web form the user selects 'Access My Information' and is directed to the following Onetrust Privacy Web Form, , Step 4: User is asked to confirm their identity via email, , Step 5: User receives Email Confirmation and is asked to confirm via the provided link, , Step 6: User is directed to a confirmation page, , , "

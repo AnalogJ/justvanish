@@ -1,0 +1,24 @@
+organization_name: Rooftop Digital
+website: http://therooftop.io
+contact:
+    mail:
+        - address: 30401 Agoura Rd, St 100, Agoura Hills, CA 91301, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacyofficer@therooftop.io
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    http://www.therooftop.io/privacy-policy/#ccpa_anchor
+    http://www.therooftop.io/privacy-policy/#ccpa_anchor
+    http://www.therooftop.io/privacy-policy/#ccpa_anchor

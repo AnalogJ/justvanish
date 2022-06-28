@@ -1,0 +1,21 @@
+organization_name: 'Audiencerate Ltd '
+website: http://www.audiencerate.com
+contact:
+    mail:
+        - address: Winnington House 2 Woodberry Grove, North Finchley, London, N12 0DR, United Kingdom
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: gl@audiencerate.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nThere is an automatic procedure. , https://www.audiencerate.com/opt-out/, Or you can send an e-mail to: dpo@audiencerate.com\nPlease see our Privacy Policy https://www.audiencerate.com/privacy/, Or you can send an e-mail to: dpo@audiencerate.com, , \nPlease see our Privacy Policy https://www.audiencerate.com/privacy/,  "

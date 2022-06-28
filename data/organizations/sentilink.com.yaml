@@ -1,0 +1,24 @@
+organization_name: SentiLink Corp
+website: http://www.sentilink.com
+contact:
+    mail:
+        - address: 171 2nd Street, 4th Floor, San Francisco, CA 94105, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@sentilink.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Send an email to privacy@sentilink.com. Please note that all data collected by SentiLink is collected for fraud prevention purposes pursuant to the under the Gramm-Leach­-Bliley Act of 1999 and its promulgating regulations.
+    Send an email to privacy@sentilink.com. Please note that all data collected by SentiLink is collected for fraud prevention purposes pursuant to the under the Gramm-Leach­-Bliley Act of 1999 and its promulgating regulations.
+    Presently all data collected by SentiLink is collected for fraud prevention purposes pursuant to the under the Gramm-Leach­-Bliley Act of 1999 and its promulgating regulations.

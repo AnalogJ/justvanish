@@ -1,0 +1,23 @@
+organization_name: Reach Marketing LLC
+website: http://www.reachmarketing.com
+contact:
+    mail:
+        - address: 2 Blue Hill Plaza, Pearl River, NY 10965, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@reachmarketing.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    California law permits California residents to request certain information regarding our disclosure of your personal information to third parties for their direct marketing purposes, as well as deletion, removal and/or transfer of your personal information. To make such a request, please send an email to info@reachmarketing.com specifying that you seek your “California Customer Choice Notice” in the subject line., , “Do Not Track” is a privacy preference that users can set in their web browsers. When a user turns on a Do Not Track signal in their browser, the browser sends a message to websites requesting that they do not track the user., , You can also contact us by mail:, Reach Marketing, Two Blue Hill Plaza, Concourse Level, Pearl River, NY 10965, , Visitors can also choose not to accept cookies. Your Web browser may alert and permit you to refuse cookies. Please check with the company operating your browser for more information on how to change those browser-level settings. Please note that disabling cookies for some services may affect your ability to use that service.
+    California Residents, , California law permits California residents to request certain information regarding our disclosure of your personal information to third parties for their direct marketing purposes, as well as deletion, removal and/or transfer of your personal information. To make such a request, please send an email to info@reachmarketing.com specifying that you seek your “California Customer Choice Notice” in the subject line., , “Do Not Track” is a privacy preference that users can set in their web browsers. When a user turns on a Do Not Track signal in their browser, the browser sends a message to websites requesting that they do not track the user., , You can also contact us by mail:, Reach Marketing, Two Blue Hill Plaza, Concourse Level, Pearl River, NY 10965, , Visitors can also choose not to accept cookies. Your Web browser may alert and permit you to refuse cookies. Please check with the company operating your browser for more information on how to change those browser-level settings. Please note that disabling cookies for some services may affect your ability to use that service.

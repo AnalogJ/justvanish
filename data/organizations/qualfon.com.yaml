@@ -1,0 +1,21 @@
+organization_name: Qualfon
+website: http://www.qualfon.com
+contact:
+    mail:
+        - address: 13700 Oakland Ave., Highland Park, MI 48203, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: consumerprivacy@qualfon.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nBy selecting a hyperlink in our Privacy Policy,calling the dedicated phone line, sending an email or writing a letter. All contact information on where to direct requests is provided in the Privacy Policy. \nBy selecting a hyperlink in our Privacy Policy,calling the dedicated phone line, sending an email or writing a letter. All contact information on where to direct requests is provided in the Privacy Policy. \n"

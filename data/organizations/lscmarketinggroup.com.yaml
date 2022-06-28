@@ -1,0 +1,21 @@
+organization_name: LSC MARKETING GROUP
+website: https://lscmarketinggroup.com/
+contact:
+    mail:
+        - address: 6 Trowbridge Dr., PO BOX 516, Bethel, CT 06801, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@lscmarketinggroup.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nCalifornia consumers may opt out of the sale of their personal information by submitting an online request to https://lscmarketinggroup.com/ccpa-form/ Consumers may also submit an email request to info@lscmarketinggroup.com or by direct mail or telephone. Our telephone number is 1-203-743-2600. Our mailing address is: LSC Marketing Group, Attn: Consumer Care Advocate - CCPA Requests, PO Box 516, Bethel , CT 06801. \nCalifornia consumers and/or elected or appointed officials may submit an opt-out request by submitting an online request to https://lscmarketinggroup.com/ccpa-form/. Consumers and/or elected or appointed officials may also submit an email request to info@lscmarketinggroup.com  or by direct mail or telephone. Our telephone number is 1-203-743-2600. Our mailing address is: LSC Marketing Group, Attn: Consumer Care Advocate - CCPA Requests, PO Box 516, Bethel , CT 06801. \nAn in-depth discussion of LSC Marketing Group’s  data collection practices can be found at: https://lscmarketinggroup.com/data/data-acquisition-consumer-business/"

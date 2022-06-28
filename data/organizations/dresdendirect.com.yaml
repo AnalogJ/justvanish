@@ -1,0 +1,24 @@
+organization_name: Dresdendirect
+website: http://dresdendirect.com
+contact:
+    mail:
+        - address: 109 St. Edward Place, Palm Beach Gardens, FL 33418, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: phil@dresdendirect.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    email
+    email or call 561 236 4449
+    Mainly a consultant

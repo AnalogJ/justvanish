@@ -1,0 +1,23 @@
+organization_name: All Web Leads, Inc
+website: http://www.allwebleads.com
+contact:
+    mail:
+        - address: 7300 FM 2222, Building 2, Suite 100, Austin, TX 78730, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: onlineops@allwebleads.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    A consumer may contact AWL Inc per instructions listed on http://www.allwebleads.com/privacy/ to opt out of sale or submit CCPA requests
+    A consumer may contact AWL Inc per instructions listed on http://www.allwebleads.com/privacy/ to demand deletion.

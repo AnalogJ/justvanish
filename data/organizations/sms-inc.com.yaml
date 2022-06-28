@@ -1,0 +1,23 @@
+organization_name: Specialists Marketing Services, Inc.
+website: http://www.sms-inc.com
+contact:
+    mail:
+        - address: 777 Terrace Ave, Suite 401, Hasbrouck Heights, NJ 07604, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dataprivacyteam@sms-inc.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Consumers can exercise their rights under the CCPA by visiting our website at www.sms-inc.com and filling out a web form, or, they can send an email to dataprivacyteam@sms-inc.com to initiate their request.
+    Consumers can exercise their rights under the CCPA by visiting our website at www.sms-inc.com and filling out a web form, or, they can send an email to dataprivacyteam@sms-inc.com to initiate their request.

@@ -1,0 +1,24 @@
+organization_name: BIGtoken, Inc.
+website: http://bigtoken.com
+contact:
+    mail:
+        - address: 456 Seaton Street, Los Angeles, CA 90013, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: support@bigtoken.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    They can submit a request through our website at bigtoken.com or use the "delete data" button in the BIGtoken application.
+    They can submit a request through our website at bigtoken.com or use the "delete data" button in the BIGtoken application.
+    None.

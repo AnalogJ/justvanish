@@ -1,0 +1,21 @@
+organization_name: e.Republic, Inc.
+website: http://www.erepublic.com
+contact:
+    mail:
+        - address: 100 Blue Ravine Road, Folsom, CA 95630, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: pharney@erepublic.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers may request a copy of their data, opt out of the sale of their data, or request that their data is deleted by submitting their request online, https://erepublic.secure.force.com/PrivacyRequest/, or by calling (800)940-6039.\n6208.1(b)  - We do not publicly post home addresses or telephone numbers on our websites. , 6254.21(c)(1 – We do not publicly post home addresses or telephone numbers of elected or appointed officials on our websites. , \nData is collected when consumers share their information at the time of registering with us through our websites, through telephone calls, and through the review of publicly listed information on government websites. "

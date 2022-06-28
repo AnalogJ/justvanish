@@ -1,0 +1,24 @@
+organization_name: LeadIQ, Inc
+website: https://leadiq.com/
+contact:
+    mail:
+        - address: 548 Market St, PMB 20317, San Francisco, CA 94104-5401, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@leadiq.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers can opt out of sale or submit requests by visiting https://privacy.leadiq.com/ and completing the online form, or contacting LeadIQ at support@leadiq.com
+    Consumers can request deletion by visiting https://privacy.leadiq.com/ and completing the online form, or contacting LeadIQ at support@leadiq.com
+    Please see LeadIQ's Privacy Policy online at https://leadiq.com/privacy-policy for more information on data collecting practices.

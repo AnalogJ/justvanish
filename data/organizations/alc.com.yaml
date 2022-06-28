@@ -1,0 +1,23 @@
+organization_name: Adstra LLC
+website: http://www.alc.com
+contact:
+    mail:
+        - address: 750 College Road East, Suite 201, Princeton, NJ 80540, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy.officer@alc.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    By visiting www.alc.com and completing the OneTrust webforms.
+    By visiting www.alc.com and submitting a deletion request through its privacy policy.

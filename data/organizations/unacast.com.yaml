@@ -1,0 +1,24 @@
+organization_name: Unacast, Inc.
+website: https://www.unacast.com/
+contact:
+    mail:
+        - address: 245 Fifth Avenue, Suite 1101, New York, NY 10016, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@unacast.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may make use of a webform maintained on the Unacast website at https://www.unacast.com/opt-out. Requests to know, delete, and opt-out may be submitted through this webform per the consumer's designation. Consumers may also submit general privacy requests to privacy@unacast.com.
+    Unacast does not maintain or provide to its clients the home address, telephone number, or image of any individual. However, deletion requests may generally be submitted by any individual to privacy@unacast.com or in writing to: Unacast, Inc. 245 Fifth Avenue, Suite 1101 New York, NY 10016.
+    Unacast's full data collection, use, and disclosure practices are described in detail in its online privacy policy, available at: https://www.unacast.com/privacy.

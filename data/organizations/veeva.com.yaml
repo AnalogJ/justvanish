@@ -1,0 +1,21 @@
+organization_name: Veeva Systems Inc.
+website: https://www.veeva.com
+contact:
+    mail:
+        - address: 4280 Hacienda Drive, Pleasanton, CA 94588, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ccpa@veeva.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers may opt out of sale or submit requests under the CCPA through the various methods explained on our privacy page: , , https://www.veeva.com/privacy/ccpa/\nVeeva does not post any personal information online under Gov. Code sections 6208.1(b) or 6254.21(c)(1). \nFor Veeva OpenData or Veeva Oncology Link, Veeva is a Business selling Personal Information under the CCPA. For all other Veeva software and analytics solutions, such as Veeva CRM and Veeva Vault, Veeva is a Service Provider. We do not sell or disclose any Personal Information collected, disclosed, or otherwise processed by our software and analytics solutions., , For more information about Veeva's privacy practices, please visit:, , https://www.veeva.com/privacy/"

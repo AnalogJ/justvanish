@@ -1,0 +1,24 @@
+organization_name: GetEmails, LLC
+website: http://www.getemails.com
+contact:
+    mail:
+        - address: 1701 Waterston Ave, Austin, TX 78703, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: support@getemails.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    https://app.getemails.com/ccpa_details
+    Email support@getemails.com.
+    https://support.getemails.com/article/terms-of-use/

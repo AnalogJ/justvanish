@@ -1,0 +1,24 @@
+organization_name: Abalta Technologies Inc.
+website: https://www.abaltatech.com/
+contact:
+    mail:
+        - address: 1350 Bayshore Highway, Suite 345, Burlingame, CA 94010, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@abaltatech.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A consumer can contact us in the following methods: By email: privacy@abaltatech.com, by visiting this page on our website: https://www.abaltatech.com/contact-us, by toll-free telephone number: 877.624.9471, or by mail: 1350 Bayshore Highway, Suite 580, Burlingame, CA 94010
+    A consumer can contact us in the following methods: By email: privacy@abaltatech.com, by visiting this page on our website: https://www.abaltatech.com/contact-us, by toll-free telephone number: 877.624.9471, or by mail: 1350 Bayshore Highway, Suite 580, Burlingame, CA 94010
+    Please refer to our CCPA compliant Privacy Policy: https://www.abaltatech.com/privacy

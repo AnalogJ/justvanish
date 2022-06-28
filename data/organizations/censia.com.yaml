@@ -1,0 +1,23 @@
+organization_name: Censia
+website: http://censia.com
+contact:
+    mail:
+        - address: 450 Geary Street, Suite 501, San Francisco, CA 94102, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: tgotowka@censia.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    LInk on Corporate website
+    Link through the corporate web site

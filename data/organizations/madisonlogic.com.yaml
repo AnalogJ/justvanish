@@ -1,0 +1,21 @@
+organization_name: Madison Logic, Inc.
+website: http://www.madisonlogic.com
+contact:
+    mail:
+        - address: 257 Park Avenue South, 2nd Floor, New York, NY 10010, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@madisonlogic.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\n Madison Logic does not share Personal Data with these third parties, but they may set and access their own cookies, pixel tags and similar technologies on your device and they may otherwise collect or have access to anonymous Usage Information., When you use the opt-out mechanism, Madison Logic will no longer use or share any of your Personal Data or anonymous Usage Information, with the exception of Personal Data submitted within the last 30 days to access free content, which the Content Provider may access., \nA protected individual can demand deletion of information by:, - submit \"opt-out\" form online, - e-mail completed \"opt-out\" form , - mail completed \"opt-out\" form \n"

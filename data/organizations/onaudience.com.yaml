@@ -1,0 +1,23 @@
+organization_name: OnAudience Ltd
+website: https://www.onaudience.com/
+contact:
+    mail:
+        - address: Craven House 40-44 Uxbridge Road London W5 2BS, London, 40-44, United Kingdom
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@onaudience.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    https://www.onaudience.com/opt-out; https://www.onaudience.com/do-not-sell-my-personal-info
+    https://www.onaudience.com/do-not-sell-my-personal-info and by contacting OnAudience via the mailboxprivacy@onaudience.com

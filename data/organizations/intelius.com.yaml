@@ -1,0 +1,21 @@
+organization_name: Intelius, LLC
+website: http://www.intelius.com
+contact:
+    mail:
+        - address: 15501 W Broadway St., Suite 800, San Diego, CA 92101, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: 'support@mailer.intelius.com '
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nA consumer can opt out of having their personal information appear on www.intelius.com, www.ussearch.com, and www.pro.ussearch.com and other similar people search websites the company owns and operates by visiting those sites and clicking on the \"Do Not Sell My Personal Information\" or “Suppress My Data” links located at the bottom of the page, selecting the specific person profile they want opted out, and submitting an opt-out request for that profile. Consumers may also submit requests to Intelius under the CCPA by calling (888) 245-1655 or emailing support@mailer.intelius.com. Consumers may submit requests to US Search under the CCPA by calling (888) 712-0108 or (833) 949-2444 or emailing support@ussearch.com or professional-support@ussearch.com.\nIntelius requests that demands for deletion of information under Gov. Code Sections 6208.1(b) or 6254.21(c)(1) be made by delivering a written request via email to , support@mailer.intelius.com, support@ussearch.com, professional-support@ussearch.com,  or by mail at 501 W Broadway St., Suite 800, San Diego, CA 92101., \n"

@@ -1,0 +1,21 @@
+organization_name: Aristotle International Inc.
+website: http://www.aristotle.com
+contact:
+    mail:
+        - address: 205 Pennsylvania Avenue SE, Washington, DC 20003, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@aristotle.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nCalifornia residents may exercise their rights under the CCPA by visiting our website at www.aristotle.com. CCPA privacy request by phone: 888-217-9600\nCalifornia residents may exercise their rights under the CCPA by visiting our website at www.aristotle.com. CCPA privacy request by phone: 888-217-9600\nInformation about Aristotle practices can be found in this link www.Aristotle.com, , "

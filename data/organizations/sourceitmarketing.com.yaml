@@ -1,0 +1,24 @@
+organization_name: SourceIT Technologies, Inc
+website: https://www.sourceitmarketing.com/
+contact:
+    mail:
+        - address: 2206 N Main Street, Suite 183, Wheaton, IL 60187, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dataprivacy@sourceitmarketing.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    The consumer can visit our website in the footer there is a link to Do not Sell My Personal Information and goes to https://www.sourceitmarketing.com/privacy, From that page they can request to opt out or view/manage their data. A consumer can also contact us via our toll free number 800-478-8089, or the contact form on our website.
+    A protected individual can visit https://www.sourceitmarketing.com/privacy to have their profile information deleted. Or give us a call at our toll free number 800-478-8089
+    For our data collection policies please visit our privacy policy on our website for the most up to date information.

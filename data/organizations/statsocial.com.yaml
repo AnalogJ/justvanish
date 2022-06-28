@@ -1,0 +1,24 @@
+organization_name: StatSocial
+website: https://www.statsocial.com
+contact:
+    mail:
+        - address: 1 World Trade Center, Office 8500, New York, NY 10007, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@statsocial.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    https://www.statsocial.com/optout/
+    https://www.statsocial.com/optout/
+    https://www.statsocial.com/privacy-policy/

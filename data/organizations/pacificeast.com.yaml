@@ -1,0 +1,21 @@
+organization_name: PacificEast Research Inc.
+website: http://www.pacificeast.com
+contact:
+    mail:
+        - address: 8625 SW Cascade Avenue, Suite 250, Beaverton, OR 97008, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@pacificeast.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers can view instructions related to CCPA or GDPR Compliance at https:\\\\www.pacificeast.com/privacy-policy, send an email to privacy@pacificeast.com or call PacificEast at 800-665-8400.\nConsumers can view instructions related to CCPA or GDPR Compliance at https:\\\\www.pacificeast.com/privacy-policy, send an email to privacy@pacificeast.com or call PacificEast at 800-665-8400.\nMore information available at https:\\\\www.pacificeast.com/privacy-policy "

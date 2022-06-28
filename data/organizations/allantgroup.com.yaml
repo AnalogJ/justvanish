@@ -1,0 +1,24 @@
+organization_name: Allant Group, LLC
+website: http://www.allantgroup.com/
+contact:
+    mail:
+        - address: 2655 Warrenville Rd, Suite 200, Downers Grover, IL 60515, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@allantgroup.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Notify Allant Group, LLC using instructions in Privacy Policy at www.allantgroup.com, emailing privacy@allantgroup.com, or by calling (800) 367-7311.
+    Notify Allant Group, LLC using instructions in Privacy Policy at www.allantgroup.com, emailing privacy@allantgroup.com, or by calling (800) 367-7311.
+    Allant does not collect consumer data directly. When we use third party data we adhere to the terms and conditions defined by those parties.

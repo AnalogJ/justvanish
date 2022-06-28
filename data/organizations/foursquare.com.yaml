@@ -1,0 +1,21 @@
+organization_name: 'Foursquare Labs, Inc. '
+website: http://www.foursquare.com
+contact:
+    mail:
+        - address: 50 W 23rd Street, 8th Floor, New York, NY 10010, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@foursquare.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nConsumers can learn how to exercise their privacy rights with Foursquare, including the rights to access, deletion and opting out of sale, by visiting \"Your Privacy Choices\" maintained on the Foursquare website at: https://foursquare.com/products/your-privacy-choices/. If consumers wish to opt-out of sale, they can submit their request by visiting: https://foursquare.com/data-requests/.  Consumers may also submit general privacy requests via webform maintained on Foursquare's website at: https://foursquare.atlassian.net/servicedesk/customer/portal/25.  \nAn individual may contact us to demand deletion of information posted on our websites or apps by contacting us via webform maintained on Foursquare's website at: https://foursquare.atlassian.net/servicedesk/customer/portal/25.  \nAs a company with a long history of consumer apps, Foursquare is dedicated and has a strong core belief in protecting the privacy of consumers. "

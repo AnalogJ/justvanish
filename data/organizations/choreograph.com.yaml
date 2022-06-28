@@ -1,0 +1,23 @@
+organization_name: Choreograph LLC
+website: http://www.choreograph.com
+contact:
+    mail:
+        - address: 3411 SILVERSIDE ROAD TATNALL BUILDING STE 104, WILMINGTON, DE 19810, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: 'donotmail@choreograph.com '
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    A consumer may exercise their right to opt out or submit a request under the CCPA  through a dedicated Customer Portal powered by OneTrust, a privacy managment software.
+    N/A

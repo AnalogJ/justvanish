@@ -1,0 +1,24 @@
+organization_name: FOREWARN, LLC
+website: http://www.forewarn.com
+contact:
+    mail:
+        - address: 2650 N. Military Trail, Suite 300, Boca Raton, FL 33431, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal.compliance@forewarn.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    For information about CCPA rights, please visit our privacy policy at www.forewarn.com/privacy-policy/.
+    FOREWARN does not publicly post or publicly display personal information on the Internet.
+    Additional information about FOREWARN’s data collection practices can be found at www.forewarn.com/privacy-policy/.

@@ -1,0 +1,24 @@
+organization_name: GumGum Inc.
+website: https://gumgum.com/
+contact:
+    mail:
+        - address: 1314 7th St., 4th Floor, Santa Monica, CA 90401, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dataprivacy@gumgum.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Opt-out” form and button located within Terms & Policies on website, as well as OneTrust "Do not sell" button leading to a subject access form.
+    We have an opt-out phone number 1-866-I-OPT-OUT Service # 319 where requests can be left, as well as a direct email account (dataprivacy@gumgum.com), and a OneTrust "Do not sell" button leading to a subject access form.
+    Our opt-out page reads as follows:, At GumGum, we believe in making advertising as relevant and engaging as possible to enhance your experience across our premium platform. In order to do this, we use cookies to collect non-personally identifiable information about the pages you visit on the partner websites in which GumGum is enabled., , We also respect your privacy. If you prefer we do not use this type of log data for serving ads that are more relevant to your interests, please click the “opt-out” button below. Selecting this option lets us know not to use information about your web browsing behavior for ad targeting (also known as ‘behavioral advertising’)., , By choosing to “opt-out”, you are opting out of the behavioral targeting. This means you will still receive GumGum ads, they will just not be specifically targeted to you/your interests.

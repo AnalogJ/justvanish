@@ -1,0 +1,24 @@
+organization_name: VideoAmp, Inc.
+website: http://videoamp.com
+contact:
+    mail:
+        - address: 2229 S. Carmelina Ave., Los Angeles, CA 90064, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ccpaprivacy@videoamp.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A consumer may opt out of sale or submit requests under CCPA by following the instructions on VideoAmp's privacy policy: https://www.videoamp.com/consumer-rights-under-ccpa.
+    Not applicable as VideoAmp does not collect, process or use the types of personal information governed by those Gov. Code sections.
+    See VideoAmp's privacy policy here: https://www.videoamp.com/privacy-policy.

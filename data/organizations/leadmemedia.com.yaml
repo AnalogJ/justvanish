@@ -1,0 +1,24 @@
+organization_name: Lead Me Media
+website: http://www.leadmemedia.com/
+contact:
+    mail:
+        - address: 150 E Palmetto park Road, 200, Boca Raton, FL 33432, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ccpa@leadmemedia.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Through our portal at: http://leadmemedia.com/CCPA/CCPA_portal.html
+    Through our portal at: http://leadmemedia.com/CCPA/CCPA_portal.html
+    N/A

@@ -1,0 +1,23 @@
+organization_name: Audient Company LLC
+website: http://www.audientco.com
+contact:
+    mail:
+        - address: 2234 N Federal HWY, Suite 3018, Boca Raton, FL 33431, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@audientco.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    https://www.audientco.com/ccpa-privacy-policy
+    https://www.audientco.com/ccpa-privacy-policy

@@ -1,0 +1,24 @@
+organization_name: KB Synergy Inc
+website: http://kbsynergy.com
+contact:
+    mail:
+        - address: 860 Hampshire Rd, Westlake Village, CA 91361, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@kbsynergy.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Our marketing sites have a link that submits the information to us to track the opt out under the CCPA name., We also have a main database to track each individual, when the opt out and the site the opt out from
+    The CCPA links on our marketing sites with allow them to submit their information to us for deletion as well
+    We use 3rd party CRM's and software to track the data in a secured encrypted environment

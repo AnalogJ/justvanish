@@ -1,0 +1,21 @@
+organization_name: SourceScrub LLC
+website: https://www.sourcescrub.com
+contact:
+    mail:
+        - address: 115 Sansome Street, Suite 1200, San Francisco, CA 94104, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@sourcescrub.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: "\nA consumer may opt out of sale or submit requests under the CCPA by emailing us at privacy@sourcescrub.com or by filling out our opt-out form: https://www.sourcescrub.com/legal/do-not-sell-my-personal-information\nA consumer may opt out of sale or submit requests under the CCPA by emailing us at privacy@sourcescrub.com or by filling out our opt-out form: https://www.sourcescrub.com/legal/do-not-sell-my-personal-information\nWe collect publicly available Names and Business Emails for executives at small businesses in the US "

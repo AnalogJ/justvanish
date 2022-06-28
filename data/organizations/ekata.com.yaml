@@ -1,0 +1,23 @@
+organization_name: Ekata, Inc.
+website: http://www.ekata.com
+contact:
+    mail:
+        - address: 1301 Fifth Avenue, Suite 1600, Seattle, WA 98101, United States
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ccparequest@ekata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4
+    Complete form at:  https://privacyrequests.ekata.com/hc/en-us/requests/new?
+    Not applicable because Ekata does not publicly display individuals’ home addresses or telephone numbers online.
