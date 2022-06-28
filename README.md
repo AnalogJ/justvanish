@@ -4,6 +4,7 @@ Tell databrokers to F#@% Off. Your data is your data, they shouldn't be monetizi
 
 # Why?
 
+- https://www.bloomberg.com/news/articles/2022-06-27/anti-abortion-centers-find-pregnant-teens-online-then-save-their-data?srnd=technology-vp
 - https://slate.com/technology/2022/06/health-data-brokers-privacy.html
 - https://www.vice.com/en/article/m7vzjb/location-data-abortion-clinics-safegraph-planned-parenthood
 - https://www.wired.com/story/data-brokers-tracking-abortion-clinics-security-news/

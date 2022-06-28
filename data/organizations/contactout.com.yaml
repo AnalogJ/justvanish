@@ -1,0 +1,27 @@
+organization_name: 'Telefi LLC'
+website: 'https://www.telefi.app'
+contact:
+  mail:
+    - address: |
+        934 Howard St
+        San Francisco, CA
+        94103
+        United States
+      usage:
+        - request.ccpa
+        - delete.ccpa
+  email:
+    - address: support@contactout.com
+      usage:
+        - request.ccpa
+        - donotsell.ccpa
+        - delete.ccpa
+
+organization_type:
+  - databroker
+
+regulation:
+  - ccpa
+
+notes: 'An in-depth discussion of ContactOuts data collection practices can be found at: https://contactout.com/privacy_data_subjects'
+

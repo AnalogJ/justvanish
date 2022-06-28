@@ -1,0 +1,31 @@
+organization_name: 'Corelogic Credco, Llc'
+website: 'https://www.corelogic.com/privacy.aspx'
+contact:
+  mail:
+    - address: |
+        Mark Wynn
+        Sr Ldr, Compliance Officer
+        40 Pacifica Suite 900 Irvine, CA 9261
+      usage:
+        - request.ccpa
+        - delete.ccpa
+  email:
+    - address: privacy@corelogic.com
+      usage:
+        - request.ccpa
+        - donotsell.ccpa
+        - delete.ccpa
+    - address: dghazaleh@corelogic.com
+      usage:
+        - request.ccpa
+        - donotsell.ccpa
+        - delete.ccpa
+
+organization_type:
+  - databroker
+
+regulation:
+  - ccpa
+
+notes: ''
+

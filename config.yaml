@@ -1,0 +1,18 @@
+# The information in these fields may be sent to various organizations for identity validation.
+# To determine exactly which fields are required for a specific organization, see the organization yaml file the `organization` folder
+user:
+  first_name: 'MyFirstName'
+  last_name: 'MyLastName'
+  email_addresses:
+    - test@example.com
+  mail_addresses:
+    - 123 street, unit 456, example city name, CA, 78901
+  phone_numbers:
+    - 123-456-7890
+
+# SMTP is used to send optout, access and delete requests via email
+smtp:
+  hostname: ''
+  port:
+  username: ''
+  password: ''

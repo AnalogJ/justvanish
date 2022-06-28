@@ -1,0 +1,31 @@
+organization_name: 'Beenverified, Inc'
+website: 'https://www.beenverified.com/faq/privacy/'
+contact:
+  mail:
+    - address: |
+        BeenVerified
+        MSC -- 149098
+        P.O. Box 105168
+        Atlanta, GA 30348-5168
+      usage:
+        - request.ccpa
+        - delete.ccpa
+  email:
+    - address: ccpa@beenverified.com
+      usage:
+        - request.ccpa
+        - donotsell.ccpa
+        - delete.ccpa
+  website:
+    - address: 'www.bv-email.com'
+      usage:
+        - donotsell.ccpa
+
+organization_type:
+  - databroker
+
+regulation:
+  - ccpa
+
+notes: ''
+

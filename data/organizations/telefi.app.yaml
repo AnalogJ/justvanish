@@ -1,0 +1,27 @@
+organization_name: 'Telefi LLC'
+website: 'https://www.telefi.app'
+contact:
+  mail:
+    - address: |
+        1465 N Hayden Rd, 120,
+        Scottsdale, AZ
+        85257
+        United States
+      usage:
+        - request.ccpa
+        - delete.ccpa
+  email:
+    - address: ccpa@telefi.app
+      usage:
+        - request.ccpa
+        - donotsell.ccpa
+        - delete.ccpa
+
+organization_type:
+  - databroker
+
+regulation:
+  - ccpa
+
+notes: 'Using the website, the footer menu has a CCPA link and can directly email us to remove them or get the relevant information they may need.'
+
