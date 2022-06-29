@@ -50,6 +50,10 @@ func main() {
 		}
 	}
 
+	if len(failedValidation) > 0 {
+		panic(fmt.Errorf("%v", failedValidation))
+	}
+
 }
 
 func toStringKeys(val interface{}) (interface{}, error) {
