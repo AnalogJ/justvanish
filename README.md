@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/AnalogJ/justvanish">
+  <img width="300" alt="vanish_view" src="docs/noun-ghost-1358159.png">
+  </a>
+</p>
+
+
 # justvanish
 Tell databrokers to F#@% Off. Your data is your data, they shouldn't be monetizing your personal information without your knowledge.
 
@@ -79,3 +86,6 @@ but until regulation supporting that passes, the only alternative is for consume
 - https://www.ftccomplaintassistant.gov/?utm_source=takeaction#crnt&panel1-1
 - https://oag.ca.gov/contact/consumer-complaint-against-business-or-company
 - https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens/redress/what-should-i-do-if-i-think-my-personal-data-protection-rights-havent-been-respected_en
+
+# References
+- Logo: [Ghost by Royyan Wijaya](https://thenounproject.com/icon/ghost-1358159/)
