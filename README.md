@@ -37,8 +37,7 @@ In general these laws provide privacy rights to consumers (GDPR is similar):
 - The right to opt-out of the sale of their personal information; and 
 - The right to non-discrimination for exercising their CCPA rights.
 
-Unfortunately these laws only apply to California & European residents. Still, it's a good foundation to build ontop
-of these laws.
+Unfortunately these laws only apply to California & European residents. Still, it's a good foundation to build on top of.
 
 # Goals
 
@@ -60,6 +59,131 @@ Ideally there would be a national registry where consumers could "opt-out" thems
 but until regulation supporting that passes, the only alternative is for consumers to exercise their rights themselves. 
 
 # Getting Started
+
+Under the hood JustVanish contains a "database" of data-brokers and their contact information. You can see this information
+by going to the [`data/organizations`](./data/organizations) folder.
+
+You can run JustVanish in one of three modes:
+- [request](./data/templates/request)
+- [delete](./data/templates/delete)
+- [donotsell](./data/templates/donotsell)
+
+For each mode, there exists an email template (written in legalese) for the various regulations that may be applicable to you:
+- California residents - California Consumer Privacy Act (CCPA)
+- European residents - General Data Protection Regulation (GDPR)
+- Virginia residents - **coming soon**
+
+Depending on the mode/action you select, and the relevant regulation, JustVanish will automatically fire off hundreds of emails to
+the various data brokers that we known about, requesting that they give you access to your data, add you to a do-not-sell list or 
+delete all personal information they may have already collected on you. 
+
+> NOTE: JustVanish is currently hardcoded so that  to NOT send any actual emails. It's still under active development, and is not quite ready for 
+> use by end-users, only developers & contributors. If you'd like to be notified when a final version is released, please star or watch the repository. 
+
+
+
+Until binary versions are available, JustVanish requires a Go development environment. 
+
+```bash
+$ go --version
+go version go1.18.3
+
+git clone https://github.com/AnalogJ/justvanish.git
+```
+
+Next you should create a config file (or update the example config file)
+
+```yaml
+# see: config.yaml
+
+# The information in these fields may be sent to various data-brokers & organizations for identity validation.
+# To determine exactly which fields are required for a specific template see the `./data/templates/` subfolders.
+user:
+  first_name: 'MyFirstName'
+  last_name: 'MyLastName'
+  email_addresses:
+    - test@example.com
+  mail_addresses:
+    - 123 street, unit 456, example city name, CA, 78901
+  phone_numbers:
+    - 123-456-7890
+
+# NOTE - THESE SMTP CONFIGURATION KEYS ARE IGNORED FOR NOW 
+# SMTP is used to send optout, access and delete requests via email
+smtp:
+  username: ''
+  password: ''
+#  hostname: "smtp.gmail.com"
+#  port: 587
+
+```
+
+Then you can run JustVanish with the relevant mode/action (`request`, `delete`, `donotsell`, etc) 
+
+```bash
+$ go run cmd/vanish/vanish.go --help        
+
+....
+
+COMMANDS:
+   list     List all known organizations that store your personal information
+   request  Request a copy of your of your personal information
+   help, h  Shows a list of commands or help for one command
+
+
+
+# you can view the available flags for a command by running
+go run cmd/vanish/vanish.go request --help
+
+AnalogJ/justvanish                           .-0.0.1
+NAME:
+    request - Request a copy of your of your personal information
+
+USAGE:
+    request [command options] [arguments...]
+
+OPTIONS:
+   --regulation-type value  Filter by regulation type (default: "ccpa")
+   --org-type value         Filter by organization type
+   --org-id value           Filter by organization id
+   --dry-run                Dry run mode
+   --debug                  Enable debug logging
+   
+```
+
+```
+# for example, you can submit an un-filtered request to every data-broker by running the following command:
+#
+# NOTE: vanish is hard-coded to run in dry-run mode, no emails are actually sent, instead they are all captured by 
+# https://ethereal.email/
+# a `ethereal.credentials.json` file will be created with a username and password you can use to login and see that your emails would look like. 
+$ go run cmd/vanish/vanish.go request
+
+Email Sent Successfully! (180 by Two, LLC)
+Email Sent Successfully! (33Across, Inc.)
+Email Sent Successfully! (33 Mile Radius LLC)
+...
+...
+
+# To get a sense of what the final emails will actually look like, you'll need to login to the Ethereal.email portal. 
+$ cat ethereal.credentials.json
+{
+ "user": "ph2mxp.....@ethereal.email",
+ "pass": "zE4JuM9....",
+ "web": "https://ethereal.email",
+ "status": "success",
+
+...
+
+ "smtp": {
+  "host": "smtp.ethereal.email",
+  "port": 587,
+  "secure": false
+ }
+}
+```
+
+Here's a [screenshot of the https://ethereal.email portal](./docs/ethereal-screenshot.png)
 
 
 # What about ...?
