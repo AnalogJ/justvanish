@@ -22,6 +22,9 @@
     "website": {
       "anyOf": [
         { "type": "string",
+          "maxLength": 0
+        },
+        { "type": "string",
           "default": "",
           "format": "uri",
           "examples": [
