@@ -1,0 +1,29 @@
+organization_name: Black Knight Data & Analytics, Llc
+website: https://www.blackknightinc.com/privacy-notice/
+contact:
+    mail:
+        - address: New York
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 601 Riverside Avenue, Jacksonville, FL, 32204, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: corporatecompliance@bkfs.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? No
+
+    None listed.

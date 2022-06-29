@@ -1,0 +1,22 @@
+organization_name: Active Intel Investigations LLC
+website: activeintel.com
+contact:
+    mail:
+        - address: 5080 Spectrum Drive Suite 1000 East, Suite 1000 East, Addison, TX, 75001, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: daveafx@gmail.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    none known

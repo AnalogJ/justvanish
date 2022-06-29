@@ -7,8 +7,28 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Colorado
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1200 17th Street, Suite 13-103, Denver, CO, 80202, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy@fullcontact.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: dan.wobbekind@fullcontact.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: legal@fullcontact.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +38,11 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nConsumers can opt out of sale or submit requests under the CCPA via our website at https://platform.fullcontact.com/claim.  Consumers can also opt out by emailing privacy@fullcontact.com\nFullContact does not have a platform that allows information to be posted online\nFullContact complete privacy policy can be found here https://www.fullcontact.com/privacy/ , "
+notes: |-
+    Consumers can opt out of sale or submit requests under the CCPA via our website at https://platform.fullcontact.com/claim.  Consumers can also opt out by emailing privacy@fullcontact.com
+    FullContact does not have a platform that allows information to be posted online
+    FullContact complete privacy policy can be found here https://www.fullcontact.com/privacy/ ,
+    Allows Opt-Out? Yes - by Opt-Out Form
+
+    A consumer can opt-out by using the "Own Your Personal Data" capability in our Privacy Center located at: ttps://www.fullcontact.com/privacy-center/
+    FullContact has described its data collection, usage, sharing and retention practices at https://www.fullcontact.com/privacy-center/

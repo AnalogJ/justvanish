@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nConsumers may contact us at our toll free number, at 1-888-481-6811. They may also contact us via email at privacy@therecruitbot.com, or fill out a request form at www.therecruitbot.com/opt-out/.\nProtected individuals may contact us at our toll free number, at 1-888-481-6811. They may also contact us via email at privacy@therecruitbot.com, or fill out a request form at www.therecruitbot.com/opt-out/.\nWe collect data from a variety of sources. All purchased data sources are explicitly in compliance with CCPA and GDPR. We have obtained a signed attestation from our third party vendors explicitly affirming their compliance. "
+notes: |4-
+    Consumers may contact us at our toll free number, at 1-888-481-6811. They may also contact us via email at privacy@therecruitbot.com, or fill out a request form at www.therecruitbot.com/opt-out/.
+    Protected individuals may contact us at our toll free number, at 1-888-481-6811. They may also contact us via email at privacy@therecruitbot.com, or fill out a request form at www.therecruitbot.com/opt-out/.
+    We collect data from a variety of sources. All purchased data sources are explicitly in compliance with CCPA and GDPR. We have obtained a signed attestation from our third party vendors explicitly affirming their compliance.

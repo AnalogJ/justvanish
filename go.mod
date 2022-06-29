@@ -5,6 +5,8 @@ go 1.18
 require (
 	github.com/analogj/go-util v0.0.0-20210417161720-39b497cca03b
 	github.com/fatih/color v1.13.0
+	github.com/gocarina/gocsv v0.0.0-20220531201732-5f969b02b902
+	github.com/santhosh-tekuri/jsonschema/v5 v5.0.0
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/viper v1.10.1
 	github.com/stretchr/testify v1.7.0
@@ -19,7 +21,6 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/go-test/deep v1.0.8 // indirect
-	github.com/gocarina/gocsv v0.0.0-20220531201732-5f969b02b902 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/kr/pretty v0.2.0 // indirect
 	github.com/kvz/logstreamer v0.0.0-20150507115422-a635b98146f0 // indirect

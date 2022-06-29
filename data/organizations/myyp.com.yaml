@@ -1,0 +1,22 @@
+organization_name: Valley Yellow Pages (Myyp.Com)
+website: http://www.myyp.com/privacy
+contact:
+    mail:
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: vyp@myyp.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? No

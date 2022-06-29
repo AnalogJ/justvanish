@@ -1,0 +1,36 @@
+organization_name: Backgroundchecks.Com Llc
+website: https://www.backgroundchecks.com/privacypolicy
+contact:
+    mail:
+        - address: Texas
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 12770 Coit Road, Suite 300, Dallas, TX, 75251, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 12770 Coit Road,, Suite 300, Dallas, TX, 75251, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: cklafehn@backgroundchecks.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Unclear
+
+    (Continued from #4) In addition, in some cases authorized by the federal Fair Credit Reporting Act, BGC provides reports without the authorization of the subject of the report. BGC's understanding of the FCRA is that Congress has judged that these are situations where the nature of the underlying transaction puts the subject of the report on notice that a report might be obtained.
+
+    Typically, those services are provided directly to end-users who have obtained the express authorization for the end-user to obtain, and for BGC to provide, the information.  Sometimes, however, BGC's services are provided to another background screening company that will provide the information to the end-user. In addition, in some cases authorized by the federal Fair Credit Reporting Act, BGC provides reports without the authorization of the subject of the report.

@@ -7,8 +7,18 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Minnesota
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy.enquiries@thomsonreuters.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: sonya.southward@thomsonreuters.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +28,8 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nConsumers may contact us through our Data Subject Rights Portal (https://privacyportal-cdn.onetrust.com/dsarwebform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d.html) or 1-866-633-7656\nConsumers may contact us through our Data Subject Rights Portal (https://privacyportal-cdn.onetrust.com/dsarwebform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d.html) or 1-866-633-7656. \nMore information is available at: https://www.thomsonreuters.com/en/privacy-statement.html"
+notes: |-
+    Consumers may contact us through our Data Subject Rights Portal (https://privacyportal-cdn.onetrust.com/dsarwebform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d.html) or 1-866-633-7656
+    Consumers may contact us through our Data Subject Rights Portal (https://privacyportal-cdn.onetrust.com/dsarwebform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d.html) or 1-866-633-7656.
+    More information is available at: https://www.thomsonreuters.com/en/privacy-statement.html
+    Allows Opt-Out? Yes - by Opt-Out Form

@@ -18,4 +18,5 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nBy selecting a hyperlink in our Privacy Policy,calling the dedicated phone line, sending an email or writing a letter. All contact information on where to direct requests is provided in the Privacy Policy. \nBy selecting a hyperlink in our Privacy Policy,calling the dedicated phone line, sending an email or writing a letter. All contact information on where to direct requests is provided in the Privacy Policy. \n"
+notes: |4-
+    By selecting a hyperlink in our Privacy Policy,calling the dedicated phone line, sending an email or writing a letter. All contact information on where to direct requests is provided in the Privacy Policy.

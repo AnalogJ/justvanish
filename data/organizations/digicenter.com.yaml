@@ -1,0 +1,22 @@
+organization_name: DigiCenter, LLC.
+website: https://www.digicenter.com
+contact:
+    mail:
+        - address: 400 TradeCenter, Suite 5900, Woburn, MA, 01801, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@digicenter.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Pop up on visit of site and the below link.https://www.digicenter.com/opt-out/

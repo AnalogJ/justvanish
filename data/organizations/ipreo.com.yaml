@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nhttp://more.ihs.com/DoNotSell, 1-800-447-2273, \nhttps://app.onetrust.com/app/#/webform/7020d814-78eb-45f1-bfbb-491ca1076fdd, 1-800-447-2273, \nhttps://ihsmarkit.com/Legal/privacy-policy.html"
+notes: |4-
+    http://more.ihs.com/DoNotSell, 1-800-447-2273,
+    https://app.onetrust.com/app/#/webform/7020d814-78eb-45f1-bfbb-491ca1076fdd, 1-800-447-2273,
+    https://ihsmarkit.com/Legal/privacy-policy.html

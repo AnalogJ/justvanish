@@ -7,6 +7,7 @@ import (
 	"golang.org/x/exp/slices"
 	"gopkg.in/yaml.v3"
 	"path"
+	"sort"
 	"strings"
 )
 
@@ -65,6 +66,9 @@ func OrganizationList(filter *OrganizationListFilter) ([]string, error) {
 			}
 		}
 	}
+
+	//sort the list for consistency (and eventually support --continue)
+	sort.Strings(filteredOrganizationIds)
 
 	return filteredOrganizationIds, nil
 }

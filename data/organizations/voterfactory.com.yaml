@@ -1,0 +1,17 @@
+organization_name: Voter Factory
+website: http://www.voterfactory.com/privacy.html
+contact:
+    mail: []
+    email:
+        - address: help@voterfactory.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? No

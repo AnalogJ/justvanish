@@ -1,0 +1,23 @@
+organization_name: Nuwber Inc
+website: https://nuwber.com/
+contact:
+    mail:
+        - address: 901 N Pitt Street, Suite 170, Alexandria, VA, 22314, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: tb@nuwber.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Customers can opt-out using a self-help tool located at https://nuwber.com/removal/link or by emailing at support@nuwber.com or by calling at (209) 251-1302
+    N/A

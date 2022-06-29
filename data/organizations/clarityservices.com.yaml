@@ -1,0 +1,35 @@
+organization_name: Clarity Services, Inc.
+website: https://www.clarityservices.com/privacy-principles/
+contact:
+    mail:
+        - address: Florida
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 15550 Lightwave Drive, Suite 350, Clearwater, FL, 33760, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: clarityconsumers@experian.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: claritymarketing@experian.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Unclear
+
+    Consumers may opt-out via phone, mail or fax.
+    N/A

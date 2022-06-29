@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nCalifornia consumers may opt out of the sale of their personal information by:, Clicking the following link: https://www.catalina.com/privacy-policy/, \nCalifornia consumers may exercise their rights by clicking here:, https://www.catalina.com/privacy-policy/\nFor information on data collecting practices, please see our Privacy Notice for California Residents at https://www.catalina.com/privacy-policy/ or email us at privacyteam@catalina.com."
+notes: |4-
+    California consumers may opt out of the sale of their personal information by:, Clicking the following link: https://www.catalina.com/privacy-policy/,
+    California consumers may exercise their rights by clicking here:, https://www.catalina.com/privacy-policy/
+    For information on data collecting practices, please see our Privacy Notice for California Residents at https://www.catalina.com/privacy-policy/ or email us at privacyteam@catalina.com.

@@ -1,0 +1,29 @@
+organization_name: Bridgevine Inc.
+website: https://www.bridgevine.com/privacy-policy/
+contact:
+    mail:
+        - address: Georgia
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: '555 North Point Center E #225, Alpharetta, GA, 30022, USA'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dwayne.landry@bridgevine.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? No
+
+    Bridgevine does not concede it is subject to jurisdiction in Vermont and does not concede it is required to register with the state of Vermont under the state’s data broker laws.  Bridgevine reserves, and does not waive, all rights to contest those matters.  However, in the abundance of caution and in the interest of transparency, Bridgevine submits this registration.

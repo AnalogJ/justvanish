@@ -1,0 +1,22 @@
+organization_name: Publicrecords.Com (Affiliated With Intelius)
+website: https://secure.publicrecords.com/privacy.php
+contact:
+    mail:
+        - address: Washington
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@publicrecords.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? Yes - by Opt-Out Form

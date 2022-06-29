@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: support@searchbug.zohodesk.com
           usage:
@@ -18,7 +23,8 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
+notes: |-
     Searchbug consumers may submit a request using the submit button on this page: https://www.searchbug.com/ccpa.aspx
     Protected individuals may submit an Opt-Out request using the submit request button on this page: https://www.searchbug.com/ccpa.aspx#DoNoSell then selecting the "Reason = Opt-Out Request" and entering the corresponding required "Subject" on the submittal form such as "Government Official", "Domestic Violence Victim", "Sexual Assault' or 'Stalking" and attaching the necessary documentation. Searchbug does not maintain any consumer data for sale, however, we will block requests for information to comply with Gov. codes when applicable.
     1. Website Visitor data: We only collect IP Address, Cookies, and Browser Version from website visitors unless they become registered users. This data is used to improve the visitor site experience. We do NOT sell this information. We share it only with providers of analytics and fraud prevention services, which are contractually prevented from selling, sharing or using the data for any purpose other than improving our website experience., , 2. Customer Data Collected: This data is provided by registered users when purchasing services on our site. We do NOT sell this information. We share it only with payment processing and fraud prevention providers, which are contractually prevented from selling, sharing, or using the data for any purpose other than fulfilling purchases and securing data.
+    Allows Opt-Out? No

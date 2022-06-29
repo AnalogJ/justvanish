@@ -7,8 +7,28 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Massachusetts
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 27-43 Wormwood Street, Suite 600, Boston, MA, 02210, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 635 Vine Street, Winston-Salem, NC, 27101, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy@owneriq.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: tpowell@owneriq.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,6 +38,12 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     The consumer can opt out by clicking on the Do Not Sell opt out link on our website and in our privacy notice, under "California Rights" section.
     The consumer can make a deletion request through the form listed in our privacy notice on our website, under "California Rights" section.
+    Allows Opt-Out? Unclear
+
+    There are three ways: 1) Clicking the opt out link in our privacy notice, 2) Choosing our company in the self-regulatory industry opt out platforms through NAI and DAA, 3) Click on the AdChoices icon when the online ad is delivered and choosing to opt out.
+    We are a member of NAI and DAA.  We submit to annual privacy compliance reviews by the NAI.  The NAI publishes an annual report on its members' compliance, which is publicly available on its website.
+
+    There are three ways: 1) Clicking the opt out link in our privacy notice, 2) Choosing our company in the self-regulatory industry opt out platforms through NAI and DAA, 3) Click on the AdChoices icon when the online ad is delivered and choosing to opt out.

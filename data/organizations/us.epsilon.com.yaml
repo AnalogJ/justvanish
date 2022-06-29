@@ -7,8 +7,23 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Texas
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 11030 Circle Point Road, Suite 110, Legal Dept., Westminster, CO, 80020, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy_eps@lionresources.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: lisa.gallerano@epsilon.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +33,11 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nThere are 2 methods by which a consumer may submit an opt-out of a sale request or other request under the CCPA:  , #1 - By phone, a consumer may call 1 (866)267-3861.  , #2 - By webform, a consumer may complete a form online at Epsilon.com/request., •\tIf a consumer moves or changes his/her name after opting out or after requesting to be deleted from the Epsilon database, he/she will need to submit a new request using his/her new name and/or address., \n•\tIn the ordinary course of its business, Epsilon does not publicly post or publicly display on the Internet the home address, home telephone number, or image of individuals, with the exception for employees’ pictures, posted with their knowledge., •\tNotwithstanding the preceding sentence, to the extent that an individual wishes to demand deletion of information he/she believes was posted online by Epsilon in violation of Gov. Code Sections 6208.1and 6254.21(c)(1), he/she should submit a deletion request by contacting Epsilon Privacy at privacy_EPS@lionresources.com  or at 11030 Circle Point Road, Suite 110, Westminster, CO 80020, \n1.  Epsilon had 0 security breaches during the prior 12 months. , 2.  Epsilon does not knowingly possess brokered personal information of minors., "
+notes: |-
+    There are 2 methods by which a consumer may submit an opt-out of a sale request or other request under the CCPA:  , #1 - By phone, a consumer may call 1 (866)267-3861.  , #2 - By webform, a consumer may complete a form online at Epsilon.com/request., •	If a consumer moves or changes his/her name after opting out or after requesting to be deleted from the Epsilon database, he/she will need to submit a new request using his/her new name and/or address.,
+    •	In the ordinary course of its business, Epsilon does not publicly post or publicly display on the Internet the home address, home telephone number, or image of individuals, with the exception for employees’ pictures, posted with their knowledge., •	Notwithstanding the preceding sentence, to the extent that an individual wishes to demand deletion of information he/she believes was posted online by Epsilon in violation of Gov. Code Sections 6208.1and 6254.21(c)(1), he/she should submit a deletion request by contacting Epsilon Privacy at privacy_EPS@lionresources.com  or at 11030 Circle Point Road, Suite 110, Westminster, CO 80020,
+    1.  Epsilon had 0 security breaches during the prior 12 months. , 2.  Epsilon does not knowingly possess brokered personal information of minors.,
+    Allows Opt-Out? Yes - by Opt-Out Form
+
+    With  respect  to  Epsilon’s  Abacus,  MarketView™,  Shopper’s  Voice®,  and  TotalSource  Plus® databases, there are three ways a consumer may submit an opt-out request: email, postal mail, or telephone. To opt-out via email, a consumer may email his/her request to opt out, together with his/her current full name and address, to optout@epsilon.com.A consumer may also submit his/her request to opt out, together with his/her current full name and address, via postal mail to:EpsilonAttention: PrivacyPO Box 1478Broomfield, CO 80038To  opt  out  by  telephone,  a  consumer  may  call  1  (888)  780-3869  to  reach  Epsilon’s  Consumer Privacy Specialist, provide his/her current full name and mailing address, and state his/her request to opt out of Epsilon’s databases.
+    Epsilon offers four primary product lines. Each product line has its own source data sets. Each source data set has its own hygiene/compliance practices prior to making a record available for marketing purposes. Epsilon applies the marketing suppression files managed by the Data & Marketing Association to all four of its product lines.

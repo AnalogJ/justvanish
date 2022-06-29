@@ -7,8 +7,18 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 22382 Avenida Empresa, Rancho Santa Margarita, CA, 92688, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
-        - address: ' ccparequest@melissa.com'
+        - address: ccparequest@melissa.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: dennis.bedford@melissa.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +28,9 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nCalifornia consumers may submit a request to exercise their Right to Know, Right to Opt-Out of Sale, and/or Right to Delete by filling out a dedicated web form on our website, emailing a request to  CCPArequest@melissa.com or contacting technical support by phone at 1 800 800 6245 x4 for further instructions.  More detailed information about CCPA requests is available on the Melissa Privacy page at: https://www.melissa.com/privacy. \nCalifornia consumers may submit a request to exercise their Right to Delete by filling out a dedicated web form on our website (https://www.melissa.com/user/ccpa.aspx), emailing a request to  CCPArequest@melissa.com or contacting technical support by phone at 1 800 800 6245 x4 for further instructions.  More detailed information about CCPA requests is available on the Melissa Privacy page at: https://www.melissa.com/privacy. \nFor a more detailed description of Melissa Corporation data privacy practices please visit our privacy policy page at: https://www.melissa.com/privacy. "
+notes: |-
+    California consumers may submit a request to exercise their Right to Know, Right to Opt-Out of Sale, and/or Right to Delete by filling out a dedicated web form on our website, emailing a request to  CCPArequest@melissa.com or contacting technical support by phone at 1 800 800 6245 x4 for further instructions.  More detailed information about CCPA requests is available on the Melissa Privacy page at: https://www.melissa.com/privacy.
+    California consumers may submit a request to exercise their Right to Delete by filling out a dedicated web form on our website (https://www.melissa.com/user/ccpa.aspx), emailing a request to  CCPArequest@melissa.com or contacting technical support by phone at 1 800 800 6245 x4 for further instructions.  More detailed information about CCPA requests is available on the Melissa Privacy page at: https://www.melissa.com/privacy.
+    For a more detailed description of Melissa Corporation data privacy practices please visit our privacy policy page at: https://www.melissa.com/privacy.
+
+    Vermont consumers may request to opt out of being displayed on the Melissa Lookups services (https://www.melissa.com/v2/lookups/) by contacting technical support at our Corporate Headquarters: https://www.melissa.com/company/support. Other opt-out requests may be available to an individual consumer in certain specific circumstances specified by law. The Melissa privacy page contains further details and information: https://www.melissa.com/privacy.

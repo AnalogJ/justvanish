@@ -7,8 +7,28 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1915 21st Street, Sacraemento, CA, 95811, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy@enformion.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: angela.arriaga@enformion.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: support@enformion.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +38,10 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nA consumer may exercise their right to opt out through the “Do Not Sell My Personal Information” link in the footer of the website.  A consumer may also submit other CCPA-related requests by clicking on the links found in the section titled “Your California Privacy Rights” of our Privacy Policy (found at https://www.enformion.com/privacy-policy/)\nA consumer may contact Customer Care or mail in their request at the business address.\nAdditional information may be found in our Privacy Policy at https://www.enformion.com/privacy-policy/ "
+notes: |-
+    A consumer may exercise their right to opt out through the “Do Not Sell My Personal Information” link in the footer of the website.  A consumer may also submit other CCPA-related requests by clicking on the links found in the section titled “Your California Privacy Rights” of our Privacy Policy (found at https://www.enformion.com/privacy-policy/)
+    A consumer may contact Customer Care or mail in their request at the business address.
+    Additional information may be found in our Privacy Policy at https://www.enformion.com/privacy-policy/
+    Allows Opt-Out? No
+
+    N/A

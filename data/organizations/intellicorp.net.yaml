@@ -1,0 +1,38 @@
+organization_name: Intellicorp Records, Inc.
+website: http://www.intellicorp.net/marketing/privacypolicy.aspx
+contact:
+    mail:
+        - address: Ohio
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 3000 Auburn Drive, Suite 410, Beachwood, OH, 44122, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: jvolk@verisk.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: compliance@intellicorp.net
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Unclear
+
+    Written communication to no longer receive communication from IntelliCorp. As a Consumer Reporting Agency, as defined under the Fair Credit Reporting Act (FCRA), information in the database is public information, but only released through the authorization of the consumer to an entity that has a permissible purpose under the FCRA.
+    None
+
+    Written communication to no longer receive communication from IntelliCorp.  As a Consumer Reporting Agency, as defined under the Fair Credit Reporting Act (FCRA), information in the database is public information, but only released through the authorization of the consumer to an entity that has a permissible purpose under the FCRA.
+    Regarding question #7, On sample Disclosure and Authorization Forms, it is explained that legal guardian or parent’s signature is needed on the documents before requesting a background check report on minors.  This item is reinforced in client training.Currently nothing in our Online Privacy Notice references items related to minors.

@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nEmailing privacy@iwave.com or using the webform available through the iWave Privacy Policy.\niWave does not publicly post information online. To exercise deletion rights, please view iWave’s Privacy Policy (https://www.iwave.com/privacy-policy/) and submit a verifiable consumer request by following the link and completing the webform or emailing us at privacy@iwave.com.  \nFor further information about iWave's data practices, please visit iWave's Privacy Policy at https://www.iwave.com/privacy-policy/"
+notes: |4-
+    Emailing privacy@iwave.com or using the webform available through the iWave Privacy Policy.
+    iWave does not publicly post information online. To exercise deletion rights, please view iWave’s Privacy Policy (https://www.iwave.com/privacy-policy/) and submit a verifiable consumer request by following the link and completing the webform or emailing us at privacy@iwave.com.
+    For further information about iWave's data practices, please visit iWave's Privacy Policy at https://www.iwave.com/privacy-policy/

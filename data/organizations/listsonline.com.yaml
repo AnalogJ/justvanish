@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nA consumer may opt out of sale or submit requests under the CCPA by emailing privacyofficer@listsonline.com or calling listsOnline at (800) 734-2275. More information is available by clicking on the “Do Not Sell My Personal Info” link at the bottom of the home page at www.listsOnline.com. \nlistsOnline does not publicly display or permit the display of any consumer information. A protected individual can demand deletion of information by emailing privacyofficer@listsonline.com or calling listsOnline at (800) 734-2275. More information is available by clicking on the “Do Not Sell My Personal Info” link at the bottom of the home page at www.listsOnline.com. \nAdditional information is available by clicking on the “Do Not Sell My Personal Info” link at the bottom of the home page at www.listsOnline.com. "
+notes: |4-
+    A consumer may opt out of sale or submit requests under the CCPA by emailing privacyofficer@listsonline.com or calling listsOnline at (800) 734-2275. More information is available by clicking on the “Do Not Sell My Personal Info” link at the bottom of the home page at www.listsOnline.com.
+    listsOnline does not publicly display or permit the display of any consumer information. A protected individual can demand deletion of information by emailing privacyofficer@listsonline.com or calling listsOnline at (800) 734-2275. More information is available by clicking on the “Do Not Sell My Personal Info” link at the bottom of the home page at www.listsOnline.com.
+    Additional information is available by clicking on the “Do Not Sell My Personal Info” link at the bottom of the home page at www.listsOnline.com.

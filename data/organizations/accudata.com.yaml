@@ -7,8 +7,23 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Florida
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 5220 Summerlin Commons Blvd., Ste 200, Ft. Myers, FL, 33907, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy.compliance@accudata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: marketing@accudata.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +33,10 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nConsumers can submit CCPA requests through our link http://optout.accudata.com/request/opt-out, by emailing privacy.compliance@accudata.com or by visiting www.AccuData.com and reviewing our Privacy Policy.  \nConsumers can submit CCPA requests through our link http://optout.accudata.com/request/opt-out, by emailing privacy.compliance@accudata.com or by visiting www.AccuData.com and reviewing our Privacy Policy.  \nConsumers can visit www.AccuData.com and review our Privacy Policy as well as our Consumer Information link.  "
+notes: |-
+    Consumers can submit CCPA requests through our link http://optout.accudata.com/request/opt-out, by emailing privacy.compliance@accudata.com or by visiting www.AccuData.com and reviewing our Privacy Policy.
+    Consumers can visit www.AccuData.com and review our Privacy Policy as well as our Consumer Information link.
+    Allows Opt-Out? Unclear
+
+    Consumers need to submit a request thru the 'Do Not Sell My Information' link on www.accudata.com.    Consumers are encouraged to contact www.dmachoice.org and our contracted partners directly to ensure the names are properly removed.
+    none indicated.

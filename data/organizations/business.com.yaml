@@ -1,0 +1,22 @@
+organization_name: Business.com
+website: www.business.com
+contact:
+    mail:
+        - address: 200 Fifth Avenue, Second Floor, Waltham, MA, 02451, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: customercare@business.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Web form, phone call to designated number.

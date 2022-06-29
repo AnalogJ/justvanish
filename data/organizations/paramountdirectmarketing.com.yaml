@@ -18,4 +18,5 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nWeb form and email \nWeb form and email \n"
+notes: |4-
+    Web form and email

@@ -7,8 +7,28 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Nebraska
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 11211 JOHN GALT BLVD, OMAHA, NE, 68137, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy@databaseusa.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: consult@databaseusa.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: alex.elliott@databaseusallc.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +38,10 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nPlease go to https://ccpa-optout.com/ to begin the process. \nPlease go to https://ccpa-optout.com/ to begin the process.\nOur Consumer Database is compiled from public and self-reported data sources to be used for Business to Consumer marketing purposes.  DatabaseUSA does NOT compile or possess any of the following sensitive personal information:  Driver’s License Information, Passport/Visa Numbers, State ID Information, Student Information, Social Security Numbers, Sexual Orientation Preferences, Credit/Debit Card Numbers, Private Medical/Health Records, Bank Account Numbers, Salary/Payroll/Benefit Data, PIN Numbers, Frequent Flyer Numbers, Exact FICO Scores/Credit Rating, Medical Insurance Information, Personal Account Numbers, Logon ID’s and Passwords, Biometric Data (Fingerprints, Facial Recognition, DNA, Retina Patterns, Blood Types or Signatures)."
+notes: |-
+    Please go to https://ccpa-optout.com/ to begin the process.
+    Our Consumer Database is compiled from public and self-reported data sources to be used for Business to Consumer marketing purposes.  DatabaseUSA does NOT compile or possess any of the following sensitive personal information:  Driver’s License Information, Passport/Visa Numbers, State ID Information, Student Information, Social Security Numbers, Sexual Orientation Preferences, Credit/Debit Card Numbers, Private Medical/Health Records, Bank Account Numbers, Salary/Payroll/Benefit Data, PIN Numbers, Frequent Flyer Numbers, Exact FICO Scores/Credit Rating, Medical Insurance Information, Personal Account Numbers, Logon ID’s and Passwords, Biometric Data (Fingerprints, Facial Recognition, DNA, Retina Patterns, Blood Types or Signatures).
+    Allows Opt-Out? Yes - by email
+
+    Email, telephone, or on-line using the web-portal AtoZdatabases.com.
+    Data is gathered from brokers or consumer information agencies and compiled into a database.

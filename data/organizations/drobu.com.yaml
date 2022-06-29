@@ -1,0 +1,37 @@
+organization_name: Drobu Media Llc
+website: drobu.com
+contact:
+    mail:
+        - address: New York
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 300 E. 56TH ST. Ste. 31H, New York, NY, 10022, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1010 Brickell Ave. Ste 4105, Miami, FL, 33131, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dblackman@drobu.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? No
+
+    None
+
+    The consumer emails and requests to be removed.
+    None

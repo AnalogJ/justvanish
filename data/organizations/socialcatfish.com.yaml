@@ -7,8 +7,38 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 38770 Sky Canyon Drive, Suite A, Murrieta, CA, 92562, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 38770 Sky Canyon Dr, Suite A, Murrieta, CA, 92563, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: david@socialcatfish.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: matt@socialcatfish.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: welcome@socialcatfish.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: august@socialcatfish.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,7 +48,12 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
+notes: |-
     Information about your rights and how you may exercise them under the CCPA, including requests to opt-out of the sale of your information, may be found here: https://socialcatfish.com/faq/privacy/#ca-nv-privacy.
     Individuals protected under Government Code Sections 6208.1(b) or 6254.21(c)(1) may demand deletion of their information using the link below. Please note that Social Catfish recommends that a protected individual enter all variation of their name to capture as many records as possible., , https://socialcatfish.com/opt-out/?id=request_optout
     No information provided.
+    Allows Opt-Out? Yes - by Opt-Out Form
+
+    https://socialcatfish.com/opt-out/ Also, a consumer can opt out by calling 1-844-422-8347 or emailing welcome@socialcatfish.com and provide the links and information they want removed. A user can also opt out by sending a letter to 39252 Winchester Rd, STE 107 #228, Murrieta, CA 92563. Consumers can also opt out of emails by clicking on the opt-out link at the bottom of the email.
+
+    https://socialcatfish.com/opt-out/ Also, a consumer can opt out by calling 1-844-422-8347 or emailing welcome@socialcatfish.com and provide the links and information they want removed. A user can also opt out by sending a letter to 39252 Winchester Rd, STE 107 #228, Murrieta, CA 92563. Consumers can also opt out of emails by clicking on the opt-out link at the bottom of the email.

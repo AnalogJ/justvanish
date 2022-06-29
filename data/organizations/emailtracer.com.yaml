@@ -1,0 +1,17 @@
+organization_name: Email Tracer
+website: http://www.emailtracer.com/privacy.php
+contact:
+    mail:
+        - address: Massachusetts
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email: []
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? No

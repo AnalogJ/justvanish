@@ -1,0 +1,30 @@
+organization_name: Plural Marketing Solutions Inc.
+website: plmrkg.com
+contact:
+    mail:
+        - address: New Jersey
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 275 RT 10 E, STE 220-105, Succasunna, NJ, 07876, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: george@plmrkg.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Unclear
+
+    email or phone
+    none

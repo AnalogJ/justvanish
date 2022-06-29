@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nConsumers can manage their opt-out preferences and submit requests under the CCPA through https://www.monevo.us/privacy-portal. \nMonevo Inc does not post or publicly display consumer information online. However, consumers can request the deletion of their information through https://www.monevo.us/privacy-portal. \nAdditional information regarding how Monevo collects, uses, and shares data can be found at https://www.monevo.us/privacy-policy. "
+notes: |4-
+    Consumers can manage their opt-out preferences and submit requests under the CCPA through https://www.monevo.us/privacy-portal.
+    Monevo Inc does not post or publicly display consumer information online. However, consumers can request the deletion of their information through https://www.monevo.us/privacy-portal.
+    Additional information regarding how Monevo collects, uses, and shares data can be found at https://www.monevo.us/privacy-policy.

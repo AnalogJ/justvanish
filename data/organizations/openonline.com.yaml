@@ -1,0 +1,22 @@
+organization_name: Openonline
+website: http://www.openonline.com/home/about-us/privacy-statement.aspx
+contact:
+    mail:
+        - address: Ohio
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: compliance@openonline.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? Unclear

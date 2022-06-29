@@ -7,8 +7,23 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Florida
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 3401 N. Miami Avenue, Unit 205, Miami, FL, 33127, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy@healthcare.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: info@healthcare.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,7 +33,13 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
-    We have enabled an online form at our website to submit CCPA Data Disclosure and Deletion requests (https://www.healthcare.com/data-request/request-form), , As a secondary method we have enable communication trough our email address info@healthcare.com
+notes: |-
     We have enabled an online form at our website to submit CCPA Data Disclosure and Deletion requests (https://www.healthcare.com/data-request/request-form), , As a secondary method we have enable communication trough our email address info@healthcare.com
     healthcare.com uses personal data that is voluntarily provided to help consumers find insurance plans, including by connecting them with insurance agents.
+    Allows Opt-Out? Unclear
+
+    Any consumer that wishes to opt out of being contacted by HealthCare, Inc. or its partner companies  (after having earlier opted in) may do so by emailing  info@healthcare.com, by following the opt out instructions received from HealthCare.com or any partner company with whom the consumer’s information has been shared or by contacting the entity from which HealthCare.com acquired the consumer’s information.
+    No.
+
+    Any consumer that wishes to opt out of being contacted by HealthCare, Inc. or its partner companies  (after having earlier opted in) may do so by emailing  info@healthcare.com, by following the opt out instructions received from HealthCare.com or any partner company with whom the consumer’s information has been shared or by contacting the entity from which HealthCare.com acquired the consumer’s information.
+    No

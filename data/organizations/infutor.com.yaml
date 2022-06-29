@@ -7,8 +7,33 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Illinois
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 18W140 Butterfield Rd, Ste 1020, Oakbrook Terrace, IL, 60181, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: One Lincoln Center, 18W140 Butterfield R, Oakbrook Terrace, IL, 60181, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: infutorvendorinfo@infutor.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: pedrokialanda@infutor.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: security@infutor.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,6 +43,11 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     Consumers should go to https://privacy.infutor.com/ to submit CCPA requests. Consumers may also call (866) 207-1399 or email compliance@infutor.com
-    Consumers should go to https://privacy.infutor.com/ to submit CCPA requests. Consumers may also call (866) 207-1399 or email compliance@infutor.com
+    Allows Opt-Out? Yes - by Opt-Out Form
+
+    The primary Opt-Out avenue is accessed through Infutor’s website, in the Data Privacy link. A consumer may submit the requested information, and the Opt-Out process will be initiated. The link can be found at: https://infutor.com/company/data-privacy/Additionally, Infutor accepts verified Opt-Out requests via telephone, email, and USPS, although we prefer to route these requests through the above website link.
+    Infutor is a growing company that treats the security of the acquisition, management, and sales of Consumer data as our highest priority. Our Information Security policies, data processing facilities, data management processes, and other aspects of security and compliance are consistently enforced, reviewed, and improved to meet or exceed the expectations of our customers and the industry.
+
+    The primary Opt-Out avenue is accessed through Infutor’s website, in the Data Privacy link. A consumer may submit the requested information, and the Opt-Out process will be initiated. The link can be found at: https://infutor.com/company/data-privacy/Additionally, Infutor accepts verified Opt-Out requests via telephone, email, and USPS, although we prefer to route these requests through the above website link.

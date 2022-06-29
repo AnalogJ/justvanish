@@ -1,0 +1,30 @@
+organization_name: Assurance Iq,Inc.
+website: https://assurance.com/privacy-policy
+contact:
+    mail:
+        - address: Washington
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 10500 NE 8th Street, Suite 1450, Bellevue, WA, 98004, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: swenson@assurance.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Yes - by email
+
+    A consumer can contact Assurance through either calling our customer service department or emailing publicly available email addresses to request that their personal information be removed from our database.
+    None.

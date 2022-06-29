@@ -1,0 +1,21 @@
+organization_name: Ultimatewhitepages
+website: http://www.detectiveunlimited.com/privacy-policy.html
+contact:
+    mail:
+        - address: Washington
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: webmaster@ultimatewhitepages.org
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: Allows Opt-Out? No

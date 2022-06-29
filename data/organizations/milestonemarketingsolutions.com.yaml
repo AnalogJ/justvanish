@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nMilestone has provided an email address and phone number, through which consumers can submit CCPA requests:, , email: privacy@milestonemarketingsolutions.com, phone: 800.313.1873, \nA consumer can write to the address listed:, , 844 Waterbury Falls Dr, Suite 201, O'Fallon, MO 63368\nData is collected via third party. "
+notes: |4-
+    Milestone has provided an email address and phone number, through which consumers can submit CCPA requests:, , email: privacy@milestonemarketingsolutions.com, phone: 800.313.1873,
+    A consumer can write to the address listed:, , 844 Waterbury Falls Dr, Suite 201, O'Fallon, MO 63368
+    Data is collected via third party.

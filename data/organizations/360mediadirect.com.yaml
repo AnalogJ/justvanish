@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nprivacy@360mediadirect.com\nprivacy@360mediadirect.com\nWe also collect data thru the following websites:, www.Subco.com, www.WRSS.com, www.RewardBee.com, www.BPerx.com, www.covalentmg.com "
+notes: |4-
+    privacy@360mediadirect.com
+    We also collect data thru the following websites:, www.Subco.com, www.WRSS.com, www.RewardBee.com, www.BPerx.com, www.covalentmg.com

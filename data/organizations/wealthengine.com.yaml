@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: '4340 East West Highway #900, Bethesda, MD, 20814, USA'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: contracts@wealthengine.com
           usage:
@@ -18,7 +23,10 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
+notes: |-
     There are various avenues available for a consumer to opt-out from sale of data by WealthEngine, Inc. A consumer may opt-out by submitting a request via privacy@wealthengine.com, via the website online-form, via mailing to WealthEngine, or via using the toll free opt-out number. Please see WealthEngine's opt-out page for more information: https://www.wealthengine.com/optout-privacypolicy/
     Same process as opt-out requests. The avenues available for opt-outs are also available for deletion requests. Please see WealthEngine's opt-out page for more information: https://www.wealthengine.com/optout-privacypolicy/
     Please see WealthEngine privacy policy: https://www.wealthengine.com/wealthengine-inc-privacy-policy/
+
+    There are several methods available. Opt-out request may be submitted via privacy@wealthengine.com or via the online website.
+    WealthEngine does not have actual knowledge that it possesses the brokered personal information of minors (as the date of birth cannot be verified). WealthEngine identified data that potentially could be of individuals under the age of 18, so WealthEngine out of abundance of caution is taking ongoing measures to remove such data from its products and services.

@@ -1,0 +1,41 @@
+organization_name: 1-800-US-Search
+website: https://peopleconnect.us/privacy-policy
+contact:
+    mail:
+        - address: Washington
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1501 4th Avenue, Suite 400, Seattle, WA, 98101, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@peopleconnect.us
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: brad.toney@peopleconnect.us
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Yes - by Opt-Out Form
+    Allows Opt-Out? No
+    Allows Opt-Out? Yes - by Opt-Out Form
+    Allows Opt-Out? Yes - by Opt-Out Form
+    Allows Opt-Out? Yes - by Opt-Out Form
+
+    A consumer can opt out of having their personal information appear in the company's Intelius and US Search databases by submitting an online form available at https://www.intelius.com/optout.
+    The company does not have any additional information or explanation concerning its data collection practices.
+
+    A consumer can opt out of having their personal information appear on www.intelius.com, www.ussearch.com and other similar people search websites the company owns and operates by visiting www.intelius.com/optout, selecting the specific person profile they want opted out, and submitting an opt-out request for that profile.

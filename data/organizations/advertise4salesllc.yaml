@@ -1,0 +1,23 @@
+organization_name: Advertise4Sales LLC
+website: 3915 gay road east
+contact:
+    mail:
+        - address: 3915 Gay Road East, Tacoma, WA, 98443, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: tapster13@gmail.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Phone, website, dnc or direct response to subscribers confirmation emails
+    We already follow pretty stringent data standards

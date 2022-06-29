@@ -10,7 +10,7 @@ import (
 type RequestAction struct {
 	logger        *logrus.Entry
 	configuration config.Interface
-	actionType string
+	actionType    string
 }
 
 func New(logger *logrus.Entry, configuration config.Interface) (RequestAction, error) {
@@ -18,7 +18,7 @@ func New(logger *logrus.Entry, configuration config.Interface) (RequestAction, e
 	return RequestAction{
 		logger:        logger,
 		configuration: configuration,
-		actionType: "request",
+		actionType:    "request",
 	}, nil
 }
 
@@ -39,9 +39,21 @@ func (a *RequestAction) Start() error {
 		return err
 	}
 
+	var smtpConfig *models.SmtpConfig
 	// get smtp configuration (from config file)
-	smtpConfig := a.configuration.SmtpConfig()
-
+	if a.configuration.GetBool("action.dry-run") {
+		//TODO: this should come from user specified CONFIG, for now we're going to create a test account
+		//smtpConfig := a.configuration.SmtpConfig()
+		smtpConfig, err = helpers.EmailTestSmtpConfig()
+		if err != nil {
+			return err
+		}
+	} else {
+		smtpConfig, err = helpers.EmailTestSmtpConfig()
+		if err != nil {
+			return err
+		}
+	}
 
 	// find configuration for each organization
 	for _, orgId := range orgList {
@@ -50,8 +62,12 @@ func (a *RequestAction) Start() error {
 			return err
 		}
 
-		//generate template
+		if len(orgConfig.Contact.Email) == 0 {
+			a.logger.Warnf("skipping company (%s), no email contact found", orgConfig.OrganizationName)
+			continue
+		}
 
+		//generate template
 		emailContent, err := helpers.TemplatePopulate(
 			orgId,
 			a.configuration.GetString("action.regulation-type"),
@@ -63,13 +79,9 @@ func (a *RequestAction) Start() error {
 			return err
 		}
 
-		//if not dry run, send email
-		if !a.configuration.GetBool("debug"){
-			err := helpers.EmailSend(smtpConfig, &userConfig, orgConfig, a.configuration.GetString("action.regulation-type"), a.actionType, emailContent)
-
-			if err != nil {
-				return err
-			}
+		err = helpers.EmailSend(smtpConfig, &userConfig, orgConfig, a.configuration.GetString("action.regulation-type"), a.actionType, emailContent)
+		if err != nil {
+			return err
 		}
 	}
 

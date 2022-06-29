@@ -7,8 +7,18 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 12051 Indian Creek Court, Beltsville, MD, 20705, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: dpo@cision.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: legaldept@cision.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +28,13 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nConsumers can do this by emailing Privacy@cision.com, calling toll-free on  877-297-8921 or submitting a request via an online for at https://cision.service-now.com/gdpr?id=dsr_entry_form&lang=en , \nCision does not post such information online but any deletion requests can be submitted by emailing Privacy@cision.com, calling toll-free on 877-297-8921 or submitting a request via an online for at https://cision.service-now.com/gdpr?id=dsr_entry_form&lang=en\nCision collect consumer personal information either directly from the consumer, or from publicly available sources such as: , •\tArticles or blogs the consumer may have written , •\tVlogs the consumer may have created , •\tThe consumer’s own website , •\tThe consumer’s employer's websites , •\tThe consumer’s publisher's website , •\tThe consumer’s publicly available social media profiles (including, for example, Facebook, Instagram, Twitter, and LinkedIn) , •\tTelephone conversations which may be recorded by us to help us improve our training and quality , •\tOther publicly available online sources , •\tOther consumers (who may, for example, tell us if another consumer has changed jobs, but we will not publish that information until we have independently verified it) , •\tOur customers , •\tThird parties, such as Brandwatch, Talkwalker, IHS Markit and Capestart , •\tThe consumer’s employer (if they are employed) , •\tThe consumer’s press team tell us ,  , For further Information about how Cision processes your personal information and your rights regarding this, please see here https://gdpr.cision.com/additional-information-for-californian-consumers"
+notes: |-
+    Consumers can do this by emailing Privacy@cision.com, calling toll-free on  877-297-8921 or submitting a request via an online for at https://cision.service-now.com/gdpr?id=dsr_entry_form&lang=en ,
+    Cision does not post such information online but any deletion requests can be submitted by emailing Privacy@cision.com, calling toll-free on 877-297-8921 or submitting a request via an online for at https://cision.service-now.com/gdpr?id=dsr_entry_form&lang=en
+    Cision collect consumer personal information either directly from the consumer, or from publicly available sources such as: , •	Articles or blogs the consumer may have written , •	Vlogs the consumer may have created , •	The consumer’s own website , •	The consumer’s employer's websites , •	The consumer’s publisher's website , •	The consumer’s publicly available social media profiles (including, for example, Facebook, Instagram, Twitter, and LinkedIn) , •	Telephone conversations which may be recorded by us to help us improve our training and quality , •	Other publicly available online sources , •	Other consumers (who may, for example, tell us if another consumer has changed jobs, but we will not publish that information until we have independently verified it) , •	Our customers , •	Third parties, such as Brandwatch, Talkwalker, IHS Markit and Capestart , •	The consumer’s employer (if they are employed) , •	The consumer’s press team tell us ,  , For further Information about how Cision processes your personal information and your rights regarding this, please see here https://gdpr.cision.com/additional-information-for-californian-consumers
+
+    email or telephone
+    Cision provides a database of journalists and other influencers to public relations clients. All contact details are collected from publicly available sources (eg articles, blogs, social profiles)
+
+    email or telephone
+    Cision provides a database of journalists and other influencers to public relations clients. All contact details are collected from publicly available sources (eg articles, blogs, social profiles)

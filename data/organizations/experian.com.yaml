@@ -17,8 +17,48 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: Tennessee
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 475 Anton Blvd, Costa Mesa, CA, 92626, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 955 American Lane, Schaumburg, IL, 60173, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 720 Cool Spring Blvd, Suite 200, Franklin, TN, 37067, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacyrequests@experian.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: unsubscribe@experian.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: nerissa.rush@experian.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: rentbureau@experian.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -28,4 +68,27 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nTo exercise the right to opt out of the sale of information or submit a request under CCPA an consumer may contact Experian in the following way, as further described below:, •Online at experian.com/ccpa, •By phone at 1-833-210-4615, •By mail at PO Box 703, Allen, TX 75013, A consumer may also visit our Privacy Policy at https://www.experian.com/privacy/ccpa-privacy-policy, \nExperian does not engage in any practice subject to these laws. \n\nTo exercise the right to opt out of the sale of information or submit a request under CCPA an consumer may contact Experian in the following way, as further described below:, •Online at experian.com/ccpa, •By phone at 1-833-210-4615, •By mail at PO Box 703, Allen, TX 75013, A consumer may also visit our Privacy Policy at https://www.experian.com/privacy/ccpa-privacy-policy\nExperian does not engage in any practice subject to these laws. \n\nTo exercise the right to opt out of the sale of information or submit a request under CCPA an consumer may contact Experian in the following way, as further described below:, •Online at experian.com/ccpa, •By phone at 1-833-210-4615, •By mail at PO Box 703, Allen, TX 75013, A consumer may also visit our Privacy Policy at https://www.experian.com/privacy/ccpa-privacy-policy\nExperian does not engage in any practice subject to these laws. \n"
+notes: |-
+    To exercise the right to opt out of the sale of information or submit a request under CCPA an consumer may contact Experian in the following way, as further described below:, •Online at experian.com/ccpa, •By phone at 1-833-210-4615, •By mail at PO Box 703, Allen, TX 75013, A consumer may also visit our Privacy Policy at https://www.experian.com/privacy/ccpa-privacy-policy,
+    Experian does not engage in any practice subject to these laws.
+    To exercise the right to opt out of the sale of information or submit a request under CCPA an consumer may contact Experian in the following way, as further described below:, •Online at experian.com/ccpa, •By phone at 1-833-210-4615, •By mail at PO Box 703, Allen, TX 75013, A consumer may also visit our Privacy Policy at https://www.experian.com/privacy/ccpa-privacy-policy
+    Experian does not engage in any practice subject to these laws.
+    To exercise the right to opt out of the sale of information or submit a request under CCPA an consumer may contact Experian in the following way, as further described below:, •Online at experian.com/ccpa, •By phone at 1-833-210-4615, •By mail at PO Box 703, Allen, TX 75013, A consumer may also visit our Privacy Policy at https://www.experian.com/privacy/ccpa-privacy-policy
+    Experian does not engage in any practice subject to these laws.
+    Allows Opt-Out? Yes - by Opt-Out Form
+    Allows Opt-Out? Yes - by Opt-Out Form
+    Allows Opt-Out? Yes - by Opt-Out Form
+    Allows Opt-Out? Unclear
+    Allows Opt-Out? Unclear
+
+    NA
+
+    Consumers may opt-out via email, mail or phone.
+    NA
+
+    Email, mail, phone, online web portal, DAA Adchoices
+
+    Toll Free Number or Online
+    Experian also collects and maintains a database of personally identifiable data derived from U.S. Departments of Motor Vehicles, called the North American Vehicle Database. This database is operated in accordance with the Driver’s Privacy Protection Act and therefore, consumer opt-outs do not apply to uses of the data pursuant to the Driver’s Privacy Protection Act. Experian does not have knowledge of any possession of minors’ personal information in its North American Vehicle Database.
+
+    NA

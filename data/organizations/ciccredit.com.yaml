@@ -1,0 +1,29 @@
+organization_name: Cic Mortgage Credit Inc.
+website: https://www.ciccredit.com/information-security-policy-and-guideline/
+contact:
+    mail:
+        - address: Tennessee
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 327 CALDWELL DRIVE, SUITE 100, GOODLETTSVILLE, TN, 37072, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: cthomas@ciccredit.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? No
+
+    N/A

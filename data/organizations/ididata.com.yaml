@@ -7,8 +7,23 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Florida
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 2650 N. Military Trail, Suite 300, Boca Raton, FL, 33431, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: legal.compliance@ididata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: support@ididata.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,7 +33,13 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
+notes: |-
     California consumers may opt out of sale of their personal information by submitting an online request at www.ididata.com/ccpa-do-not-sell-my-personal-information/ or by calling 888-376-6659.  Our mailing address is: IDI Opt-Out Request, P.O. Box 812680, Boca Raton, Florida 33481.  For additional information and instructions on how California consumers may exercise their rights under the CCPA, please visit www.idiprivacypolicy.com.
     IDI does not publicly post or publicly display personal information on the Internet.
     Additional information about IDI’s data collection practices can be found at www.idiprivacypolicy.com.
+    Allows Opt-Out? Unclear
+
+    See attached
+
+    Detailed information and instructions for requesting to opt out can be found at www.idiprivacypolicy.com and www.ididata.com/opt-out-policy.pdf.  Requests are to be submitted in writing to IDI to the following address:  IDI Opt-Out Request, P.O. Box 812680, Boca Raton, Florida 33481.
+    For additional information about IDI’s collection, use and disclosure of personal information, please visit www.idiprivacypolicy.com.

@@ -1,0 +1,23 @@
+organization_name: Advantage Sales & Marketing LLC
+website: www.take5mg.com
+contact:
+    mail:
+        - address: 18100 Von Karman Avenue, Suite 1000, Irvine, CA, 92612, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: alex@take5mg.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Opt-out link Physical address
+    WE have never had any data breaches nor has our consumer database been compromised in any manner.  Any and all consumers receiving our direct marketing offers can opt-out within 72 hours and are opted-out from all our databases.   Our database is maintained in safe collocation silo with no access to the internet.

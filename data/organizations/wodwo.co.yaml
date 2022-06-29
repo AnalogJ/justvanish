@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nWe invite California consumers to the Wodwo website at www.wodwo.co in order to opt out of the sale of their data and/or to submit requests under CCPA.  Consumers should click on the button indicating \"Do Not Sell My Information\" and complete the CCPA request form. Consumers should verify their request after completing the form by calling (888) 990-3399. \nWe invite California consumers to the Wodwo website at www.wodwo.co in order to delete their information under CCPA.  Consumers should click on the button indicating \"Do Not Sell My Information\" and complete the CCPA request form. Consumers should verify their request after completing the form by calling (888) 990-3399. \nWe welcome California consumers to visit our Privacy Policy at www.wodwo.co."
+notes: |4-
+    We invite California consumers to the Wodwo website at www.wodwo.co in order to opt out of the sale of their data and/or to submit requests under CCPA.  Consumers should click on the button indicating "Do Not Sell My Information" and complete the CCPA request form. Consumers should verify their request after completing the form by calling (888) 990-3399.
+    We invite California consumers to the Wodwo website at www.wodwo.co in order to delete their information under CCPA.  Consumers should click on the button indicating "Do Not Sell My Information" and complete the CCPA request form. Consumers should verify their request after completing the form by calling (888) 990-3399.
+    We welcome California consumers to visit our Privacy Policy at www.wodwo.co.

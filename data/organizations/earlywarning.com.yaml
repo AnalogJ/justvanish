@@ -1,0 +1,34 @@
+organization_name: Early Warning Services, Llc
+website: https://www.earlywarning.com/privacy-policy.html
+contact:
+    mail:
+        - address: Arizona
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 16552 N. 90th Street, Scottsdale, AZ, 85260, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacyoffice@earlywarning.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: cindy.glaser@earlywarning.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? No
+
+    None.

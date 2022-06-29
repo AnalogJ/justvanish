@@ -1,0 +1,23 @@
+organization_name: Granite Lists, LLC
+website: www.granitelists.com
+contact:
+    mail:
+        - address: Post Office Box 3084, Post Office Box 3084, Peterborough, NH, 03458, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: erin@granitelists.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Individual can call or email us or the renter of the list and request to have their name removed
+    We don't actually collect data.  We manage lists owned by political campaigns and entities

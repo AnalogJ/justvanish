@@ -1,0 +1,17 @@
+organization_name: Instant People Finder
+website: http://www.instantpeoplefinder.com/privacy.html
+contact:
+    mail:
+        - address: Washington
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email: []
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? Yes - by Opt-Out Form

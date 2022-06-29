@@ -17,8 +17,28 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Georgia
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1550 Peachtree Street, N.W., Atlanta, GA, 30309, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1550 Peachtree Street N.W., Atlanta, GA, 30309, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: usprivacy@equifax.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: vtinquiries@equifax.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -28,7 +48,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
+notes: |-
     through a link on our website
     We do not post personal information online so this is not applicable.
     Please visit https://www.equifax.com/privacy/privacy-statement/ to review our Privacy Statement for more information.
@@ -44,3 +64,13 @@ notes: |4-
     Through a link on our website
     We do not post personal information online so this is not applicable.
     Please visit https://www.equifax.com/privacy/privacy-statement/ to review our Privacy Statement for more information.
+    Allows Opt-Out? Unclear
+    Allows Opt-Out? No
+    Allows Opt-Out? No
+
+    See attachment.
+    none
+
+    n/a
+
+    none.

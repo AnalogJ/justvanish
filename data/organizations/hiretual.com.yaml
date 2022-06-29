@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 2513 E. Charleston Rd., Suite 200, Mountain View, CA, 94043, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: legal@hiretual.com
           usage:
@@ -18,4 +23,10 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nConsumer can request opt out through the following methods:, , 1. Use Hiretual opt-out tool: https://app.hiretual.com/optout, 2. Contact Hiretual to request opt out through the following ways: , , Consumer Support Hotline: +1 408-831-1223 ext. 2, Consumer Support Email: support@hiretual.com, Security Report/Complaint: security@hiretual.com, Mailing Address:, Attn: Legal Department, HireTeamMate, Inc. dba Hiretual, 2513 E. Charleston Rd., Suite 200, Mountain View, CA 94043, , \nConsumer can request deletion of information through the following methods:, , 1. Use Hiretual opt-out tool: https://app.hiretual.com/optout, 2. Contact Hiretual to request deletion through the following ways: , , Consumer Support Hotline: +1 408-831-1223 ext. 2, Consumer Support Email: support@hiretual.com, Security Report/Complaint: security@hiretual.com, Mailing Address:, Attn: Legal Department, HireTeamMate, Inc. dba Hiretual, 2513 E. Charleston Rd., Suite 200, Mountain View, CA 94043, \nHireTeamMate, Inc. dba Hiretual is an artificial intelligence (AI) recruiting software company. We provide services to customers through our software solution which collects Personal Information and shares with our customers for their internal operational purposes - specifically to engage with a passive job candidate with regard to career opportunities that fit that candidate’s skill sets and professional background. We aspire to help a passive job candidate get to where he or she wants to be professionally and personally, and hope that through our services a passive job candidate will get better career development from companies that he or she wants to work with and that need his or her profession."
+notes: |-
+    Consumer can request opt out through the following methods:, , 1. Use Hiretual opt-out tool: https://app.hiretual.com/optout, 2. Contact Hiretual to request opt out through the following ways: , , Consumer Support Hotline: +1 408-831-1223 ext. 2, Consumer Support Email: support@hiretual.com, Security Report/Complaint: security@hiretual.com, Mailing Address:, Attn: Legal Department, HireTeamMate, Inc. dba Hiretual, 2513 E. Charleston Rd., Suite 200, Mountain View, CA 94043, ,
+    Consumer can request deletion of information through the following methods:, , 1. Use Hiretual opt-out tool: https://app.hiretual.com/optout, 2. Contact Hiretual to request deletion through the following ways: , , Consumer Support Hotline: +1 408-831-1223 ext. 2, Consumer Support Email: support@hiretual.com, Security Report/Complaint: security@hiretual.com, Mailing Address:, Attn: Legal Department, HireTeamMate, Inc. dba Hiretual, 2513 E. Charleston Rd., Suite 200, Mountain View, CA 94043,
+    HireTeamMate, Inc. dba Hiretual is an artificial intelligence (AI) recruiting software company. We provide services to customers through our software solution which collects Personal Information and shares with our customers for their internal operational purposes - specifically to engage with a passive job candidate with regard to career opportunities that fit that candidate’s skill sets and professional background. We aspire to help a passive job candidate get to where he or she wants to be professionally and personally, and hope that through our services a passive job candidate will get better career development from companies that he or she wants to work with and that need his or her profession.
+
+    A consumer is allowed to opt out through two major methods: 1) Opt out by using opt-out tool available on Hiretual's website home pageof www.hiretual.com, located at https://app.hiretual.com/optout. 2) Opt out by contacting Hiretual through email tosupport@hiretual.com or security@hiretual.com.
+    None

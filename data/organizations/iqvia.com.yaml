@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nConsumers may submit requests to opt-out of \"sale\" through the following website: https://www.iqvia.com/about-us/privacy/ccpa. \nProtected individuals may contact us at PrivacyOfficer@IQVIA.com.\nIQVIA only meets the definition of a “data broker” under California law as it pertains to information about health care professionals. IQVIA does not meet the definition of a “data broker” as it pertains to information about consumers generally. To learn more about our privacy practices, please visit our privacy policy on our website: https://www.iqvia.com/about-us/privacy. "
+notes: |4-
+    Consumers may submit requests to opt-out of "sale" through the following website: https://www.iqvia.com/about-us/privacy/ccpa.
+    Protected individuals may contact us at PrivacyOfficer@IQVIA.com.
+    IQVIA only meets the definition of a “data broker” under California law as it pertains to information about health care professionals. IQVIA does not meet the definition of a “data broker” as it pertains to information about consumers generally. To learn more about our privacy practices, please visit our privacy policy on our website: https://www.iqvia.com/about-us/privacy.

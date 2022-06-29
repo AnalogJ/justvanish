@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 555 S. Tryon Street, Suite 2500, Charlotte, NC, 28202, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: usprivacyquestions@deloitte.com
           usage:
@@ -18,4 +23,8 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nTo submit an opt out of sale request, follow the instructions on our “Do Not Sell My Personal Information” webpage located at https://www2.deloitte.com/us/en/footerlinks1/do-not-sell-my-personal-information.html. To submit other requests under the CCPA, follow the instructions on our “How to Submit a Personal Information Request” webpage located at https://datasubject.deloitte.com/.\nNot applicable as Deloitte Consulting LLP does not publicly post online the telephone number or address information of individuals. \n"
+notes: |-
+    To submit an opt out of sale request, follow the instructions on our “Do Not Sell My Personal Information” webpage located at https://www2.deloitte.com/us/en/footerlinks1/do-not-sell-my-personal-information.html. To submit other requests under the CCPA, follow the instructions on our “How to Submit a Personal Information Request” webpage located at https://datasubject.deloitte.com/.
+    Not applicable as Deloitte Consulting LLP does not publicly post online the telephone number or address information of individuals.
+
+    Follow the instructions on our Do Not Sell My Personal Information webpage located at https://www2.deloitte.com/us/en/footerlinks1/do-not-sell-my-personal-information.html.

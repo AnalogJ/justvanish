@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nConsumers have 2 ways to opt out:, - We use MailChimp to manage our email campaigns and they can opt out through a link on any of the emails that they receive (this will opt them out of our email database completely)., - They can go to the following link which is in the cookie banner at the top of our website and on the links in the footer: https://www.eprodirect.com/do-not-sell-my-personal-information/ \nBy email: team@eprodirect.com, By visiting this page on our website: https://www.eprodirect.com/contact-us/, Or the CCPA Opt-Out Page: https://www.eprodirect.com/do-not-sell-my-personal-information/ , \nhttps://www.eprodirect.com/privacy-policy/"
+notes: |4-
+    Consumers have 2 ways to opt out:, - We use MailChimp to manage our email campaigns and they can opt out through a link on any of the emails that they receive (this will opt them out of our email database completely)., - They can go to the following link which is in the cookie banner at the top of our website and on the links in the footer: https://www.eprodirect.com/do-not-sell-my-personal-information/
+    By email: team@eprodirect.com, By visiting this page on our website: https://www.eprodirect.com/contact-us/, Or the CCPA Opt-Out Page: https://www.eprodirect.com/do-not-sell-my-personal-information/ ,
+    https://www.eprodirect.com/privacy-policy/

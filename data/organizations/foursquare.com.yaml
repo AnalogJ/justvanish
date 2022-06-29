@@ -7,8 +7,18 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 50 W 23rd Street, 8th Floor, New York, NY, 10010, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy@foursquare.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: legal@foursquare.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +28,9 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nConsumers can learn how to exercise their privacy rights with Foursquare, including the rights to access, deletion and opting out of sale, by visiting \"Your Privacy Choices\" maintained on the Foursquare website at: https://foursquare.com/products/your-privacy-choices/. If consumers wish to opt-out of sale, they can submit their request by visiting: https://foursquare.com/data-requests/.  Consumers may also submit general privacy requests via webform maintained on Foursquare's website at: https://foursquare.atlassian.net/servicedesk/customer/portal/25.  \nAn individual may contact us to demand deletion of information posted on our websites or apps by contacting us via webform maintained on Foursquare's website at: https://foursquare.atlassian.net/servicedesk/customer/portal/25.  \nAs a company with a long history of consumer apps, Foursquare is dedicated and has a strong core belief in protecting the privacy of consumers. "
+notes: |-
+    Consumers can learn how to exercise their privacy rights with Foursquare, including the rights to access, deletion and opting out of sale, by visiting "Your Privacy Choices" maintained on the Foursquare website at: https://foursquare.com/products/your-privacy-choices/. If consumers wish to opt-out of sale, they can submit their request by visiting: https://foursquare.com/data-requests/.  Consumers may also submit general privacy requests via webform maintained on Foursquare's website at: https://foursquare.atlassian.net/servicedesk/customer/portal/25.
+    An individual may contact us to demand deletion of information posted on our websites or apps by contacting us via webform maintained on Foursquare's website at: https://foursquare.atlassian.net/servicedesk/customer/portal/25.
+    As a company with a long history of consumer apps, Foursquare is dedicated and has a strong core belief in protecting the privacy of consumers.
+
+    Consumers may opt out from the sale of their data by calling our toll free number or submitting a request online. Consumers may further opt out of our databases by submitting a deletion request and if we are able to verify/authenticate the consumer, we will delete that consumer's data from our systems.

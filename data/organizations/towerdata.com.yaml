@@ -7,8 +7,23 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: New York
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 33 Irving Place, 3rd Floor, New York, NY, 10003, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy@towerdata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: tburke@towerdata.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,6 +33,9 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     Consumers may opt out by using this form https://www.towerdata.com/ccpa-form, emailing privacy@towerdata.com, calling 866-377-3630 or mailing to , TowerData, Inc., Attn: Privacy Officer, 33 Irving Place, 3rd Floor, New York, New York 10003
     Consumers may demand deletion using this form https://www.towerdata.com/ccpa-form, emailing privacy@towerdata.com, calling 866-377-3630 or mailing to , TowerData, Inc., Attn: Privacy Officer, 33 Irving Place, 3rd Floor, New York, New York 10003
+    Allows Opt-Out? No
+
+    None.

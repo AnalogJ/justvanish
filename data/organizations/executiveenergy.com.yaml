@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 6275 S. Pearl Street, Suite 100, Las Vegas, NV, 89120, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: drieke@executiveenergy.com
           usage:
@@ -18,6 +23,8 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     Online.
     Online and via mail.
+
+    Online.

@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nSee website link - https://contacts411.com/optOut\nhttps://contacts411.com/ccpa\nContacts411 does not collect data beyond our effort to provide an update to our app users, one contact at a time.  Our users submit an update request on our iOS app, and we submit the data to external third party databases for matching purposes.  When a match is achieved, we deliver new contact data back to the user and or confirm their existing data.  "
+notes: |4-
+    See website link - https://contacts411.com/optOut
+    https://contacts411.com/ccpa
+    Contacts411 does not collect data beyond our effort to provide an update to our app users, one contact at a time.  Our users submit an update request on our iOS app, and we submit the data to external third party databases for matching purposes.  When a match is achieved, we deliver new contact data back to the user and or confirm their existing data.

@@ -1,0 +1,29 @@
+organization_name: Strategic Information Resources
+website: https://strategicinfo.com/wp-content/uploads/sir_privacy_statement-jan2016.pdf
+contact:
+    mail:
+        - address: Massachusetts
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 59 Bobala Rd, Holyoke, MA, 01040, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: jdrziak@strategicinfo.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Unclear
+
+    See attached.

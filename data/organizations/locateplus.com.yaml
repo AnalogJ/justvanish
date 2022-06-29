@@ -1,0 +1,22 @@
+organization_name: Search America LLC
+website: locateplus.com
+contact:
+    mail:
+        - address: PO Box 3168, Peabody, MA, 01961, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dserrano@locateplus.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Search America LLC optains its data from various sources.If consumer requests information to opt out, we instruct them to contact the data providers since we do not store the data.

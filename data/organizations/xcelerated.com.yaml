@@ -1,0 +1,22 @@
+organization_name: Xcelerated Data LLC
+website: www.xcelerated.com
+contact:
+    mail:
+        - address: 2940 Hebron Park Dr, Ste 208, Hebron, KY, 41048, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@xcelerated.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Link to email; or mail;

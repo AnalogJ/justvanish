@@ -18,6 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |4-
     We maintain a privacy@contentgine.com email address for notifications.  In addition, we maintain an opt-out option on the site.
     The individual may submit a request to privacy@contentgine.com.  Records will be deleted immediately.

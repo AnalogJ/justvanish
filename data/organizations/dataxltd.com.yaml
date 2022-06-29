@@ -1,0 +1,35 @@
+organization_name: Datax Ltd
+website: http://dataxltd.com/privacy-policy/
+contact:
+    mail:
+        - address: Nevada
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 7582 Las Vegas Boulevard, Suite 693, Las Vegas, NV, 89123 - 1009, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: vtinquiries@equifax.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: usprivacy@equifax.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Unclear
+
+    See response provided in supplemental attachment.
+    None.

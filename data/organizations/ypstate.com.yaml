@@ -1,0 +1,12 @@
+organization_name: Ypstate.Com
+website: http://www.ypstate.com/wiki/ypstate/contactus/
+contact:
+    mail: []
+    email: []
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? No

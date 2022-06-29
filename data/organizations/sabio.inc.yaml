@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nConsumers can visit our Personal Information Opt Out page https://sabio.inc/personal_information_optout.php to opt out of sale, submit requests, or otherwise exercise their rights under the CCPA. Consumers will need to provide some information to verify and fulfill the request, including their device advertising ID. For additional information on our Privacy Policy consumers can visit us at https://sabio.inc/Sabio_Inc_Website_Privacy_Policy_CCPA_Revisions_Dec19.pdf. , \nConsumers visit our Personal Information Opt Out page https://sabio.inc/personal_information_optout.php to opt out. \nFor more information you can reference our Data Code of Conduct https://sabio.inc/Sabio_Inc_Data_Code_of_Conduct_Final.pdf and our Privacy Policy at https://sabio.inc/Sabio_Inc_Website_Privacy_Policy_CCPA_Revisions_Dec19.pdf"
+notes: |4-
+    Consumers can visit our Personal Information Opt Out page https://sabio.inc/personal_information_optout.php to opt out of sale, submit requests, or otherwise exercise their rights under the CCPA. Consumers will need to provide some information to verify and fulfill the request, including their device advertising ID. For additional information on our Privacy Policy consumers can visit us at https://sabio.inc/Sabio_Inc_Website_Privacy_Policy_CCPA_Revisions_Dec19.pdf. ,
+    Consumers visit our Personal Information Opt Out page https://sabio.inc/personal_information_optout.php to opt out.
+    For more information you can reference our Data Code of Conduct https://sabio.inc/Sabio_Inc_Data_Code_of_Conduct_Final.pdf and our Privacy Policy at https://sabio.inc/Sabio_Inc_Website_Privacy_Policy_CCPA_Revisions_Dec19.pdf

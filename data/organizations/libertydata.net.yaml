@@ -1,0 +1,22 @@
+organization_name: Libertydata.Net
+website: http://www.libertydata.net/privacypolicy.asp
+contact:
+    mail:
+        - address: Florida
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: support@libertydata.net
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? Yes - by email

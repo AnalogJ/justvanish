@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nsimply click the opt-out link that is clearly shown on website. \nsimply complete the \"Opt-Out\" form clearly listed on website. \n"
+notes: |4-
+    simply click the opt-out link that is clearly shown on website.
+    simply complete the "Opt-Out" form clearly listed on website.

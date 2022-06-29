@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nhttps://www.automotivemastermind.com/california-consumer-privacy-act/, 1-800-801-0018, \nhttps://app.onetrust.com/app/#/webform/7020d814-78eb-45f1-bfbb-491ca1076fdd, 1-800-801-0018, \nhttps://www.automotivemastermind.com/privacy-policy/"
+notes: |4-
+    https://www.automotivemastermind.com/california-consumer-privacy-act/, 1-800-801-0018,
+    https://app.onetrust.com/app/#/webform/7020d814-78eb-45f1-bfbb-491ca1076fdd, 1-800-801-0018,
+    https://www.automotivemastermind.com/privacy-policy/

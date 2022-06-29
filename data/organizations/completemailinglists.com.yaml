@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nWebsite form and/or toll-free number, \nWebsite form and/or toll-free number, \nCompile and aggregate via publicly available data"
+notes: |4-
+    Website form and/or toll-free number,
+    Compile and aggregate via publicly available data

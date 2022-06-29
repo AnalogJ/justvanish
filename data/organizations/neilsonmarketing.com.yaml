@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nemail: operations@neilsonmarketing.com, telephone: (800) 736-9741 (toll-free) or (949) 472-2700, mail: NMS Data, Inc., Attention: Operations, 23172 Plaza Pointe Dr #205, Laguna Hills, CA, online: through web forms that are linked to in NMS Data, Inc.'s privacy policy \nNot applicable: NMS Data, Inc. does not publicly post online applicable information of individuals\nAdditional information can be found in NMS Data, Inc.'s privacy policy:, https://www.neilsonmarketing.com/privacy-security-policy/"
+notes: |4-
+    email: operations@neilsonmarketing.com, telephone: (800) 736-9741 (toll-free) or (949) 472-2700, mail: NMS Data, Inc., Attention: Operations, 23172 Plaza Pointe Dr #205, Laguna Hills, CA, online: through web forms that are linked to in NMS Data, Inc.'s privacy policy
+    Not applicable: NMS Data, Inc. does not publicly post online applicable information of individuals
+    Additional information can be found in NMS Data, Inc.'s privacy policy:, https://www.neilsonmarketing.com/privacy-security-policy/

@@ -1,0 +1,39 @@
+organization_name: Automation Research, Inc. D/B/A Dataverify
+website: https://www.dataverify.com/content/privacy.htm
+contact:
+    mail:
+        - address: Ohio
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 250 East Broad Street, Columbus, OH, 43215, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: sue.temple@cbc-companies.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: legal@cbc-companies.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: privacy@dataverify.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |
+    Allows Opt-Out? No
+
+    None.

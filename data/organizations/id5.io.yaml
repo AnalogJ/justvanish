@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nA consumer may opt out of sale or submit requests under CCPA by following the applicable instructions in ID5's Platform Privacy Policy (https://www.id5.io/platform-privacy-policy/). \nID5 does not publicly post or publicly display the types of personal information governed by those Gov. Code sections.  However, if an individual believes that ID5 has done so in violation of either of those sections, that individual may demand deletion of such information by emailing ID5 at privacy@id5.io.\nSee ID5's Platform Privacy Policy (https://www.id5.io/platform-privacy-policy/)."
+notes: |4-
+    A consumer may opt out of sale or submit requests under CCPA by following the applicable instructions in ID5's Platform Privacy Policy (https://www.id5.io/platform-privacy-policy/).
+    ID5 does not publicly post or publicly display the types of personal information governed by those Gov. Code sections.  However, if an individual believes that ID5 has done so in violation of either of those sections, that individual may demand deletion of such information by emailing ID5 at privacy@id5.io.
+    See ID5's Platform Privacy Policy (https://www.id5.io/platform-privacy-policy/).

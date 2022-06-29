@@ -7,8 +7,18 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Washington
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy.compliance@compactlists.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: pei@compactlists.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +28,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nConsumers can submit CCPA requests through our link at http://privacy.compactlists.com/request/opt-out, by emailing privacy.compliance@compactlists.com or by visiting www.CompactLists.com and reviewing our Privacy Policy.\nConsumers can submit CCPA requests through our link at http://privacy.compactlists.com/request/opt-out, by emailing privacy.compliance@compactlists.com or by visiting www.CompactLists.com and reviewing our Privacy Policy.\nConsumers can visit www.CompactLists.com and review our Privacy Policy as well as our Consumer Information link.  "
+notes: |-
+    Consumers can submit CCPA requests through our link at http://privacy.compactlists.com/request/opt-out, by emailing privacy.compliance@compactlists.com or by visiting www.CompactLists.com and reviewing our Privacy Policy.
+    Consumers can visit www.CompactLists.com and review our Privacy Policy as well as our Consumer Information link.
+    Allows Opt-Out? Unclear

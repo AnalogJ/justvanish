@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nBy clicking the 'Do Not Sell My Info / Opt-Out' link on the Intent IQ website and following the instructions. \nPlease see the 'deletion' sections of Intent IQ technology policy at https://www.intentiq.com/technology-privacy-policy\nSee Intent IQ technology privacy policy at https://www.intentiq.com/technology-privacy-policy"
+notes: |4-
+    By clicking the 'Do Not Sell My Info / Opt-Out' link on the Intent IQ website and following the instructions.
+    Please see the 'deletion' sections of Intent IQ technology policy at https://www.intentiq.com/technology-privacy-policy
+    See Intent IQ technology privacy policy at https://www.intentiq.com/technology-privacy-policy

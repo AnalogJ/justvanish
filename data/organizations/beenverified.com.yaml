@@ -1,0 +1,37 @@
+organization_name: Beenverified, Inc. And Its Subsidiaries/Affiliates
+website: https://www.beenverified.com/faq/privacy/
+contact:
+    mail:
+        - address: New York
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 48 West 38th Street, 8th Floor, New York, NY, 10018, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: support@beenverified.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: nberman@beenverified.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Yes - by email
+
+    https://www.beenverified.com/f/optout/search or by calling 1-855-904-6472 or by emailing support@beenverified.com or by writing to us at MSC – 149098, P.O. Box 105168, Atlanta, GA 30348-5168.
+    We do not "collect" any information whatsoever from consumers, but instead license from large data vendors such information as name, address, telephone number and other publicly available information to make such available to users.
+
+    Online, phone and email all available.

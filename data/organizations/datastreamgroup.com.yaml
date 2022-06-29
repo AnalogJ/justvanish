@@ -1,0 +1,24 @@
+organization_name: Datastream Group, Inc.
+website: http://datastreamgroup.com/privacy-policy/
+contact:
+    mail:
+        - address: 1085 Business Lane, Naples, FL, 34110, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: er@datastreamgroup.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Unclear
+
+    See attached.

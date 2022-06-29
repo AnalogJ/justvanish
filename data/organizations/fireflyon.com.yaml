@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nA consumer may opt out of the sale of personal information or submit requests under the CCPA by emailing privacy@fireflyon.com or by completing the form at https://www.fireflyon.com/personal-information.  \nFirefly does not publicly post or display personal information of individuals online. For more information about Firefly’s privacy practices, see Firefly’s Privacy Policy at https://www.fireflyon.com/privacy-policy., , \nAdditional information about Firefly’s data collecting practices can be found in Firefly’s Privacy Policy at https://www.fireflyon.com/privacy-policy."
+notes: |4-
+    A consumer may opt out of the sale of personal information or submit requests under the CCPA by emailing privacy@fireflyon.com or by completing the form at https://www.fireflyon.com/personal-information.
+    Firefly does not publicly post or display personal information of individuals online. For more information about Firefly’s privacy practices, see Firefly’s Privacy Policy at https://www.fireflyon.com/privacy-policy., ,
+    Additional information about Firefly’s data collecting practices can be found in Firefly’s Privacy Policy at https://www.fireflyon.com/privacy-policy.

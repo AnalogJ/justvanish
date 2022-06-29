@@ -1,0 +1,17 @@
+organization_name: Superpages
+website: https://www.superpages.com/about/privacy.html
+contact:
+    mail:
+        - address: Texas
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email: []
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? Unclear

@@ -20,10 +20,20 @@
       ]
     },
     "website": {
-      "type": "string",
-      "default": "",
-      "examples": [
-        "https://www.beenverified.com/faq/privacy/"
+      "anyOf": [
+        { "type": "string",
+          "default": "",
+          "format": "uri",
+          "examples": [
+            "https://www.beenverified.com/faq/privacy/"
+          ] },
+        { "type": "string",
+          "default": "",
+          "format": "hostname",
+          "examples": [
+            "www.beenverified.com"
+          ]
+        }
       ]
     },
     "contact": {
@@ -31,7 +41,8 @@
       "default": {},
       "anyOf": [
         {"required":["mail"]},
-        {"required":["email"]}
+        {"required":["email"]},
+        {"required":["form"]}
       ],
 
       "properties": {
@@ -73,7 +84,32 @@
             ],
             "properties": {
               "address": {
-                "type": "string"
+                "type": "string",
+                "format": "email"
+              },
+              "usage": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "enum": ["request.ccpa", "delete.ccpa", "donotsell.ccpa", "request.gdpr", "delete.gdpr", "request.fioa"]
+                }
+              }
+            }
+          }
+        },
+        "form": {
+          "type": "array",
+          "default": [],
+          "items": {
+            "type": "object",
+            "required": [
+              "address",
+              "usage"
+            ],
+            "properties": {
+              "address": {
+                "type": "string",
+                "format": "hostname"
               },
               "usage": {
                 "type": "array",
@@ -85,6 +121,7 @@
             }
           }
         }
+
       }
     },
     "organization_type": {

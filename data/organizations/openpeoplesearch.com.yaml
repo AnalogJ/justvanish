@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nGo to openpeoplesearch.com, scroll to the page bottom and click Do Not Sell My Personal Information (CA Residents Only).\nGo to openpeoplesearch.com, scroll to the page bottom and click Remove My Info.\nAll data collected and stored is public data. We allow anyone to remove their information. "
+notes: |4-
+    Go to openpeoplesearch.com, scroll to the page bottom and click Do Not Sell My Personal Information (CA Residents Only).
+    Go to openpeoplesearch.com, scroll to the page bottom and click Remove My Info.
+    All data collected and stored is public data. We allow anyone to remove their information.

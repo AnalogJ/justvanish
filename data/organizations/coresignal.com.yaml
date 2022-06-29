@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nA consumer may opt out of the sale of their personal information by submitting an online request at https://coresignal.com/opt-out. , , Consumer may also opt out of sale or submit their requests by contacting us at privacy@coresignal.com., \nWe do not post information online for public view, but if a protected individual opts out, the data is not being used anymore and is deleted., , Protected individuals may also submit their requests by contacting us at privacy@coresignal.com., \nFor more information on data collecting practices and how consumers may exercise their rights, please see our Privacy Policy at https://coresignal.com/privacy-policy."
+notes: |4-
+    A consumer may opt out of the sale of their personal information by submitting an online request at https://coresignal.com/opt-out. , , Consumer may also opt out of sale or submit their requests by contacting us at privacy@coresignal.com.,
+    We do not post information online for public view, but if a protected individual opts out, the data is not being used anymore and is deleted., , Protected individuals may also submit their requests by contacting us at privacy@coresignal.com.,
+    For more information on data collecting practices and how consumers may exercise their rights, please see our Privacy Policy at https://coresignal.com/privacy-policy.

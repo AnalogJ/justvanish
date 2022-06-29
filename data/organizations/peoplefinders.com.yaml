@@ -7,6 +7,16 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1821 Q Street, Sacramento, CA, 95811, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: customercare@peoplefinders.com
           usage:
@@ -18,4 +28,11 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nA consumer may exercise their right to opt out through the “Do Not Sell My Personal Information” or “Do Not Sell My Info” link in the footer of the website.  A consumer may also submit other CCPA-related requests by clicking on the links found in Section V (Your Rights) of our Privacy Policy (found at https://www.peoplefinders.com/about/privacy.)  \nA consumer may opt out of having their listing displayed by going online to https://www.peoplefinders.com/opt-out  and submitting a request.  A consumer may also contact Customer Care or mail in their request at the business address.\nAdditional information may be found in our Privacy Policy at https://www.peoplefinders.com/about/privacy. "
+notes: |-
+    A consumer may exercise their right to opt out through the “Do Not Sell My Personal Information” or “Do Not Sell My Info” link in the footer of the website.  A consumer may also submit other CCPA-related requests by clicking on the links found in Section V (Your Rights) of our Privacy Policy (found at https://www.peoplefinders.com/about/privacy.)
+    A consumer may opt out of having their listing displayed by going online to https://www.peoplefinders.com/opt-out  and submitting a request.  A consumer may also contact Customer Care or mail in their request at the business address.
+    Additional information may be found in our Privacy Policy at https://www.peoplefinders.com/about/privacy.
+    Allows Opt-Out? No
+
+    A consumer may opt out of having their listing displayed by going online to https://www.peoplefinders.com/opt-out and submitting a request.  A consumer may also contact Customer Care for additional help.
+    N/A

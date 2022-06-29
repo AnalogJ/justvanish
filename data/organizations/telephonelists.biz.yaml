@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 8111 LYNDON B JOHNSON FWY, Suite 1045, Dallas, TX, 75251 - 1432, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: richard@evs7.com
           usage:
@@ -18,4 +23,9 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nBy calling 800-713-8353 or 972-713-6622, or by filling out our online request form here: https://www.evs7.com/personal-information-request\nWe don't post any personal information online for public viewing.\nWe do not collect the personal information that we sell. We purchase that from a data broker. "
+notes: |-
+    By calling 800-713-8353 or 972-713-6622, or by filling out our online request form here: https://www.evs7.com/personal-information-request
+    We don't post any personal information online for public viewing.
+    We do not collect the personal information that we sell. We purchase that from a data broker.
+
+    By calling 800-713-8353 or 972-713-6622 or by filling out our online request form: https://www.evs7.com/personal-information-request

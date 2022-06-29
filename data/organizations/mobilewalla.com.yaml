@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nOn our website in multiple places including https://www.mobilewalla.com/california-residents-do-not-sell-my-personal-information, \nOn our website in multiple places including https://www.mobilewalla.com/california-residents-do-not-sell-my-personal-information\non our website https://www.mobilewalla.com/business-services-privacy-policy"
+notes: |4-
+    On our website in multiple places including https://www.mobilewalla.com/california-residents-do-not-sell-my-personal-information,
+    On our website in multiple places including https://www.mobilewalla.com/california-residents-do-not-sell-my-personal-information
+    on our website https://www.mobilewalla.com/business-services-privacy-policy

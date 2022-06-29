@@ -1,0 +1,22 @@
+organization_name: NCR Corporation
+website: www.ncr.com
+contact:
+    mail:
+        - address: 864 Spring Street NW, Atlanta, GA, 30308, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: office.privacy@ncr.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Please visit www.ncr.com/privacy

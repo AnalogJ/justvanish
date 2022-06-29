@@ -8,7 +8,7 @@ contact:
             - delete.ccpa
             - donotsell.ccpa
     email:
-        - address: 'legal@traackr.com '
+        - address: legal@traackr.com
           usage:
             - request.ccpa
             - delete.ccpa

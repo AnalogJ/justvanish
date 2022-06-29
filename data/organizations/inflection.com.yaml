@@ -1,0 +1,43 @@
+organization_name: Inflection.Com, Inc
+website: https://www.inflection.com/privacy-policy
+contact:
+    mail:
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 555 Twin Dolphin Dr., Ste 200, REDWOOD CITY, CA, 94065, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 555 Twin Dolphin Dr., Ste 630, REDWOOD CITY, CA, 94065, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: elizabeth@goodhire.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: legal@inflection.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Yes - by email
+    Allows Opt-Out? Unclear
+
+    Inflection.com, Inc owns and operates PeopleSmart.com. Consumers wishing to opt-out may visit PeopleSmart.com and click the "opt-out" link at the bottom of the homepage. Alternatively, they may visit https://www.peoplesmart.com/optout-go. Here, they will be directed through our electronic opt-out process. Alternatively, opt-out requests may be mailed to: PeopleSmart,  P.O. Box 391146, Omaha, NE 68139
+    Please review Peoplesmart.com's privacy policy at https://www.peoplesmart.com/privacy-policy for more information.
+
+    More information may be found at www.goodhire.com/privacy and https://www.inflection.com/privacy-policy

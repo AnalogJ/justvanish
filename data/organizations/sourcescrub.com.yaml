@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nA consumer may opt out of sale or submit requests under the CCPA by emailing us at privacy@sourcescrub.com or by filling out our opt-out form: https://www.sourcescrub.com/legal/do-not-sell-my-personal-information\nA consumer may opt out of sale or submit requests under the CCPA by emailing us at privacy@sourcescrub.com or by filling out our opt-out form: https://www.sourcescrub.com/legal/do-not-sell-my-personal-information\nWe collect publicly available Names and Business Emails for executives at small businesses in the US "
+notes: |4-
+    A consumer may opt out of sale or submit requests under the CCPA by emailing us at privacy@sourcescrub.com or by filling out our opt-out form: https://www.sourcescrub.com/legal/do-not-sell-my-personal-information
+    We collect publicly available Names and Business Emails for executives at small businesses in the US

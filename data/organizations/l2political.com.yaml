@@ -7,8 +7,23 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Washington
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 18912 North Creek Parkway, Bldg 1, Suite 201, Bothell, WA, 98011, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: info@l2political.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: bruce.willsie@l2political.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,6 +33,9 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     Please visit our CCPA page at the following link for instructions:, , https://l2political.com/california-privacy-rights-for-california-residents-only/
-    Please visit our CCPA page at the following link for instructions:, , https://l2political.com/california-privacy-rights-for-california-residents-only/
+    Allows Opt-Out? Yes - by email
+
+    Contact L2 via email with name and address for opt-out of our commercial databases.  Email should be sent to OptOut@L2Political.com
+    None.

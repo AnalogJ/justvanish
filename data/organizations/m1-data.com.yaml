@@ -1,0 +1,22 @@
+organization_name: M1 Data & Analytics, LLC
+website: www.m1-data.com
+contact:
+    mail:
+        - address: 1000 NW 65th Street, Suite 200, Fort Lauderdale, FL, 33309, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: gashe@m1-data.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Consumers may request an opt-out from M1 Data via telephone, e-mail, or directly on our website.

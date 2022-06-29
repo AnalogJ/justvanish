@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: PO Box 62, Mount Vernon, VA, 22121 - 0062, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: bbrownson@knowwho.com
           usage:
@@ -18,7 +23,9 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
-    written letter, email, webform or phone call
+notes: |-
     written letter, email, webform or phone call
     50-years in business- we specialize in data on federal, state, and local elected officials
+
+    via online or email or phone call
+    50-years in business, specializing in data primarily on federal, state and local elected officials

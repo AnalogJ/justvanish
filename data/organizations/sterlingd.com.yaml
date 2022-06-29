@@ -1,0 +1,34 @@
+organization_name: Sterling Data Llc
+website: sterlingd.com
+contact:
+    mail:
+        - address: Virginia
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1801 Crystal Drive, Apt 206, Arlington, VA, 22202, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@sterlingd.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: abe.usher@sterlingd.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Yes - by email
+
+    See attached.

@@ -7,8 +7,33 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: New York
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 39 Broadway, 32nd Floor, New York, NY, 10006, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 39 Broadway, Floor 32, New York, NY, 10006, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: jason.bier@alc.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: sherry.booles@alc.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: privacy.officer@belardiwong.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,6 +43,12 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     By visiting www.belardiwong.com and submitting web form OneTrust requests.
     By visiting the privacy policy of www.belardiwong.com.
+    Allows Opt-Out? Unclear
+
+    To opt-out of direct marketing or synchronization of offline data with online activities, Belardi  provides an online form that provides consumers with an option to opt-out of both direct mail and email or email only. We require all of our cookie and related digital advertising services providers or partners to adhere to the Digital Advertising Alliance (“DAA”) Self-Regulatory Principles in connection with this interest-based advertising activity and provide opt-out for interest based ad cookies
+    N/A
+
+    We maintain an opt-out through our website at https://www.belardiwong.com/privacypolicy through a webform.

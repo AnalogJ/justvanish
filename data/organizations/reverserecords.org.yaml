@@ -1,0 +1,22 @@
+organization_name: Reverserecords.Org
+website: http://reverserecords.org/index.php?xpath=privacy&code=
+contact:
+    mail:
+        - address: Massachusetts
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: support@infotracer.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? Yes - by email

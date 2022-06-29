@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nInstructions on how to submit a request to opt-out of sale can be found here: https://www.pwc.com/us/en/site/notice-of-right-to-opt-out.html. These instructions are also available by clicking on the “Do Not Sell My Personal Information” link in the footer of the pwc.com/us website. , , Instructions on how to submit a request relating to other CCPA rights can be found here: https://www.pwc.com/us/en/site/california-privacy.html. \nNot applicable as PwC does not publicly post on the Internet personal contact information (i.e., phone numbers, addresses) of individuals.\nhttps://www.pwc.com/us/en/site/privacy.html "
+notes: |4-
+    Instructions on how to submit a request to opt-out of sale can be found here: https://www.pwc.com/us/en/site/notice-of-right-to-opt-out.html. These instructions are also available by clicking on the “Do Not Sell My Personal Information” link in the footer of the pwc.com/us website. , , Instructions on how to submit a request relating to other CCPA rights can be found here: https://www.pwc.com/us/en/site/california-privacy.html.
+    Not applicable as PwC does not publicly post on the Internet personal contact information (i.e., phone numbers, addresses) of individuals.
+    https://www.pwc.com/us/en/site/privacy.html

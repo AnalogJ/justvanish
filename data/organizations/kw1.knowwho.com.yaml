@@ -1,0 +1,29 @@
+organization_name: Knowwho, Inc.
+website: https://kw1.knowwho.com/service/privacy/
+contact:
+    mail:
+        - address: Virginia
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: PO Box 62, Mount Vernon, VA, 22121, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: bbrownson@knowwho.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Yes - by email
+
+    See attached.

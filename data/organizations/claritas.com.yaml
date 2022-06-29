@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 8044 Montgomery Road, Suite 455, Cincinnati, OH, 45236, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: al.gadbut@claritas.com
           usage:
@@ -18,6 +23,8 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     There is a link on our home page and in our privacy policy.  We also offer a 1-800 # to consumers to opt-out
     There is a link on our home page and in our privacy policy.  We also offer a 1-800 # to consumers to request deletion
+
+    The opt-out link is on our homepage and in our privacy policy.  We are a member fo DAA AdChoices and honoer opt-outs that way.  In addition we provide an 1-800# to opt-out as well

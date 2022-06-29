@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 1594 Hubbard Dr., Lancaster, OH, 43130, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: consumer@n-focus.com
           usage:
@@ -18,7 +23,9 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
-    Consumers will be able to submit a request by calling (844) 201-3013, emailing consumer@n-focus.com or completing the appropriate web form at n-focus.com.
+notes: |-
     Consumers will be able to submit a request by calling (844) 201-3013, emailing consumer@n-focus.com or completing the appropriate web form at n-focus.com.
     Consumers will be able to find additional information by visiting n-focus.com
+
+    Consumers may request to opt-out of sales of data via phone, direct mail or email.
+    Consumers will be able to find additional information by visiting n-focus.com.

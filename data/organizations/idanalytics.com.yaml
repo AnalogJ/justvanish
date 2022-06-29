@@ -7,8 +7,28 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 15253 Avenue of Scie, San Diego, CA, 92128, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 15253 Avenue of Science, San Diego, CA, 92128, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: consumer.documents@lexisnexisrisk.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: ken_meiser@symantec.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,7 +38,12 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
+notes: |-
     California consumers may opt out or submit requests under the CCPA at:, , https://consumer.risk.lexisnexis.com/california, , California consumers may also submit a request by phone at 1-888-217-1591 or by mail at:, , Consumer Center, Attn: California Consumer Privacy Act (CCPA) Request, P.O. Box 105108, Atlanta, GA 30348-5295
     Protected individuals can submit requests by phone at 1-888-217-1591 or at:, , LexisNexis Individual Requests for Information Suppression, PO Box 933, Dayton, OH 45401, Email: privacy.information.mgr@lexisnexis.com
     ID Analytics provides anti-fraud and risk mitigation services pursuant to exceptions set forth in the GLB Act (15 USC 6802(e)).
+    Allows Opt-Out? No
+
+    IDA provides anti-fraud and risk mitigation services pursuant to the exceptions set forth in the GLB Act (15 USC 6802(e)).   No client or consumer contributed PII is used for marketing, list generation, or other non-risk services.   Normally, IDA does not deliver or provide clients with PII; rather, only a numeric risk scores or grade is provided.   In certain instances, corrective PII and authentication services are provided to credentialed financial services and telecommunications companies.
+
+    IDA provides anti-fraud and risk mitigation services pursuant to the exceptions set forth in the GLB Act (15 USC 6802(e)).   No client or consumer contributed PII is used for marketing, list generation, or other non-risk services.   Normally, IDA does not deliver or provide clients with PII; rather, only a numeric risk scores or grade is provided.   In certain instances, corrective PII and authentication services are provided to credentialed financial services and telecommunications companies.

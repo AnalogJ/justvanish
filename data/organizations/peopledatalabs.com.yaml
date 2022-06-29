@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 455 Market Street, Suite 1690, San Francisco, CA, 94105, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy@peopledatalabs.com
           usage:
@@ -18,6 +23,5 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
-    https://www.peopledatalabs.com/opt-out-form
+notes: |
     https://www.peopledatalabs.com/opt-out-form

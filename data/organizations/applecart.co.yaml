@@ -1,0 +1,31 @@
+organization_name: Project Applecart Llc
+website: applecart.co
+contact:
+    mail:
+        - address: New York
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 234 W 39th Street, 5th Floor, New York, NY, 10018, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: matt@applecart.co
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? No
+
+    none
+
+    None

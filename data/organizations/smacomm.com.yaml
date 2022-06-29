@@ -18,6 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |4-
     A consumer can opt out via US Mail or via an opt out link.
     A protected individual can demand deletion via an opt out link or via the US Mail

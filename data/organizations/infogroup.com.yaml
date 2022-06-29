@@ -1,0 +1,30 @@
+organization_name: Infogroup Inc.
+website: https://www.infogroup.com/privacy-policy
+contact:
+    mail:
+        - address: Nebraska
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1020 E. 1st Street, Papillion, NE, 68046, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacyteam@infogroup.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Yes - by email
+
+    In order to opt out of Infogroup's proprietary database, consumers may send an email to Infogroup, containing their first and last name, along with their current address. We also recommend that consumers provide us with other addresses where they may have lived during the past five years, which may help us to opt them out even if we have not yet acquired their current address information. Consumers may also opt out of emails Infogroup sends to them via a link in the footer of the email.
+    No.

@@ -1,0 +1,30 @@
+organization_name: Ruf Strategic Solutions
+website: https://ruf.com/privacy-policy/
+contact:
+    mail:
+        - address: Kansas
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1533 E. Spruce, Olathe, KS, 66061, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: matthussey@infutor.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Yes - by email
+
+    consumer request via web form, any inbound communication channel (phone/mail/email)
+    Primary consumer data collection performed by Knowledgebase, Inc. Broker licenses compiler's file. We allow consumers to directly opt out and we pass opt out information on to compiler and also provide consumer with compiler's preference services contacts.Additional note: We are choosing to submit this registration as convenience. Submission of this registration does not constitute agreement that our operations fall under jurisdiction of courts in the state of Vermont.

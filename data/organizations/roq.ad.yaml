@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nconsumer may opt out one of many industry standards tools, from regulators body, such as network advertising initiative. https://thenai.org/opt-out/, the can also opt out from the Roq.ad website.   https://www.roq.ad/white-papers/#optout, \nany protected individual,  may demand deletion of information posted online, following the direction in the Roq.ad privacy. ,  https://www.roq.ad/privacy-policy-roqad/, \nRoq.ad collect data, from other data brokers and translate into our cross device identity. "
+notes: |4-
+    consumer may opt out one of many industry standards tools, from regulators body, such as network advertising initiative. https://thenai.org/opt-out/, the can also opt out from the Roq.ad website.   https://www.roq.ad/white-papers/#optout,
+    any protected individual,  may demand deletion of information posted online, following the direction in the Roq.ad privacy. ,  https://www.roq.ad/privacy-policy-roqad/,
+    Roq.ad collect data, from other data brokers and translate into our cross device identity.

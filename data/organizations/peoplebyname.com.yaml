@@ -1,0 +1,22 @@
+organization_name: People By Name
+website: http://www.peoplebyname.com/privacy.php
+contact:
+    mail:
+        - address: Florida
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: support@peoplebyname.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? Yes - by Opt-Out Form

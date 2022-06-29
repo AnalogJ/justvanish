@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nCalifornia residents may opt out of the sale of their personal information by submitting an online request at https://www.conversantmedia.com/privacy/opt-out and may submit data access and deletion requests at https://www.conversantmedia.com/dsr. \nConversant does not receive or maintain any home addresses or telephone numbers for any individual.\nMore information about Conversant’s data collecting practices can be found at https://www.conversantmedia.com/legal/privacy."
+notes: |4-
+    California residents may opt out of the sale of their personal information by submitting an online request at https://www.conversantmedia.com/privacy/opt-out and may submit data access and deletion requests at https://www.conversantmedia.com/dsr.
+    Conversant does not receive or maintain any home addresses or telephone numbers for any individual.
+    More information about Conversant’s data collecting practices can be found at https://www.conversantmedia.com/legal/privacy.

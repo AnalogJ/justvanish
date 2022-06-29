@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nCalifornia residents may submit an opt-out of sale or submit requests online at  https://www.mediawallah.com/donotsell or by calling us at + 1 (855) WALLAH1 or +1 (855) 925-5241\nCalifornia residents and protected individuals may submit deletion requests online at https://www.mediawallah.com/donotsell or by calling us al  + 1 (855) WALLAH1 or +1 (855) 925-5241\n, Additional information on MediaWallah's data collecting practices is available within our privacy page (https://www.mediawallah.com/privacy-policy) "
+notes: |4-
+    California residents may submit an opt-out of sale or submit requests online at  https://www.mediawallah.com/donotsell or by calling us at + 1 (855) WALLAH1 or +1 (855) 925-5241
+    California residents and protected individuals may submit deletion requests online at https://www.mediawallah.com/donotsell or by calling us al  + 1 (855) WALLAH1 or +1 (855) 925-5241
+    , Additional information on MediaWallah's data collecting practices is available within our privacy page (https://www.mediawallah.com/privacy-policy)

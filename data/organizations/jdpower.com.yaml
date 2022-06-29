@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nCalifornia consumers may opt out of sale or submit requests under the CCPA by submitting a request through the online forms available at jdpower.com/Privacy/California/DSAR or by calling the toll-free number at (866) 467-8688 x327. \nA protected individual can submit a request to jdpowerprivacy@jdpa.com or call (888) 537-6937.\nMore information about the company’s privacy practices is available at jdpower.com/privacy.  "
+notes: |4-
+    California consumers may opt out of sale or submit requests under the CCPA by submitting a request through the online forms available at jdpower.com/Privacy/California/DSAR or by calling the toll-free number at (866) 467-8688 x327.
+    A protected individual can submit a request to jdpowerprivacy@jdpa.com or call (888) 537-6937.
+    More information about the company’s privacy practices is available at jdpower.com/privacy.

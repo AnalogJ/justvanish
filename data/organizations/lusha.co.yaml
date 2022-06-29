@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nWe have dedicated \"Do Not Sell My Personal Information\" page which is available at this link: , https://dashboard.lusha.co/opt-out?ccpa=true\nOur \"Do Not Sell My Personal Information\" page is removing automatically the information from our database  , \n"
+notes: |4-
+    We have dedicated "Do Not Sell My Personal Information" page which is available at this link: , https://dashboard.lusha.co/opt-out?ccpa=true
+    Our "Do Not Sell My Personal Information" page is removing automatically the information from our database  ,

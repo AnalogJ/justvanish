@@ -7,8 +7,28 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Florida
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 4800 140th Avenue North, Suite 101, Clearwater, FL, 33762, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: legal@dmsgroup.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: connect@thedmsgrp.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: legal@thedmsgrp.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,6 +38,9 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     dmsunsub.io
-    dmsunsub.io
+    Allows Opt-Out? Yes - by email
+
+    The opt out method is based on how the consumer opted in. Within each opt in consent there are instructions clearly labeled for the consumer to opt out.
+    N/A

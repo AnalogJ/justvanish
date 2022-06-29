@@ -1,0 +1,12 @@
+organization_name: Cell Phone Registry
+website: http://cellphoneregistry.com/index.php?xpath=privacy
+contact:
+    mail: []
+    email: []
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? Yes - by Opt-Out Form

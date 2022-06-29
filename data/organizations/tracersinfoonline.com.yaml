@@ -1,0 +1,17 @@
+organization_name: Tracers Information Specialists, Inc.
+website: https://www.tracersinfoonline.com/en/privacy/
+contact:
+    mail:
+        - address: Florida
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email: []
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? Unclear

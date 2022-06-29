@@ -1,0 +1,17 @@
+organization_name: 'People Finder: Instant Online Records Retrieval'
+website: http://www.peoplefinderonline.net/privacy.html
+contact:
+    mail: []
+    email:
+        - address: support@infotracer.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? Yes - by Opt-Out Form

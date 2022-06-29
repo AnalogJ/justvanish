@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nA consumer may opt-out of sale or submit requests under the CCPA by following the links provided in QuinStreet's Privacy Notice which can be accessed at this URL, https://www.quinstreet.com/privacy-notice/. , , , \nA protected individual may demand deletion of any information posted online by emailing legalq@quinstreet.com. \nhttps://www.quinstreet.com/privacy-notice/"
+notes: |4-
+    A consumer may opt-out of sale or submit requests under the CCPA by following the links provided in QuinStreet's Privacy Notice which can be accessed at this URL, https://www.quinstreet.com/privacy-notice/. , , ,
+    A protected individual may demand deletion of any information posted online by emailing legalq@quinstreet.com.
+    https://www.quinstreet.com/privacy-notice/

@@ -7,8 +7,28 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Colorado
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1805 HWY 42, 2nd Floor, Louisville, CO, 80027, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacyinfo@path2response.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: invoices@path2response.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: finance@path2response.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,6 +38,10 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     Consumers should go to https://path2response.com/consumer-privacy to submit CCPA requests (Opt-Out from Sale or Access your Data). Consumers may also call 1-888-914-9661, PIN 625-484.
     Consumers should go to https://path2response.com/consumer-privacy to submit CCPA requests (Delete your Data). Consumers may also call 1-888-914-9661, PIN 625-484.
+    Allows Opt-Out? Yes - by Opt-Out Form
+
+    Consumer can call in, email or fill out webform.
+    no.

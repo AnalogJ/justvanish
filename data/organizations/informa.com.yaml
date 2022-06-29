@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nAs detailed in the Privacy Policy, consumers in the US can submit a requests online via the CCPA form or Calling us at +1 (888) 914 – 9661  by calling (800) 367-7311.\nAs detailed in the Privacy Policy, consumers in the US can submit a requests online via the CCPA form or Calling us at +1 (888) 914 – 9661  by calling (800) 367-7311.\nInforma data collection practices are detailed in the Privacy Policy. We only source data indirectly on consumers for use in some of Informa's business-2-business intelligence products as part of the industry analysis will include professional details.  This information is sourced from public data such as industry recognized and/or government agencies and only made available to corporate subscribers for their own use under Informa licensed T&Cs. "
+notes: |4-
+    As detailed in the Privacy Policy, consumers in the US can submit a requests online via the CCPA form or Calling us at +1 (888) 914 – 9661  by calling (800) 367-7311.
+    Informa data collection practices are detailed in the Privacy Policy. We only source data indirectly on consumers for use in some of Informa's business-2-business intelligence products as part of the industry analysis will include professional details.  This information is sourced from public data such as industry recognized and/or government agencies and only made available to corporate subscribers for their own use under Informa licensed T&Cs.

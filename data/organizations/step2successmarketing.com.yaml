@@ -18,4 +18,5 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nSTEP2SUCCESS Marketing has contracted with a www.mydataprivacy.com as your compliance dashboard that provides an automated solution to CA consumers that allows them to view the information we have on them, opt out or request to be deleted. \nSTEP2SUCCESS Marketing has contracted with a www.mydataprivacy.com as your compliance dashboard that provides an automated solution to CA consumers that allows them to view the information we have on them, opt out or request to be deleted. \nSTEP2SUCCESS Marketing has contracted with a www.mydataprivacy.com as your compliance dashboard that provides an automated solution to CA consumers that allows them to view the information we have on them, opt out or request to be deleted. "
+notes: |4-
+    STEP2SUCCESS Marketing has contracted with a www.mydataprivacy.com as your compliance dashboard that provides an automated solution to CA consumers that allows them to view the information we have on them, opt out or request to be deleted.

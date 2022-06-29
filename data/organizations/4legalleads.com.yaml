@@ -1,0 +1,23 @@
+organization_name: Advertise4Sales LLC
+website: 4legalleads.com
+contact:
+    mail:
+        - address: '2602 S 38th St, #38, Tacoma, WA, 98409, USA'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: tapster13@gmail.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Phone, website, dnc or direct response to subscribers confirmation emails
+    We already follow pretty stringent data standards

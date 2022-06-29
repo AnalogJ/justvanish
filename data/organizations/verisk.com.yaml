@@ -1,0 +1,91 @@
+organization_name: Insurance Services Office, Inc.
+website: https://www.verisk.com/privacy-trademarks-use/iso-online-privacy-notice/
+contact:
+    mail:
+        - address: New Jersey
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: Texas
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 545 Washington Blvd, Jersey City, NJ, 07310, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1716 Briarcrest Drive, Suite 200, Bryan, TX, 77802, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: '388 Market Street, # 750, San Francisco, CA, 94111, USA'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1716 Briarcrest Drive, Suite 200,, Bryan, TX, 77802, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1716 Briarcrest Dr Drive, Suite 200, Bryan, TX, 77802, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 545 Washington Blvd, Verisk, Jersey City, NJ, 07310, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: jvolk@verisk.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: info@verisk.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: support@iix.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: bgeorge@verisk.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Unclear
+    Allows Opt-Out? No
+    Allows Opt-Out? No
+    Allows Opt-Out? No
+
+    Where applicable, ISO has a process in place to address opt-out requests that are received.
+    None.
+
+    None.
+
+    None.
+
+    Ref to #7: All prospective customers and vendors must execute a detailed contract with the entity, as well as successfully complete the entities credentialing process prior to be granted access to any information or services within the entity’s environment.
+
+    Where applicable, ISO has a process in place to address opt-out requests that are received.

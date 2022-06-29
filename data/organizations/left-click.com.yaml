@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nOne may opt-out in the following ways:, -Email info@left-click.com and asked to be opted-out, -Click \"Unsubscribe\" on emails, -Fill out the Opt-Out form on the website\nOne may demand deletion in the following ways:, -Email info@left-click.com and asked to be deleted, \n"
+notes: |4-
+    One may opt-out in the following ways:, -Email info@left-click.com and asked to be opted-out, -Click "Unsubscribe" on emails, -Fill out the Opt-Out form on the website
+    One may demand deletion in the following ways:, -Email info@left-click.com and asked to be deleted,

@@ -1,0 +1,22 @@
+organization_name: Public Record Site
+website: http://www.public-record-site.com/privacy-policy.htm
+contact:
+    mail:
+        - address: Pennsylvania
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy@1and1.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? No

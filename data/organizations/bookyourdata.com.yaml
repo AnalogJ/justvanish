@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nBy simply sending an e-mail to the contact details shown in the website and also by filling the opt-out form. \nBy simply sending an e-mail to the contact details shown in the website and also by filling the opt-out form.\nWe only provide b2b data services and solely process thus sell business data."
+notes: |4-
+    By simply sending an e-mail to the contact details shown in the website and also by filling the opt-out form.
+    We only provide b2b data services and solely process thus sell business data.

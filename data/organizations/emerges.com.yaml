@@ -7,6 +7,16 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 212 Prince George St., Suite B, Annapolis, MD, 21401, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 212 Prince George St, Ste. B, Annapolis, MD, 21401, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: shawn@emerges.com
           usage:
@@ -18,4 +28,10 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nCalifornia residents may excercise their rights by personally accurately completing our Opt-Out form on our web page at - https://www.emerges.com/Opt-Out-Request_ep_51-1.html\nCalifornia residents may excercise their rights by personally accurately completing our Opt-Out form on our web page at - https://www.emerges.com/Opt-Out-Request_ep_51-1.html\nUse cases may vary depending on the data type (hunting, fishing or pilot license holders, boat, aircraft, ATV, voter or snowmobile registrations, political campaign contributors and so on) pursuant to any applicable statutorily permitted or non-restricted uses that may be unique to a particular source state or county or town - https://www.emerges.com/Success-Stories_ep_45-1.html., , , "
+notes: |-
+    California residents may excercise their rights by personally accurately completing our Opt-Out form on our web page at - https://www.emerges.com/Opt-Out-Request_ep_51-1.html
+    Use cases may vary depending on the data type (hunting, fishing or pilot license holders, boat, aircraft, ATV, voter or snowmobile registrations, political campaign contributors and so on) pursuant to any applicable statutorily permitted or non-restricted uses that may be unique to a particular source state or county or town - https://www.emerges.com/Success-Stories_ep_45-1.html., , ,
+
+    1) https://www.emerges.com/Opt-Out-Request_ep_51-1.html. If we are not publishing a politician contact list we may automatically opt out:1) under 18 year olds2) California residential addresses3) Any of the ~56 non US or US Territories...unless a credentialed client is permitted or otherwise not restricted from accessing a particular public record.
+
+    https://www.emerges.com/Opt-Out-Request_ep_51-1.html

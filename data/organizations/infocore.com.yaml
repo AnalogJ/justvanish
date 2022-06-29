@@ -7,8 +7,23 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 5973 Avenida Encinas Suite 218, Carlsbad, CA, 92008, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: info@infocore.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: bjupp@infocore.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,6 +33,9 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     This is the link to our privacy policy , , https://infocore.com/infocore-privacy-policy/
     Infocore receives, processes, and uses data owned by business(es) on behalf of the business(es) and to which the business(es) disclose to Infocore consumer personal information for a business purpose under written contracts.  The written contracts prohibit Infocore from retaining, using or disclosing consumer personal information for any purpose other than for the specific purpose of performing the services specified in the contract for the business as permitted by the Act.  The contracts do not provide Infocore with the right to disclose or delete any personal information to any consumer.  Indeed, Infocore may lack critical information necessary to verify that a request to know or a request to delete is from a consumer., , Please note that Infocore cannot respond to requests from third parties or bots because Infocore cannot verify that the consumer is the one making the consumer request.
+    Allows Opt-Out? No
+
+    Infocore Inc. is a broker only and as such does not collect, aggregate, nor own any data. We are solely the company that puts together a rental or license agreement between an end-user marketer with a data collector/aggregator/owner. We do not sell any data. It is analogous to the real estate industry where we act as the intermediary between the two companies.  We do not have access to personally identifiable data and as such are not able to provide the ability for consumers to opt-out of data.

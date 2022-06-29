@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nDirect link to web form:  https://privacy.targetsmart.com/do-not-sell-my-personal-information, CCPA privacy request by phone: 888-678-6880\nDirect link to web form:  https://privacy.targetsmart.com/do-not-sell-my-personal-information, CCPA privacy request by phone: 888-678-6880\nInformation about TargetSmart's practices can be found in these links., , https://privacy.targetsmart.com/, https://privacy.targetsmart.com/privacy-policy, https://privacy.targetsmart.com/cookie-policy, "
+notes: |4-
+    Direct link to web form:  https://privacy.targetsmart.com/do-not-sell-my-personal-information, CCPA privacy request by phone: 888-678-6880
+    Information about TargetSmart's practices can be found in these links., , https://privacy.targetsmart.com/, https://privacy.targetsmart.com/privacy-policy, https://privacy.targetsmart.com/cookie-policy,

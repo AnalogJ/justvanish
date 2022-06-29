@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nA consumer can visit http://siteimpact.com/cali-compliance.php to make any requests under the CCPA\nHow a protected individual can demand deletion of information posted online under Gov. Code sections 6208.1(b) or 6254.21(c)(1) by visiting http://siteimpact.com/cali-compliance.php \n"
+notes: |4-
+    A consumer can visit http://siteimpact.com/cali-compliance.php to make any requests under the CCPA
+    How a protected individual can demand deletion of information posted online under Gov. Code sections 6208.1(b) or 6254.21(c)(1) by visiting http://siteimpact.com/cali-compliance.php

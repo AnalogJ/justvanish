@@ -7,8 +7,18 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 1301 5th Ave, Suite 1600, Seattle, WA, 98101, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: ccparequest@ekata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: legal@ekata.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,6 +28,9 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     Complete form at:  https://privacyrequests.ekata.com/hc/en-us/requests/new?
     Not applicable because Ekata does not publicly display individuals’ home addresses or telephone numbers online.
+
+    A consumer may request an opt-out if the opt-out is required by law via a self-service web page (https://privacyrequests.ekata.com/hc/en-us/requests/new?) or by sending an email to euprivacy@ekata.com
+    When Data Broker purchases brokered personal information, it purchases from reputable sources by vetting the data broker (usually by visiting in person) and obtains written assurances that the data have been legally obtained for Data Broker's use case. Data Broker does not collect information by "scraping" social media or other web sites.

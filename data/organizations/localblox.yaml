@@ -1,0 +1,23 @@
+organization_name: Localblox
+website: 5684 173rd ave se
+contact:
+    mail:
+        - address: 5684 173rd Ave SE, Bellevue, WA, 98006, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: sabira@localblox.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Privacy policy explained on the website http://consumer.localblox.com/Privacy_PolicyAnd also has an opt out option that sends an email
+    The data collection process is based on publicly available data with no logged in crawling

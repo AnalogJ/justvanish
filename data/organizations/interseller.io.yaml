@@ -18,6 +18,5 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
-    https://www.interseller.io/do-not-sell
+notes: |4-
     https://www.interseller.io/do-not-sell

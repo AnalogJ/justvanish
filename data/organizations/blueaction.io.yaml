@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nConsumers may manage their data management preferences by using the \"Do Not Sell My Personal Information\" link on our website https://blueaction.io/\nConsumers may manage their data management preferences by using the \"Do Not Sell My Personal Information\" link on our website https://blueaction.io/\nOur data collection and management practices can be found on our privacy policy located on our website. "
+notes: |4-
+    Consumers may manage their data management preferences by using the "Do Not Sell My Personal Information" link on our website https://blueaction.io/
+    Our data collection and management practices can be found on our privacy policy located on our website.

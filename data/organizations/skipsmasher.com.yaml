@@ -7,6 +7,16 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: PO Box 891329, Temecula, CA, 92589, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: info@skipsmasher.com
           usage:
@@ -18,7 +28,13 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
-    Go to skipsmasher.com, scroll to page bottom, click on link Do Not Sell My Info (CA Residents Only)
+notes: |-
     Go to skipsmasher.com, scroll to page bottom, click on link Do Not Sell My Info (CA Residents Only)
     Most if not all data collected is exempt under either the CCPA's GLB and public record exemptions however we are registering as the law is not clear if brokers of exempt information are still required to register.
+    Allows Opt-Out? Yes - by Opt-Out Form
+
+    Use site contact form to request opt-out form. We will email the form for the opt-out affidavit that needs to be completed, notarized and returned. We also require supporting documentation for the request, such as a restraining or expungement order.
+    We do not own or store brokered personal information of any consumers, including those from Vermont.
+
+    Click link on homepage.
+    We do not own or store personal information of any consumers, including those from Vermont.

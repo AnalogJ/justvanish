@@ -1,0 +1,22 @@
+organization_name: Riv Data Corp. dba Carpe Data
+website: www.carpe.io
+contact:
+    mail:
+        - address: 735 State Street, Suite 600, Santa Barbara, CA, 93101, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: geoff.andrews@carpe.io
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Individuals can send an email to info@carpe.io or send a letter to the mailing address on the website, attention Geoff Andrews

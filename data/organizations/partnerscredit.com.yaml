@@ -1,0 +1,36 @@
+organization_name: Partners Credit And Verification Solutions
+website: http://www.partnerscredit.com/pcvs_privacy.html
+contact:
+    mail:
+        - address: Illinois
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 65 E. Wacker Place, Suite 1405, Chicago, IL, 60601, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: pkarbo@creditinterlink.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: support@partnerscredit.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Unclear
+
+    N/A
+
+    N/A

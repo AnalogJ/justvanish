@@ -1,0 +1,22 @@
+organization_name: ORIGIN8 INC
+website: https://www.pushint.com
+contact:
+    mail:
+        - address: 225 Thomas Ave N, Minneapolis, MN, 55405, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: compliance@pushint.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Please email your requests to compliance@pushint.com, call us at 612-500-4420, or submit a request through https://pushint.com/manage-my-data

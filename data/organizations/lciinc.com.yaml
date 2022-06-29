@@ -1,0 +1,41 @@
+organization_name: Lundquist Consulting, Inc.
+website: http://www.lciinc.com/company/privacynotice.htm
+contact:
+    mail:
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: '111 Anza Blvd., # 310, Burlingame, CA, 94553, USA'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: '111 Anza Blvd. #310, Burlingame, CA, 94553, USA'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: jvolk@verisk.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: info@lciinc.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? No
+
+    None
+
+    We receive information from public courts and clients, and have no knowledge of the age of the individual.

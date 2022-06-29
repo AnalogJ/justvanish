@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nOn our website, there are two pages available on the footer of our site: one to opt out of sale and the other to submit requests under the CCPA. , The links are below:, \"Do Not Sell My Information\" - https://www.reveliolabs.com/do-not-sell-my-personal-information, \"Notice to California Residents\" - https://www.reveliolabs.com/notice-to-california-residents\nThis would be available through the \"Do Not Sell My Information\" page on our website (link below). When an individual fills our the page, we delete their data from ours and our customers servers. , , https://www.reveliolabs.com/do-not-sell-my-personal-information, \n"
+notes: |4-
+    On our website, there are two pages available on the footer of our site: one to opt out of sale and the other to submit requests under the CCPA. , The links are below:, "Do Not Sell My Information" - https://www.reveliolabs.com/do-not-sell-my-personal-information, "Notice to California Residents" - https://www.reveliolabs.com/notice-to-california-residents
+    This would be available through the "Do Not Sell My Information" page on our website (link below). When an individual fills our the page, we delete their data from ours and our customers servers. , , https://www.reveliolabs.com/do-not-sell-my-personal-information,

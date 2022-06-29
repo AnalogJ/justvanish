@@ -1,0 +1,17 @@
+organization_name: Peopleg2
+website: http://www.peopleg2.com/resources/privacy-policy.html
+contact:
+    mail:
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email: []
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? No

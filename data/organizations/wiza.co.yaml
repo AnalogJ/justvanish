@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nPlease complete the form at https://wiza.co/optout and we will remove your information from our service., \nTo delete a Wiza account: Email hello@wiza.co with the subject line \"Delete Account\", be sure to include your email address linked to your Wiza account in the email body. We'll delete your account and confirm that with you, within 24 hours. These instructions are posted on our website at: https://help.wiza.co/en/articles/5149272-wiza-security-policies\nPlease let me know if you require additional documentation as it relates to data handling, incidence response, or GP security assessment."
+notes: |4-
+    Please complete the form at https://wiza.co/optout and we will remove your information from our service.,
+    To delete a Wiza account: Email hello@wiza.co with the subject line "Delete Account", be sure to include your email address linked to your Wiza account in the email body. We'll delete your account and confirm that with you, within 24 hours. These instructions are posted on our website at: https://help.wiza.co/en/articles/5149272-wiza-security-policies
+    Please let me know if you require additional documentation as it relates to data handling, incidence response, or GP security assessment.

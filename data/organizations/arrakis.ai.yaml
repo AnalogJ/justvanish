@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nhttps://www.arrakis.ai/optout \nArrakis does not post such information online, nor does it operate a website that allows users to post user generated content. Nonetheless, individuals can submit deletion requests using the form on our site (https://www.arrakis.ai/optout ) or by sending a request to privacy@arrakis.ai.\nFor more information about Arrakis data collection practices please visit https://www.arrakis.ai/privacy-policy."
+notes: |4-
+    https://www.arrakis.ai/optout
+    Arrakis does not post such information online, nor does it operate a website that allows users to post user generated content. Nonetheless, individuals can submit deletion requests using the form on our site (https://www.arrakis.ai/optout ) or by sending a request to privacy@arrakis.ai.
+    For more information about Arrakis data collection practices please visit https://www.arrakis.ai/privacy-policy.

@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nConsumer may opt out via email at privacy@carneydirect.com, via postal mail, or contact us toll-free at 800-240-3349.\nWe do not publicly post any consumer information online, or operate a website that involves user generated content.  A protected individual can contact us via email at privacy@carneydirect.com, via postal mail, or toll-free at 800-240-3349., , \nFor more information, please visit https://www.carneydirect.com/privacy-policy/"
+notes: |4-
+    Consumer may opt out via email at privacy@carneydirect.com, via postal mail, or contact us toll-free at 800-240-3349.
+    We do not publicly post any consumer information online, or operate a website that involves user generated content.  A protected individual can contact us via email at privacy@carneydirect.com, via postal mail, or toll-free at 800-240-3349., ,
+    For more information, please visit https://www.carneydirect.com/privacy-policy/

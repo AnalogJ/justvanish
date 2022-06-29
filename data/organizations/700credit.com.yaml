@@ -1,0 +1,32 @@
+organization_name: Open Dealer Exchange, Llc Dba 700 Credit, Llc
+website: https://www.700credit.com/privacy-policy/
+contact:
+    mail:
+        - address: Michigan
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 31440 Northwestern Hwy., SUITE 250, Farmington Hills, MI, 48334, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: jbalboa@opendealerexchange.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Unclear
+
+    Consumers are provided bureau contact information which they may opt out of prescreen offers.  They are provided a mailing address, phone number and web site to opt out
+
+    Consumers are provided bureau contact information which they may opt out of prescreen offers.  They are provided a mailing address, phone number and web site to opt out
+    Credit reports are only run on consumers who have provided authorization to access their credit file in connection with the purchase of a motor vehicle.

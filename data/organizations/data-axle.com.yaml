@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nAt the bottom of our website page, there is a place to click on \"do not sell\" and our privacy policy.  An individual may go directly to: https://www.data-axle.com/privacy-policy/ to opt out and to make do not sell requests.\nAn individual may go directly to: https://www.data-axle.com/privacy-policy/ to opt out ,to make do not sell requests and to request deletion of information.\nPlease visit our privacy policy at www.data-axle.com/privacy-policy/ for additional information about data collecting practices. "
+notes: |4-
+    At the bottom of our website page, there is a place to click on "do not sell" and our privacy policy.  An individual may go directly to: https://www.data-axle.com/privacy-policy/ to opt out and to make do not sell requests.
+    An individual may go directly to: https://www.data-axle.com/privacy-policy/ to opt out ,to make do not sell requests and to request deletion of information.
+    Please visit our privacy policy at www.data-axle.com/privacy-policy/ for additional information about data collecting practices.

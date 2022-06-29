@@ -1,0 +1,29 @@
+organization_name: Cdk Global, Llc
+website: https://www.cdkglobal.com/us/privacy-policy
+contact:
+    mail:
+        - address: Illinois
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1950 Hassell Road, Hoffman Estates, IL, 60169, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: james.kinzer@cdk.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? No
+
+    Credit reports are only run on consumers that have expressed an interest in obtaining credit, and all reports are collected consistent with the FCRA.

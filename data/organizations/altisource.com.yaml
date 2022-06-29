@@ -1,0 +1,34 @@
+organization_name: Altisource Holdings, Llc
+website: https://altisource.com/privacy-notice
+contact:
+    mail:
+        - address: Georgia
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: C/O Altisource Solutions, Inc., 1000 Abernathy Road, Suite 200, Atlanta, GA, 30328, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: britt.gottlieb@altisource.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: privacy@altisource.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? No
+
+    N/A

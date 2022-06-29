@@ -1,0 +1,22 @@
+organization_name: Parasol Media Inc.
+website: https://v2.parasolleads.com/parasolleads-privacy-policy/
+contact:
+    mail:
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: jschwartz@parasolleads.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? Unclear

@@ -1,0 +1,22 @@
+organization_name: Data Exchange
+website: www.data.exchange
+contact:
+    mail:
+        - address: 7901 4th SE N, Suite 300, St Petersburg, FL, 33702, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: jjinfo@dealerx.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Link given to all consumers

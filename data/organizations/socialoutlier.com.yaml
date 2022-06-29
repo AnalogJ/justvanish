@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nPlease email data@socialoutlier.com\nSubmit a written request. Either mailed, email, or contact sheet online. \n"
+notes: |4-
+    Please email data@socialoutlier.com
+    Submit a written request. Either mailed, email, or contact sheet online.

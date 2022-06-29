@@ -1,0 +1,17 @@
+organization_name: Locatefamily.Com
+website: http://www.locatefamily.com/privacy_policy.html
+contact:
+    mail:
+        - address: New York
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email: []
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? Unclear

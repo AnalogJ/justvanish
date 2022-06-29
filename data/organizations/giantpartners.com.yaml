@@ -7,8 +7,23 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 1461 Lawrence Dr., 2nd Floor, Thousand Oaks, CA, 91320, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1461 Lawrence Dr, Thousand Oaks, CA, 91320, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: compliance@giantpartners.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: nikki@giantpartners.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +33,12 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nOur Website has been updated with CCPA verbiage, forms and phone number(s) as required by the California Consumer Protection Act.  \nOur Website has been updated with CCPA verbiage, forms and phone number(s) as required by the California Consumer Protection Act.  Once a consumer has been verified to be in our database, as required in the CCPA, verified consumers can have their information removed permanently.\n"
+notes: |-
+    Our Website has been updated with CCPA verbiage, forms and phone number(s) as required by the California Consumer Protection Act.
+    Our Website has been updated with CCPA verbiage, forms and phone number(s) as required by the California Consumer Protection Act.  Once a consumer has been verified to be in our database, as required in the CCPA, verified consumers can have their information removed permanently.
+
+    There are several ways consumers can opt-put to make it easiest for them and their mode of communication.  They are able to:-Email directly to info@giantpartners.com to request to be removed/opt-out-Fill out a removal/opt-out request via our "Contact Us" page - https://giantpartners.com/contact-us/-Call our corporate office at 805-267-1575 and request to be removed/opt-out
+    Nothing additional.
+
+    The methods for requesting to opt out are: 1) Email directly to compliance@giantpartners.com to request to be removed/opt-out; 2) Fill out a removal/opt-out request via the following link, https://giantpartners.com/personal-information-request/; 3) Call our corporate office at 805-267-1575 and request to opt out.
+    Nothing additional.

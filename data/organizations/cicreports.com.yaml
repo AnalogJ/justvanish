@@ -1,0 +1,29 @@
+organization_name: Contemporary Information Corp.
+website: https://www.cicreports.com/consumer-assistance/#privacypolicy
+contact:
+    mail:
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 42913 CAPITAL DR, STE 101, LANCASTER, CA, 93535, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: compliance@cicreports.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Unclear
+
+    See attached.

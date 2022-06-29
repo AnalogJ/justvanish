@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nIndividuals may send an e-mail to dataprivacy@zs.com or visit www.zs.com/datarequest. \nNot applicable. ZS does not conduct the activities described in Gov. Code sections 6208.1(b) or 6254.21(c)(1).\nAdditional information for California residents may be found at www.zs.com/datarequest."
+notes: |4-
+    Individuals may send an e-mail to dataprivacy@zs.com or visit www.zs.com/datarequest.
+    Not applicable. ZS does not conduct the activities described in Gov. Code sections 6208.1(b) or 6254.21(c)(1).
+    Additional information for California residents may be found at www.zs.com/datarequest.

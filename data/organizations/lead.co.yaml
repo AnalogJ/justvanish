@@ -1,0 +1,30 @@
+organization_name: The Lead Company, Inc.
+website: https://lead.co/privacy/
+contact:
+    mail:
+        - address: Michigan
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: '6757 Cascade Road SE, #205, Grand Rapids, MI, 49546, USA'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dave@lead.co
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Yes - by email
+
+    A consumer can request to opt-out at anytime by emailing contact@lead.co and providing his or her email address and/or phone number.
+    None.

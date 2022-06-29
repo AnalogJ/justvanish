@@ -1,0 +1,23 @@
+organization_name: Data-Mail, Inc.
+website: www.data-management.com
+contact:
+    mail:
+        - address: P. O. Box 2, Stoneville, NC, 27048, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: ldecastro@data-management.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    You can opt-out on our website and click the "Do Not Sell My Personal Information".  Complete the form and submit button.
+    We are a reseller and  do not collect data from individuals or consumers for resale.

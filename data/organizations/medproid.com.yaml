@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nConsumers may submit opt out requests by sending an email to CCPA@MedProSystems.com or calling (833)-633-4866.  Additional information can be found on our website: https://www.medproid.com/public/home/dataprivacyandsecurityrationalestatement.\nNot applicable as MedPro does not post any personal information online. \nTo learn more about our privacy practices, please visit our website: https://www.medproid.com/public/home/dataprivacyandsecurityrationalestatement. "
+notes: |4-
+    Consumers may submit opt out requests by sending an email to CCPA@MedProSystems.com or calling (833)-633-4866.  Additional information can be found on our website: https://www.medproid.com/public/home/dataprivacyandsecurityrationalestatement.
+    Not applicable as MedPro does not post any personal information online.
+    To learn more about our privacy practices, please visit our website: https://www.medproid.com/public/home/dataprivacyandsecurityrationalestatement.

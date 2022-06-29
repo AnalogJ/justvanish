@@ -18,6 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |4-
     https://preferences.crunchbase.com/dont_sell
     https://preferences.crunchbase.com/privacy

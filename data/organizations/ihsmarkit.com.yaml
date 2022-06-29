@@ -7,8 +7,23 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Michigan
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 26533 Evergreen, Ste. 1100, Southfield, MI, 48076, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy@ihsmarkit.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: bruce.noll@ihsmarkit.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,7 +33,11 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
+notes: |-
     http://more.ihs.com/DoNotSell, 1-800-447-2273
     https://app.onetrust.com/app/#/webform/7020d814-78eb-45f1-bfbb-491ca1076fdd, 1-800-447-2273
     https://ihsmarkit.com/Legal/privacy-policy.html
+    Allows Opt-Out? Unclear
+
+    Email, U.S. Mail or telephone.
+    NA

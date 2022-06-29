@@ -7,8 +7,23 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: North Carolina
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 3344 Hillsborough St, Suite 200, Raleigh, NC, 27607, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy@revealmobile.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: andy@revealmobile.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,7 +33,10 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
-    https://revealmobile.com/ccpa/
+notes: |-
     https://revealmobile.com/ccpa/
     https://revealmobile.com/privacy
+    Allows Opt-Out? Yes - by email
+
+    A consumer can email optout@revealmobile.com to determine if we have data on a device. If so, we’ll remove the device(s) data from our database within 7 business days or less. You’ll need to provide us with the IDFA (iPhones) or Advertiser ID (Android phones) in order for us to remove a device. We don’t collect any email addresses, names, or phone numbers from mobile apps.
+    Reveal Mobile is a member of the Network Advertising Initiative (NAI). Reveal Mobile undergoes an annual NAI compliance review and adheres to the NAI’s Code of Conduct. To learn more about the NAI or how to opt out of receiving targeted advertising from other third party services that belong to the NAI, please visit: http://www.networkadvertising.org/mobile-choices

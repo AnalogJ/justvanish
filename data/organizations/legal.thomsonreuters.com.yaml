@@ -1,0 +1,23 @@
+organization_name: West Publishing Corporation
+website: https://legal.thomsonreuters.com/en
+contact:
+    mail:
+        - address: 610 Opperman Drive, Eagan, MN, 55123, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: clear.pm-compliance@thomsonreuters.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    To request information be suppressed from our complete the Public Records Personal Information Removal Request Form and return it with the supporting documentation to:Thomson ReutersWestlaw and CLEAR Public RecordsATTN: Personal Information Removal Request610 Opperman DriveEagan, MN 55123
+    None

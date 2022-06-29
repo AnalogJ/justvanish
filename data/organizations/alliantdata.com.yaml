@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 301 Fields Ln., Brewster, NY, 10509, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: compliance@alliantdata.com
           usage:
@@ -18,7 +23,10 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
+notes: |-
     The consumer may opt out of Alliant's consumer data products through the automated opt out page at https://alliantdata.com/data-services-and-website-privacy-policy/.
     Alliant does not display or permit the display of such information, or operate a website that involves user generated content.
     None.
+
+    The consumer may opt out of Alliant's consumer data products through the automated opt out page at https://alliantdata.com/data-services-and-website-privacy-policy/.
+    See our privacy policy at https://alliantdata.com/alliant-privacy-policy/.

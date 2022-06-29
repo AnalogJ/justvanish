@@ -1,0 +1,36 @@
+organization_name: First American Data Tree Llc
+website: https://www.datatree.com/privacy-policy
+contact:
+    mail:
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 4 First American Way, Santa Ana, CA, 92707, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: britchie-boland@firstam.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: fahq-ra-treelegal@firstam.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? No
+
+    Out of an abundance of caution, Data Tree is registering as a Data Broker.  Note, however, information maintained and licensed by Data Tree that potentially qualifies as “brokered personal information” (as defined in V.S.A. section 2430(1), is also available via the public record.
+
+    Out of an abundance of caution, Data Tree is registering as a Data Broker. Note, however, information maintained and licensed by Data Tree that potentially qualifies as “brokered personal information” (as defined in V.S.A. section 2430(1), is also available via the public record.

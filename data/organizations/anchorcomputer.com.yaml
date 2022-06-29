@@ -8,7 +8,7 @@ contact:
             - delete.ccpa
             - donotsell.ccpa
     email:
-        - address: 'privacyteam@anchorcomputer.com '
+        - address: privacyteam@anchorcomputer.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nA consumer may opt out of sale or submit requests under the CCPA by (1) going to the anchor computer website https://www.anchorcomputer.com/ and clicking the “Please do not sell my personal information” button to fill out the online form, (2) emailing privacyteam@anchorcomputer.com , or (3) calling our toll-free number 800-646-2563. \nA consumer and/or protected individual can demand deletion of information by (1) going to the anchor computer website https://www.anchorcomputer.com/ and clicking the “Please do not sell my personal information” button to fill out the online form, (2) emailing privacyteam@anchorcomputer.com , or (3) calling our toll-free number 800-646-2563.\nPlease see our privacy policy https://www.anchorcomputer.com/index.php/privacy-policy/"
+notes: |4-
+    A consumer may opt out of sale or submit requests under the CCPA by (1) going to the anchor computer website https://www.anchorcomputer.com/ and clicking the “Please do not sell my personal information” button to fill out the online form, (2) emailing privacyteam@anchorcomputer.com , or (3) calling our toll-free number 800-646-2563.
+    A consumer and/or protected individual can demand deletion of information by (1) going to the anchor computer website https://www.anchorcomputer.com/ and clicking the “Please do not sell my personal information” button to fill out the online form, (2) emailing privacyteam@anchorcomputer.com , or (3) calling our toll-free number 800-646-2563.
+    Please see our privacy policy https://www.anchorcomputer.com/index.php/privacy-policy/

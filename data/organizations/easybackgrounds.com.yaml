@@ -1,0 +1,22 @@
+organization_name: Easybackgrounds.Com
+website: https://www.easybackgrounds.com/privacy-policy
+contact:
+    mail:
+        - address: New Hampshire
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: wsep@ghrr.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? No

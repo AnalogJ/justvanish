@@ -1,0 +1,30 @@
+organization_name: Datamyx Llc Dba Deluxe Marketing Solutions
+website: https://fi.deluxe.com/datamyx-privacy/
+contact:
+    mail:
+        - address: Florida
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 2300 Glades Road, Suite 400E, Boca Raton, FL, 33431, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacyprogramoffice@deluxe.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Unclear
+
+    phone: 1-800-296-3512; Mail: 2300 Glades Road, Suite 400E, Boca Raton, FL 33431; email: privacy@datamyx.com
+    n/a

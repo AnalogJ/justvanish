@@ -7,8 +7,13 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 438 E. Wilson Bridge Road, Suite 202, Worthington, OH, 43085, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
-        - address: 'privacy@seamlessleads.com '
+        - address: privacy@seamlessleads.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +23,10 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nIndividuals may opt-out by using opt out request form located at https://login.seamless.ai/personalDataRequest. They may opt-out of the inclusion of an individual profile from Seamless.AI’s directory or search engine by emailing privacy@seamlessleads.com with the subject line “Remove.”\nIndividuals may opt-out or delete their information by using opt out request form located at https://login.seamless.ai/personalDataRequest. They may opt-out of the inclusion of an individual profile from Seamless.AI’s directory or search engine by emailing privacy@seamlessleads.com with the subject line “Remove.”\nYou may read more about Seamless.AI’s privacy practices in their Privacy Policy (available at https://www.seamless.ai/privacypolicy/) and California Consumer Privacy Policy (available at https://www.seamless.ai/california-consumer-privacy-act-policy/). "
+notes: |-
+    Individuals may opt-out by using opt out request form located at https://login.seamless.ai/personalDataRequest. They may opt-out of the inclusion of an individual profile from Seamless.AI’s directory or search engine by emailing privacy@seamlessleads.com with the subject line “Remove.”
+    Individuals may opt-out or delete their information by using opt out request form located at https://login.seamless.ai/personalDataRequest. They may opt-out of the inclusion of an individual profile from Seamless.AI’s directory or search engine by emailing privacy@seamlessleads.com with the subject line “Remove.”
+    You may read more about Seamless.AI’s privacy practices in their Privacy Policy (available at https://www.seamless.ai/privacypolicy/) and California Consumer Privacy Policy (available at https://www.seamless.ai/california-consumer-privacy-act-policy/).
+
+    Individuals may opt-out by using opt out request form located at https://login.seamless.ai/personalDataRequest. They may opt-out of the inclusion of an individual profile from Seamless.AI’s directory or search engine by emailing privacy@seamlessleads.com with the subject line “Remove.”
+    Seamless.AI generally collects business contact information, such as name, email address, office phone number, office address, and employer name.

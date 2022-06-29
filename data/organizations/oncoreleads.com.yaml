@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nBy following the directions provided on: https://oncoreleads.com/california-privacy-rights/\nBy following the directions provided on: https://oncoreleads.com/california-privacy-rights/ \nPlease see: https://oncoreleads.com/california-privacy-rights/  "
+notes: |4-
+    By following the directions provided on: https://oncoreleads.com/california-privacy-rights/
+    Please see: https://oncoreleads.com/california-privacy-rights/

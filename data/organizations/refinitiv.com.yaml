@@ -1,0 +1,39 @@
+organization_name: Thomas Reuters (Crc) Llc (D/B/A Refinitiv)
+website: https://www.refinitiv.com/en/policies/privacy-statement
+contact:
+    mail:
+        - address: Connecticut
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: One Station Place, Stamford, CT, 06902, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 3 Times Square, New York, NY, NY100 - 36, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: privacy.enquiries@refinitiv.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: jonny.bell@refinitiv.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |
+    Allows Opt-Out? No
+
+    Optional.

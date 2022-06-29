@@ -7,8 +7,23 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Illinois
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 200 W Monroe St, Suite 2200, Chicago, IL, 60606, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: dataprotection@civisanalytics.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: compliance@civisanalytics.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +33,11 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nIf you are a California resident and would like to exercise one of your rights, please contact Civis at dataprotection@civisanalytics.com or dial (312) 985-0173 and please include one of the following in your request, “Request to Know,” or “Request to Opt-Out” in the subject line of the email communication or in the context of the voicemail message, and provide all of the following information in the body of the email or in the content of the voicemail message: (i) first name, (ii) last name, (iii) email address, and (iv) address, city, state (must be California) and zip code. California law requires us to verify the requests we receive from you when you exercise certain rights listed above, which may include sending you a letter containing your personal data and verification token to the California address you provide. We (or third parties we engage to assist us) may ask you to provide certain information to us in order for us to verify the request. \nIf you are a California resident and would like to exercise your right to “Request to Delete”, please contact Civis at dataprotection@civisanalytics.com or dial (312) 985-0173 and please include the following in your request, “Request to Delete” in the subject line of the email communication or in the context of the voicemail message, and provide all of the following information in the body of the email or in the content of the voicemail message: (i) first name, (ii) last name, (iii) email address, and (iv) address, city, state (must be California) and zip code. California law requires us to verify the requests we receive from you when you exercise certain rights listed above, which may include sending you a letter containing your personal data and verification token to the California address you provide. We (or third parties we engage to assist us) may ask you to provide certain information to us in order for us to verify the request. For Requests to Delete, we will confirm your request prior to deletion.\nhttps://www.civisanalytics.com/privacy_policy/"
+notes: |-
+    If you are a California resident and would like to exercise one of your rights, please contact Civis at dataprotection@civisanalytics.com or dial (312) 985-0173 and please include one of the following in your request, “Request to Know,” or “Request to Opt-Out” in the subject line of the email communication or in the context of the voicemail message, and provide all of the following information in the body of the email or in the content of the voicemail message: (i) first name, (ii) last name, (iii) email address, and (iv) address, city, state (must be California) and zip code. California law requires us to verify the requests we receive from you when you exercise certain rights listed above, which may include sending you a letter containing your personal data and verification token to the California address you provide. We (or third parties we engage to assist us) may ask you to provide certain information to us in order for us to verify the request.
+    If you are a California resident and would like to exercise your right to “Request to Delete”, please contact Civis at dataprotection@civisanalytics.com or dial (312) 985-0173 and please include the following in your request, “Request to Delete” in the subject line of the email communication or in the context of the voicemail message, and provide all of the following information in the body of the email or in the content of the voicemail message: (i) first name, (ii) last name, (iii) email address, and (iv) address, city, state (must be California) and zip code. California law requires us to verify the requests we receive from you when you exercise certain rights listed above, which may include sending you a letter containing your personal data and verification token to the California address you provide. We (or third parties we engage to assist us) may ask you to provide certain information to us in order for us to verify the request. For Requests to Delete, we will confirm your request prior to deletion.
+    https://www.civisanalytics.com/privacy_policy/
+    Allows Opt-Out? Unclear
+
+    You may opt out of promotional emails by clicking on the unsubscribe link in the email. We may use third-party service providers such as Google’s AdSense and AdWords to help us provide advertisements to you that are tailored to you based on interests that you have expressed on our site or elsewhere. Any tracking done by these providers through cookies/other mechanisms is subject to their own privacy policies. Some browser settings allow you to limit or remove Interest-Based Ads delivered to you.
+    You can review our full privacy policy here: https://www.civisanalytics.com/privacy_policy/

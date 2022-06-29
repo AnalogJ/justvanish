@@ -1,0 +1,27 @@
+organization_name: NOVA List Company, LLC
+website: https://www.novalist.com/
+contact:
+    mail:
+        - address: 20130 LAKEVIEW CENTER PLZ STE 300, Ashburn, VA, 20147, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 20130 LAKEVIEW CENTER PLAZA SUITE 300, ASHBURN, VA, 20147, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@novalist.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |
+    Website, telephone, fax or email

@@ -7,8 +7,18 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 735 Taylor Rd. STE 220, Columbus, OH, 43230, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: ccpa@usinfosearch.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: data@usinfosearch.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,6 +28,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     Please go to www.martindataoptout.com to start the process.
-    Please go to www.martindataoptout.com to start the process.
+
+    Martin Data does not collect data from consumers or customers.  Data from public records and credit header data for GLBA permissible uses are securely maintained.

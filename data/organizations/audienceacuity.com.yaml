@@ -18,6 +18,5 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
-    Consumers should go to https://audienceacuity.com/opt-out-of-database/ to opt-out.   Consumers may also call (800) 730-3451 or email privacy@audienceacuity.com or visit our website at https://audienceacuity.com/contact/ for any CCPA requests.
+notes: |4-
     Consumers should go to https://audienceacuity.com/opt-out-of-database/ to opt-out.   Consumers may also call (800) 730-3451 or email privacy@audienceacuity.com or visit our website at https://audienceacuity.com/contact/ for any CCPA requests.

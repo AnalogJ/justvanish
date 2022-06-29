@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nAny individual may submit a request to opt-out via the publicly available webform at this URL:  https://outlogic.io/opt-out-form/, or may make an opt out request by calling toll free at +1 (830) 423-5996 or sending an email to privacy@outlogic.io. \nAny individual may submit a deletion request by calling toll free at +1 (830) 423-5996 or sending an email to privacy@outlogic.io.  Outlogic may request additional information to verify deletion requests from an individual as necessary.\nAdditional information about Outlogic's data collection practices may be found on our website at https://outlogic.io/privacy-policy/. "
+notes: |4-
+    Any individual may submit a request to opt-out via the publicly available webform at this URL:  https://outlogic.io/opt-out-form/, or may make an opt out request by calling toll free at +1 (830) 423-5996 or sending an email to privacy@outlogic.io.
+    Any individual may submit a deletion request by calling toll free at +1 (830) 423-5996 or sending an email to privacy@outlogic.io.  Outlogic may request additional information to verify deletion requests from an individual as necessary.
+    Additional information about Outlogic's data collection practices may be found on our website at https://outlogic.io/privacy-policy/.

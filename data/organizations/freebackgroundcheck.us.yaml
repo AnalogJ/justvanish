@@ -1,0 +1,17 @@
+organization_name: Free Background Check
+website: http://freebackgroundcheck.us/privacy.php
+contact:
+    mail:
+        - address: Massachusetts
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email: []
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? No

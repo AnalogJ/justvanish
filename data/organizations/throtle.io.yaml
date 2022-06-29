@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nBy visiting our data privacy manager via our website or by calling our toll-free number which is posted on our website. \nBy visiting our data privacy manager via our website or by calling our toll-free number which is posted on our website. \nUsers can visit our privacy policy for details on our data collecting practices. "
+notes: |4-
+    By visiting our data privacy manager via our website or by calling our toll-free number which is posted on our website.
+    Users can visit our privacy policy for details on our data collecting practices.

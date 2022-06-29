@@ -1,0 +1,22 @@
+organization_name: Ivy Tech RE, LLC d/b/a Ivy Data
+website: www.getivydata.com
+contact:
+    mail:
+        - address: 539 Broadway, Tacoma, WA, 98402, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: kyle@getivydata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Only for California residents, Ivy Data has implemented a "Do Not Sell My Personal Information" button its website www.getivydata.com.

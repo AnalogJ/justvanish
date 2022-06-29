@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 350 Camino Gardens Blvd, Suite 202, Boca Raton, FL, 33432, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy@netwisedata.com
           usage:
@@ -18,7 +23,9 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
+notes: |-
     https://www.netwisedata.com/consumer-privacy
+    https://www.netwisedata.com/privacy
+
     https://www.netwisedata.com/consumer-privacy
     https://www.netwisedata.com/privacy

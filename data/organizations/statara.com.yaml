@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\n1) Please follow the direct web link: https://statara.com/opt-out-ca/, 2) Please make your request via the CCPA toll-free phone number: (888) 207-8743 \n1) Please follow the direct web link: https://statara.com/opt-out-ca/, 2) Please make your request via the CCPA toll-free phone number: (888) 207-8743 \nAdditional Information about Statara's privacy practices can be found at:, 1) https://statara.com/privacy/, 2) https://statara.com/privacy-policy/, 3) https://statara.com/cookie-policy/"
+notes: |4-
+    1) Please follow the direct web link: https://statara.com/opt-out-ca/, 2) Please make your request via the CCPA toll-free phone number: (888) 207-8743
+    Additional Information about Statara's privacy practices can be found at:, 1) https://statara.com/privacy/, 2) https://statara.com/privacy-policy/, 3) https://statara.com/cookie-policy/

@@ -23,4 +23,8 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nhttps://www.brandwatch.com/p/legal-data-subject-access-request/\nhttps://www.brandwatch.com/p/legal-data-subject-access-request/\nhttps://www.brandwatch.com/legal/author-privacy-policy/\nhttps://www.brandwatch.com/p/legal-data-subject-access-request/\nhttps://www.brandwatch.com/p/legal-data-subject-access-request/\nhttps://www.brandwatch.com/legal/data-privacy-faqs/, https://www.brandwatch.com/legal/author-privacy-policy/, https://www.brandwatch.com/legal/user-privacy-policy/, , "
+notes: |-
+    https://www.brandwatch.com/p/legal-data-subject-access-request/
+    https://www.brandwatch.com/legal/author-privacy-policy/
+    https://www.brandwatch.com/p/legal-data-subject-access-request/
+    https://www.brandwatch.com/legal/data-privacy-faqs/, https://www.brandwatch.com/legal/author-privacy-policy/, https://www.brandwatch.com/legal/user-privacy-policy/, ,

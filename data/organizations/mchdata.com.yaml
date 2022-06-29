@@ -7,8 +7,33 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Missouri
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 601 East Marshall Street, PO Box 295, Sweet Springs, MO, 65351, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 601 E. Marshall St, PO Box 295, Sweet Springs, MO, 65351, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy@mchdata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: peterlong@mchdata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: kyliej@mchdata.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +43,12 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nInformation can be found at https://www.mchdata.com/about/ccpaemail or call us directly at 800 776-6373\nInformation can be found at https://www.mchdata.com/about/ccpaemail or call us directly at 800 776-6373\nMCH Strategic Data is a 90-year-old family business that specializes in business to business data compilation for the market segments of education, healthcare, church and government work address contact information.  MCH does not make a practice of compiling personal information on individuals beyond their job titles and work department-level information.  Personally descriptive information (age, income, etc)  is \"not\" found in MCH databases.  "
+notes: |-
+    Information can be found at https://www.mchdata.com/about/ccpaemail or call us directly at 800 776-6373
+    MCH Strategic Data is a 90-year-old family business that specializes in business to business data compilation for the market segments of education, healthcare, church and government work address contact information.  MCH does not make a practice of compiling personal information on individuals beyond their job titles and work department-level information.  Personally descriptive information (age, income, etc)  is "not" found in MCH databases.
+    Allows Opt-Out? Yes - by email
+
+    A person may request via our website links or via an email to us or a phone call to our 800 number and provide us the information we need to remove them from our lists.  We maintain the opt-out list and use that data to make sure the individual does not get added back into the list at a later data through future compilation processes
+    Our focus is 95% business to business contact information and therefore not subject to this process.  But for the 5% that we do have personal "home based" information that is accessed we wanted to register to be in compliance.
+
+    by email and phone

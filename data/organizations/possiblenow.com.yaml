@@ -1,0 +1,30 @@
+organization_name: Possiblenow Data Services
+website: https://www.possiblenow.com/privacy-statement
+contact:
+    mail:
+        - address: Georgia
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 4400 Rivergreen Parkway, Suite 100, Duluth, GA, 30096, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: bschorer@possiblenow.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Yes - by email
+
+    E-mail or by phone
+    none

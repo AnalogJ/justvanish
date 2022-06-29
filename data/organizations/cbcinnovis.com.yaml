@@ -1,0 +1,39 @@
+organization_name: Cbcinnovis, Inc.
+website: https://www.cbcinnovis.com/privacy.html
+contact:
+    mail:
+        - address: Ohio
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 250 East Broad Street, Columbus, OH, 43215, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: cbcservices@cbcinnovis.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: legal@cbc-companies.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: privacy@factualdata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |
+    Allows Opt-Out? No
+
+    None.

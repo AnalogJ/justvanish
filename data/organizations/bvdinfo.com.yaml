@@ -18,20 +18,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
-        - address: 'privacy@bvdinfo.com '
-          usage:
-            - request.ccpa
-            - delete.ccpa
-            - donotsell.ccpa
     form: []
 organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
+notes: |-
     https://www.bvdinfo.com/en-gb/legal/personal-data-request-form
-    https://www.bvdinfo.com/en-gb/legal/personal-data-request-form
-
-    https://www.bvdinfo.com/en-gb/rdc-product-privacy-notice
-    https://www.bvdinfo.com/en-gb/rdc-product-privacy-notice
     https://www.bvdinfo.com/en-gb/rdc-product-privacy-notice

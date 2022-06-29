@@ -1,0 +1,22 @@
+organization_name: Dustin Blackman
+website: https://leadquotesmedia.com
+contact:
+    mail:
+        - address: 300 E. 56TH ST. Ste. 31H, New York, NY, 10022, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: dblackman@drobu.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    None

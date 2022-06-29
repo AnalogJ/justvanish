@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 1600 Wilson Blvd, Suite 330, Arlington, VA, 22209, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: info@deeprootanalytics.com
           usage:
@@ -18,7 +23,10 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
+notes: |-
     Consumers may opt out of the sale of their personal information by providing their full name, physical address, and telephone number either by email at ccpa.optout@deeprootanalytics.com or by calling our dedicated toll-free number at 1-800-285-5485., , Consumers may submit requests for information under the CCPA by providing their full name, physical address, and telephone number either by email at ccpa.information@deeprootanalytics.com or by calling our dedicated toll-free number 1-800-285-5485.
     We do not post or publicly display personal information of consumers., , Deletion requests can be submitted to ccpa.information@deeprootanalytics.com or by calling our dedicated toll-free number 1-800-285-5485
     Individuals can obtain more information regarding our data collecting practices on our website:, https://www.deeprootanalytics.com/privacy/, https://www.deeprootanalytics.com/ccpa/
+
+    A consumer that would like to have his or her name removed from our records for any reason may e-mail us a removal request containing their full name and physical address at notice@deeprootanalytics.com.
+    Individuals can obtain more information regarding our data collection practices on our website: https://www.deeprootanalytics.com/privacy/.

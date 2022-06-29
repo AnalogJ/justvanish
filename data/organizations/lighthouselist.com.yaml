@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nThey can email Privacy@lighthouselist.com, or they can opt out on our website.  \nRequesting data to be deleted would be the same process as opting out,  they can either email privacy@lighthhouselist.com, or through our website.  \nWe treat all opt outs and data deletions with the same care. "
+notes: |4-
+    They can email Privacy@lighthouselist.com, or they can opt out on our website.
+    Requesting data to be deleted would be the same process as opting out,  they can either email privacy@lighthhouselist.com, or through our website.
+    We treat all opt outs and data deletions with the same care.

@@ -1,0 +1,23 @@
+organization_name: Twine Data, Inc
+website: www.twinedata.com
+contact:
+    mail:
+        - address: 555 W 5th Street, 35th Floor, Los Angeles, CA, 90013, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: bmorgan@twinedata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    1) We ask our data providers to send us opt outs2) Users may fill out a form with their email address and/or mobile ad ID. We manually search for this info in our database and let the user know if their data is present. They then have the option of blocking themselves.
+    All our data providers are required to complete a privacy disclosure and to rep and warrant that they have followed all laws and regulations around notice and choice in collecting and sharing data.

@@ -18,6 +18,5 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
-    A consumer may opt out via an online form, email, phone or fax.
+notes: |4-
     A consumer may opt out via an online form, email, phone or fax.

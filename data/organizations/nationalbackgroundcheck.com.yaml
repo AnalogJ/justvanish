@@ -1,0 +1,22 @@
+organization_name: National Background Check
+website: http://www.nationalbackgroundcheck.com/privacy.htm
+contact:
+    mail:
+        - address: Ohio
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: contactus@nationalbackgroundcheck.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? No

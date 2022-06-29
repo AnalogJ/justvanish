@@ -1,0 +1,23 @@
+organization_name: All The Way Up LTD
+website: www.swordfishapp.com
+contact:
+    mail:
+        - address: Unit 1, Knighton Heath, Ringwood Road, Bournemouth, Dorset, BH118NE, GBR
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: contact@swordfishapp.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Anyone can opt out by visiting this url: https://swordfishapp.com/Optout or email us directly
+    na

@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nThe consumer can notifying us via phone postal or email correspondence and we will remove their specific record from our database. \nThe protected individual can email call or mail us their request to be removed from our database.\nWe compile active/licensed healthcare professionals nationwide in CA primarily for education, recruiting, uniforms, Risk Management service companies with other organizations occasionally requesting information. Once they ask us to remove their information from our website we do. On our website no person can see the information unless the file is purchased for the specific mailing/email campaign."
+notes: |4-
+    The consumer can notifying us via phone postal or email correspondence and we will remove their specific record from our database.
+    The protected individual can email call or mail us their request to be removed from our database.
+    We compile active/licensed healthcare professionals nationwide in CA primarily for education, recruiting, uniforms, Risk Management service companies with other organizations occasionally requesting information. Once they ask us to remove their information from our website we do. On our website no person can see the information unless the file is purchased for the specific mailing/email campaign.

@@ -1,0 +1,12 @@
+organization_name: Address Search
+website: http://www.addresssearch.com/privacy-policy.php
+contact:
+    mail: []
+    email: []
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? Yes - by Opt-Out Form

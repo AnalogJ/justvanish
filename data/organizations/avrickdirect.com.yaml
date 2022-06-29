@@ -7,8 +7,23 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Washington
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 7120 185th Ave NE, PO Box 140, Redmond, WA, 98052, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy.compliance@avrickdirect.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: avrickdirect@avrick.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,7 +33,10 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
-    Consumers can submit CCPA requests through our link at http://privacy.avrickdirect.com/request/opt-out, by emailing privacy.compliance@avrickdirect.com or by visiting www.AvrickDirect.com and reviewing our Privacy Policy.
+notes: |-
     Consumers can submit CCPA requests through our link at http://privacy.avrickdirect.com/request/opt-out, by emailing privacy.compliance@avrickdirect.com or by visiting www.AvrickDirect.com and reviewing our Privacy Policy.
     Consumers can visit www.AvrickDirect.com and review our Privacy Policy as well as our Consumer Information link.
+    Allows Opt-Out? Yes - by email
+
+    Email:   privacy.compliance@avrickdirect.comOnline:  http://privacy.avrickdirect.com/request/opt-out
+    none indicated

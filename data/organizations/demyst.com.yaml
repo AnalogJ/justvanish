@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 149 E. 23rd Street, Suite 2035, New York, NY, 10010, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy@demystdata.com
           usage:
@@ -18,4 +23,8 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nThere is a link on the website where they can fill out a form to opt out of sale or submit a request.  Or the person can use the designated email (privacy@demystdata.com) to contact Demyst and make a request. \nThey can utilize the link on the Demyst home page and fill out the form or email Demyst at the designated email address (privacy@demystdata.com) and make the request. \n"
+notes: |-
+    There is a link on the website where they can fill out a form to opt out of sale or submit a request.  Or the person can use the designated email (privacy@demystdata.com) to contact Demyst and make a request.
+    They can utilize the link on the Demyst home page and fill out the form or email Demyst at the designated email address (privacy@demystdata.com) and make the request.
+
+    Opt out is available on the Demyst website by either filling out the relevant form or emailing Demyst.

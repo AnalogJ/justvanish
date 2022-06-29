@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nUsers are able to submit a request using the following forms: , , https://www.midnightoil.marketing/opt-out, \nAn individual may demand deletion of information using this form:, , https://www.midnightoil.marketing/remove-my-data\nhttps://www.midnightoil.marketing/copy-of-privacy-policy, https://www.midnightoil.marketing/terms"
+notes: |4-
+    Users are able to submit a request using the following forms: , , https://www.midnightoil.marketing/opt-out,
+    An individual may demand deletion of information using this form:, , https://www.midnightoil.marketing/remove-my-data
+    https://www.midnightoil.marketing/copy-of-privacy-policy, https://www.midnightoil.marketing/terms

@@ -7,8 +7,18 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 214 W 29th Street, 2nd Floor, New York, NY, 10001, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: thomas@clearview.ai
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: legal@clearview.ai
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,6 +28,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     Please see our website or email privacy@clearview.ai
-    Please see our website or email privacy@clearview.ai
+
+    Consumers may submit opt-out requests by email to privacy@clearview.ai or may fill out an online form requesting opt-out on our website.

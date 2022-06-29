@@ -7,8 +7,23 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Vermont
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 235 Great Pond Drive, Windsor, VT, 06095, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy@valassis.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: datalicensing@valassis.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +33,11 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nTo opt out of sale, CA consumers can fill out this form:  https://www.valassis.com/do-not-sell-my-personal-information/, To submit requests for other CCPA consumer rights, CA consumers can fill out this form:  https://www.valassis.com/privacy-request/, For additional information, please see our Privacy Policy:  https://www.valassis.com/legal/privacy-policy, \nWe do not post consumer information online, but CA consumers can always request that we delete their personal information by filling out this form: https://www.valassis.com/privacy-request/\nFor additional information about our data collection practices, please review our Privacy Policy:  https://www.valassis.com/legal/privacy-policy"
+notes: |-
+    To opt out of sale, CA consumers can fill out this form:  https://www.valassis.com/do-not-sell-my-personal-information/, To submit requests for other CCPA consumer rights, CA consumers can fill out this form:  https://www.valassis.com/privacy-request/, For additional information, please see our Privacy Policy:  https://www.valassis.com/legal/privacy-policy,
+    We do not post consumer information online, but CA consumers can always request that we delete their personal information by filling out this form: https://www.valassis.com/privacy-request/
+    For additional information about our data collection practices, please review our Privacy Policy:  https://www.valassis.com/legal/privacy-policy
+    Allows Opt-Out? No
+
+    Enhanced Data (internal data that is enhanced for distribution) – opt out availableUpon request from a consumer to have an address removed from the distribution list of the RetailMeNot Everyday package distributed by Valassis, Valassis will apply a Do Not Deliver (“DND”) flag for that address.  The DND is applied for 5 years.Enhanced Data lists that are acquired in mail ready format will not include the DND addresses.  Other lists may include the DND addresses but those addresses will includeThird-Party Data – opt out unavailable
+    N/A

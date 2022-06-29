@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 750 Highway 121 Bypass, Suite 100, Lewisville, TX, 75067, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: licensing@xome.com
           usage:
@@ -18,4 +23,9 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nAll relevant CCPA-related requests are facilitated through our website.  \nA protected individual can contact us through our website to request certain information posted online be removed.  \nWe license real estate information found in broker-owned Multiple Listing Service(s). While not wholly government records, the information is generally in the public domain.    "
+notes: |-
+    All relevant CCPA-related requests are facilitated through our website.
+    A protected individual can contact us through our website to request certain information posted online be removed.
+    We license real estate information found in broker-owned Multiple Listing Service(s). While not wholly government records, the information is generally in the public domain.
+
+    All data in use is provided by third parties and publicly available.

@@ -18,6 +18,5 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
-    To opt out, please contact us at: cform@realitymediainc.com., , For all requests you must indicate the following in the subject line: “CCPA Opt-Out”. In your email, please include the original information you provided including: 1) your name, 2) phone number, 3) email address, 4) city, state, and zip code.
+notes: |4-
     To opt out, please contact us at: cform@realitymediainc.com., , For all requests you must indicate the following in the subject line: “CCPA Opt-Out”. In your email, please include the original information you provided including: 1) your name, 2) phone number, 3) email address, 4) city, state, and zip code.

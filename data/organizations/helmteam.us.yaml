@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nPlease see our privacy policy (https://www.helmteam.us/privacy-policy) and review the section entitled \"Your Rights Regarding Personal Information.\"\nPlease reach out to us at legal@helmteam.us. \n"
+notes: |4-
+    Please see our privacy policy (https://www.helmteam.us/privacy-policy) and review the section entitled "Your Rights Regarding Personal Information."
+    Please reach out to us at legal@helmteam.us.

@@ -7,8 +7,28 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Nebraska
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1508 J F Kennedy Dr, Suite 103, Bellevue, NE, 68005, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: support@firstdirectmarketing.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: joel@firstdirectmarketing.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: sales@firstdirectmarketing.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,7 +38,14 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
+notes: |-
     Consumers can directly go to https://alerts.com/ and both search and submit requests.
     The consumer can go directly to https://alerts.com/ and request deletion of their information.
     Consumers can refer to our published privacy policy at : https://www.firstdirectmarketing.com/privacy-policy/
+    Allows Opt-Out? Yes - by email
+
+    First Direct, Inc. receives opt-out requests via various methods (letter, email, phone). These requests primarily come from our customers on behalf of end consumers. First Direct, Inc. promptly removes these consumers from current and all future file deliveries where possible and passes this on to other affected partners.
+    First Direct receives information from various trusted companies and sources that collect and supply consumer data. First Direct may also obtain data through public sources. First Direct is not an originator of PII. First Direct employs best practices for data acquisition and security; First Direct is transparent about our privacy policies; First Direct monitors and complies with regulations.
+
+    First Direct, Inc. receives opt-out requests via various methods (letter, email, phone). These requests primarily come from ourcustomers on behalf of end consumers. First Direct, Inc. promptly removes these consumers from current and all future filedeliveries where possible and passes this on to other affected partners.
+    First Direct receives information from various trusted companies and sources that collect and supply consumer data. First Direct mayalso obtain data through public sources. First Direct is not an originator of PII. First Direct employs best practices for data acquisitionand security; First Direct is transparent about our privacy policies; First Direct monitors and complies with regulations.

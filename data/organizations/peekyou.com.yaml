@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: New York
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: info@peekyou.com
           usage:
@@ -18,6 +23,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     Via https://www.peekyou.com/privacy#DoNotSellMyInfo or by emailing us at ccpa@peekyou.com.
     Via https://www.peekyou.com/privacy#DoNotSellMyInfo or by emailing us at admin@peekyou.com.
+    Allows Opt-Out? Yes - by Opt-Out Form

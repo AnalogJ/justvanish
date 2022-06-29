@@ -1,0 +1,29 @@
+organization_name: Background Information Services, Inc. (Bis)
+website: http://www.bisi.com/contact.php
+contact:
+    mail:
+        - address: Colorado
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1800 30th Street, Suite 204, Boulder, CO, 80301, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: compliance@bisi.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? No
+
+    BIS conducts all background check searches in real-time, therefore we do not own or maintain a database. However, we do and can provide notices to consumers with guidance to contact our data providers to opt out.

@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nConsumers can view instructions related to CCPA or GDPR Compliance at https:\\\\www.pacificeast.com/privacy-policy, send an email to privacy@pacificeast.com or call PacificEast at 800-665-8400.\nConsumers can view instructions related to CCPA or GDPR Compliance at https:\\\\www.pacificeast.com/privacy-policy, send an email to privacy@pacificeast.com or call PacificEast at 800-665-8400.\nMore information available at https:\\\\www.pacificeast.com/privacy-policy "
+notes: |4-
+    Consumers can view instructions related to CCPA or GDPR Compliance at https:\\www.pacificeast.com/privacy-policy, send an email to privacy@pacificeast.com or call PacificEast at 800-665-8400.
+    More information available at https:\\www.pacificeast.com/privacy-policy

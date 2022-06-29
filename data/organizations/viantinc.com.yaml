@@ -1,0 +1,30 @@
+organization_name: Viant Technology Llc
+website: https://www.viantinc.com/privacy-policy/
+contact:
+    mail:
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 4 Park Plaza, Suite 1500, Irvine, CA, 92614, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: bnojima@viantinc.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Unclear
+
+    https://optout.aboutads.info,  https://optout.networkadvertising.org, and using our opt-out cookie available through our privacy policies https://www.viantinc.com/privacy-policy/ and https://www.adelphic.com/privacy-policy/
+    A more complete explanation is available at https://www.viantinc.com/privacy-policy/ and https://www.adelphic.com/privacy-policy/.

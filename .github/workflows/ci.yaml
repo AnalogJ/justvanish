@@ -1,0 +1,19 @@
+name: CI
+# This workflow is triggered on pushes & pull requests
+on: [push]
+
+jobs:
+  validate:
+    name: Validate Schema
+    runs-on: ubuntu-latest
+    container: 'golang:latest'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Validate
+        run: |
+          go mod vendor
+          go run cmd/validate/validate.go
+
+
+

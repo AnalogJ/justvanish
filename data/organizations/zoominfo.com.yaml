@@ -7,8 +7,33 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Massachusetts
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 805 Broadway St., Suite 900, Vancouver, WA, 98660, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 170 Data Drive, Waltham, MA, 02451, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: privacy@zoominfo.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: anthony.stark@discoverorg.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: bubba.nunnery@zoominfo.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,7 +43,13 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
-    Consumers may manage their data management preferences through our comprehensive privacy center: , https://www.zoominfo.com/about-zoominfo/privacy-center
+notes: |-
     Consumers may manage their data management preferences through our comprehensive privacy center: , https://www.zoominfo.com/about-zoominfo/privacy-center
     Our data collection and management practices can be located here: , https://www.zoominfo.com/business/about-zoominfo/privacy-policy
+    Allows Opt-Out? Yes - by email
+
+    Individuals can opt out by emailing the company at either privacy@discoverorg.com or remove@zoominfo.com
+    The information we include in our database is limited to business contact information, including a person's name, job title, employer, office address, email address, phone number: the information typically included on a business card or a professional profile.
+
+    Individuals can opt out by emailing the company at either privacy@zoominfo.com or remove@zoominfo.com.
+    The information we include in our database is limited to business contact information, including a person's name, job title, employer, office address, email address, phone number: the information typically included on a business card or a professional profile.

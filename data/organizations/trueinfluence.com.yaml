@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\n* They can go to our \"Do Not Sell My Data\" form https://trueinfluence.com/do-not-sell-my-data/, * They can send an Opt-Out request to privacy@trueinfluence.com , \n* They can use our \"Do Not Sell My Data\" form https://trueinfluence.com/do-not-sell-my-data/ to demand deletion of their information, * They can send a \"deletion\" request to privacy@trueinfluence.com\nhttps://trueinfluence.com/california-privacy-policy/ , https://trueinfluence.com/privacy-policy/, https://trueinfluence.com/cookie-policy/, "
+notes: |4-
+    * They can go to our "Do Not Sell My Data" form https://trueinfluence.com/do-not-sell-my-data/, * They can send an Opt-Out request to privacy@trueinfluence.com ,
+    * They can use our "Do Not Sell My Data" form https://trueinfluence.com/do-not-sell-my-data/ to demand deletion of their information, * They can send a "deletion" request to privacy@trueinfluence.com
+    https://trueinfluence.com/california-privacy-policy/ , https://trueinfluence.com/privacy-policy/, https://trueinfluence.com/cookie-policy/,

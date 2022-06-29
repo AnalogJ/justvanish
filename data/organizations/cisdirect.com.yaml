@@ -1,0 +1,23 @@
+organization_name: COMPACT INFORMATION SYSTEMS
+website: www.cisdirect.com
+contact:
+    mail:
+        - address: 7120 185th Ave NE, Ste 150, Redmond, WA, 98052, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: pat@cisdirect.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    A person can contact us via a tollfree phone number, e-mail or regular mail to opt-out.  Once received, we immediately and permanently remove this person from our database.
+    none at this time.

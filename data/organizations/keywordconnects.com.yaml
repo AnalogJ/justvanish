@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nPlease contact us in writing by mail at the physical address provided or email at privacy@keywordconnects.com. For more information, please review privacy policies made available on our websites., \nPlease contact us in writing by mail at the physical address provided or email at privacy@keywordconnects.com. For more information, please review privacy policies made available on our websites., \nFor more information, please review privacy policies made available on our websites., "
+notes: |4-
+    Please contact us in writing by mail at the physical address provided or email at privacy@keywordconnects.com. For more information, please review privacy policies made available on our websites.,
+    For more information, please review privacy policies made available on our websites.,

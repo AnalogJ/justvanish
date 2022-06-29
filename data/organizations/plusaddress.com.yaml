@@ -1,0 +1,17 @@
+organization_name: Plusaddress.Com
+website: https://plusaddress.com/#privacy
+contact:
+    mail: []
+    email:
+        - address: info@plusaddresscom
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? Yes - by Opt-Out Form

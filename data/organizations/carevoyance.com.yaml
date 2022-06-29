@@ -18,6 +18,5 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
-    email info@carevoyance.com with relevant opt-out information, including name and email
+notes: |4-
     email info@carevoyance.com with relevant opt-out information, including name and email

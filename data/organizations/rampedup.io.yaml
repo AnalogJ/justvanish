@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nDo Not Sell My Information Link https://share.hsforms.com/1UzDl0s4ISDWFdjZLMD17-Q2mu6w  \nDo Not Sell My Information Link https://share.hsforms.com/1UzDl0s4ISDWFdjZLMD17-Q2mu6w  \nRampedUp provides Non HR business data that we get from a number of sources; a) Our research team that sources information from publicly available information, b) Users provide data about themselves or other companies & people, c) We license data from other data providers. Our data is not considered sensitive or protected by HIPPA / FCRA."
+notes: |4-
+    Do Not Sell My Information Link https://share.hsforms.com/1UzDl0s4ISDWFdjZLMD17-Q2mu6w
+    RampedUp provides Non HR business data that we get from a number of sources; a) Our research team that sources information from publicly available information, b) Users provide data about themselves or other companies & people, c) We license data from other data providers. Our data is not considered sensitive or protected by HIPPA / FCRA.

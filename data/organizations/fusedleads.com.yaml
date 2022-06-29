@@ -1,0 +1,29 @@
+organization_name: Fused Leads, Llc
+website: https://www.fusedleads.com/
+contact:
+    mail:
+        - address: Florida
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: '5135 U.S HWY 19N #108, New Port Richey, FL, 34652, USA'
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: greg@fusedleads.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? No
+
+    We archive all data received after 45 days in a secure archive environment

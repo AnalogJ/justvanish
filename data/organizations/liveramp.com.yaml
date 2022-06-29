@@ -8,7 +8,7 @@ contact:
             - delete.ccpa
             - donotsell.ccpa
     email:
-        - address: 'consumercare@liveramp.com '
+        - address: consumercare@liveramp.com
           usage:
             - request.ccpa
             - delete.ccpa

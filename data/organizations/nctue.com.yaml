@@ -1,0 +1,30 @@
+organization_name: National Consumer Telecom & Utilities Exchange, Inc.
+website: http://www.nctue.com/terms-of-use
+contact:
+    mail:
+        - address: Texas
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 751 Plaza Blvd, Coppell, TX, 75019, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: admin@nctue.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? No
+
+    Consumers who wish to opt-out may contact NCTUE via telephone at 1-888-327-4376 or in writing at the followings address:  Exchange Service Center - NCTUE Opt Out, P.O. Box 105398, Atlanta, GA 30348.
+    None.

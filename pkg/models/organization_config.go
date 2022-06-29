@@ -1,6 +1,9 @@
 package models
 
-import "golang.org/x/exp/slices"
+import (
+	"golang.org/x/exp/slices"
+	"strings"
+)
 
 type OrganizationConfig struct {
 	OrganizationName string                    `yaml:"organization_name"`
@@ -18,6 +21,11 @@ type OrganizationConfigContact struct {
 }
 
 func (c *OrganizationConfigContact) AddMail(address string, usage []string) {
+	address = strings.TrimSpace(address)
+	if len(address) == 0 {
+		return
+	}
+
 	if c.Mail == nil {
 		c.Mail = []OrganizationConfigContactInfo{}
 	}
@@ -38,6 +46,11 @@ func (c *OrganizationConfigContact) AddMail(address string, usage []string) {
 }
 
 func (c *OrganizationConfigContact) AddEmail(address string, usage []string) {
+	address = strings.TrimSpace(address)
+	if len(address) == 0 {
+		return
+	}
+
 	if c.Email == nil {
 		c.Email = []OrganizationConfigContactInfo{}
 	}
@@ -58,6 +71,11 @@ func (c *OrganizationConfigContact) AddEmail(address string, usage []string) {
 }
 
 func (c *OrganizationConfigContact) AddWebsiteForm(address string, usage []string) {
+	address = strings.TrimSpace(address)
+	if len(address) == 0 {
+		return
+	}
+
 	if c.Form == nil {
 		c.Form = []OrganizationConfigContactInfo{}
 	}

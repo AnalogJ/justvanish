@@ -7,8 +7,18 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: California
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 500 Oracle Parkway, Redwood Shores, CA, 94065, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
-        - address: 'privacy_ww@oracle.com '
+        - address: privacy_ww@oracle.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +28,11 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nThe Oracle Data Cloud (“ODC”) provides opt-out options in the ODC Privacy Policy, available at https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html#12. Consumers can also opt out with the ODC at https://datacloudoptout.oracle.com/.   \nIndividuals can request deletion of all their online and offline information by opting out of ODC services using the ODC opt-out tool available at https://datacloudoptout.oracle.com/.  , \nDetailed information on the ODC’s processing practices for consumer data is available at https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html. "
+notes: |-
+    The Oracle Data Cloud (“ODC”) provides opt-out options in the ODC Privacy Policy, available at https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html#12. Consumers can also opt out with the ODC at https://datacloudoptout.oracle.com/.
+    Individuals can request deletion of all their online and offline information by opting out of ODC services using the ODC opt-out tool available at https://datacloudoptout.oracle.com/.  ,
+    Detailed information on the ODC’s processing practices for consumer data is available at https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html.
+    Allows Opt-Out? Yes - by Opt-Out Form
+
+    The Oracle Data Cloud (“ODC”) provides opt-out options in the ODC Privacy Policy, available at https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html#12. Consumers can opt-out of the use of brokered personal information (referred to as “offline data” in the ODC Privacy Policy) by the ODC by opting out at https://datacloudoptout.oracle.com/.
+    Detailed information on the ODC’s processing practices for consumer data is available at https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html.

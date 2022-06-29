@@ -7,8 +7,23 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Missouri
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 11432 Lackland Road, Suite 337, St. Louis, MO, 63146, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: usprivacy@equifax.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: vtinquiries@equifax.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +33,11 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nThrough a link at https://www.equifax.com/personal/, , \nWe do not post personal information online so this is not applicable.\nPlease visit https://www.equifax.com/privacy/privacy-statement/ to review our Privacy Statement for more information."
+notes: |-
+    Through a link at https://www.equifax.com/personal/, ,
+    We do not post personal information online so this is not applicable.
+    Please visit https://www.equifax.com/privacy/privacy-statement/ to review our Privacy Statement for more information.
+    Allows Opt-Out? Unclear
+
+    See additional information in supplemental attachment.
+    None.

@@ -8,7 +8,7 @@ contact:
             - delete.ccpa
             - donotsell.ccpa
     email:
-        - address: 'legal@buyerlink.com '
+        - address: legal@buyerlink.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nA consumer may opt-out of a sale or submit requests under the CCPA by clicking the \"Do Not Sell My Personal Information\" link on the footer of buyerlink.com and filling out the Data Subject Access Request form. A consumer may also opt-out of the use of cookies via the \"Cookie Settings\" button on www.buyerlink.com/cookielist/.\nA protected individual can demand deletion of information posted online either via the \"Do Not Sell My Personal Information\" link on the footer of buyerlink.com, by sending an email to legal@buyerlink.com, or by filling out the \"Contact Us\" form on https://buyerlink.com/Contact/. \n"
+notes: |4-
+    A consumer may opt-out of a sale or submit requests under the CCPA by clicking the "Do Not Sell My Personal Information" link on the footer of buyerlink.com and filling out the Data Subject Access Request form. A consumer may also opt-out of the use of cookies via the "Cookie Settings" button on www.buyerlink.com/cookielist/.
+    A protected individual can demand deletion of information posted online either via the "Do Not Sell My Personal Information" link on the footer of buyerlink.com, by sending an email to legal@buyerlink.com, or by filling out the "Contact Us" form on https://buyerlink.com/Contact/.

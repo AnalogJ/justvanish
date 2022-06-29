@@ -1,0 +1,39 @@
+organization_name: Fd Holdings, Llc Dba Factual Data
+website: https://www.factualdata.com/privacy.html?link=footer-privacypolicy
+contact:
+    mail:
+        - address: Colorado
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 5100 Hahns Peak Drive, Loveland, CO, 80538, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: sue.temple@cbc-companies.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: legal@cbc-companies.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: privacy@factualdata.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |
+    Allows Opt-Out? No
+
+    None.

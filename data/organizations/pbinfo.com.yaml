@@ -8,7 +8,7 @@ contact:
             - delete.ccpa
             - donotsell.ccpa
     email:
-        - address: 'ccparequests@pbinfo.com '
+        - address: ccparequests@pbinfo.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nCalifornia consumers may opt out or submit requests under the CCPA at:  https://www.pbinfo.com/crf/ or https://www.pbinfo.com/dnsmpi/.  California consumers may also submit a request by phone at 1-800-327-2720 or by mail to: Pension Benefit Information, LLC, Attn: Director of Data, CCPA Consumer Request, 333 South Seventh Street, Suite 2400, Minneapolis, MN 55402. \nNot applicable.\nAdditional information is available at: https://www.pbinfo.com/ca-privacy-policy/."
+notes: |4-
+    California consumers may opt out or submit requests under the CCPA at:  https://www.pbinfo.com/crf/ or https://www.pbinfo.com/dnsmpi/.  California consumers may also submit a request by phone at 1-800-327-2720 or by mail to: Pension Benefit Information, LLC, Attn: Director of Data, CCPA Consumer Request, 333 South Seventh Street, Suite 2400, Minneapolis, MN 55402.
+    Not applicable.
+    Additional information is available at: https://www.pbinfo.com/ca-privacy-policy/.

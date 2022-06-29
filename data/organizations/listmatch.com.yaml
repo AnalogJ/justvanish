@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nA consumer can opt out by visiting our website and clicking in the footer \"Do Not Sell My Personal Information \". Which takes them to the following page https://listmatch.com/privacy/ from there they can manage their data record, delete the record.  A consumer can also call Toll Free: (888) 757-2614 and ask to be out of data sales. \nA protected individual can lookup their record at https://listmatch.com/privacy/ and request deletion of the entire data entry file. They can also call us Toll Free: (888) 757-2614 and ask to be deleted.\nThey can view are up to date data collecting practices in our privacy policy found on our website."
+notes: |4-
+    A consumer can opt out by visiting our website and clicking in the footer "Do Not Sell My Personal Information ". Which takes them to the following page https://listmatch.com/privacy/ from there they can manage their data record, delete the record.  A consumer can also call Toll Free: (888) 757-2614 and ask to be out of data sales.
+    A protected individual can lookup their record at https://listmatch.com/privacy/ and request deletion of the entire data entry file. They can also call us Toll Free: (888) 757-2614 and ask to be deleted.
+    They can view are up to date data collecting practices in our privacy policy found on our website.

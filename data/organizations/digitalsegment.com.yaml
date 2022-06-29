@@ -7,8 +7,23 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 10365 High Falls Circle, Johns Creek, GA, 30022, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1305 Sunnyslope Ct, Auburn, AL, 36832, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: info@digitalsegment.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: bschorer@digitalsegment.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,6 +33,10 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     Email at info @ digitalsegment.com or enter information on form on home page requesting to be opted out.
-    Email at info @ digitalsegment.com or enter information on form on home page requesting to be opted out.
+
+    E-mail, phone, or direct mail
+    We have a constant update process that varies by database to actively remove and delete records that we are told to delete from the companies that we license the database.
+
+    email request

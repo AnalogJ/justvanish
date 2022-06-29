@@ -1,0 +1,21 @@
+organization_name: Infotracer
+website: https://members.infotracer.com/customer/terms?tab=privacy
+contact:
+    mail:
+        - address: Massachusetts
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: support@infotracer.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: Allows Opt-Out? Yes - by Opt-Out Form

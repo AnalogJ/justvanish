@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nA consumer may opt out with a Do Not Sell My Info button at the bottom of our website.\nA consumer may demand deletion of informatin with a Do Not Sell My Info button at the bottom of our website.\nWe plug into several data providers (Experian, etc). We have made sure that they all have 100% legal practices in this data collection. "
+notes: |4-
+    A consumer may opt out with a Do Not Sell My Info button at the bottom of our website.
+    A consumer may demand deletion of informatin with a Do Not Sell My Info button at the bottom of our website.
+    We plug into several data providers (Experian, etc). We have made sure that they all have 100% legal practices in this data collection.

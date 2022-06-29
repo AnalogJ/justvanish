@@ -1,0 +1,23 @@
+organization_name: CareerBuilder Employment Screening, LLC
+website: screen.careerbuilder.com
+contact:
+    mail:
+        - address: 3800 Golf Rd, Ste. 120, Rolling Meadows, IL, 60008, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: complianceteam@careerbuilderscreening.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    via website, email, or phone. Consumer may ask that their information be deleted or anonymized.
+    CareerBuilder Employment Screening is a consumer reporting agency required to comply with the FCRA, and our only business is conducting employment-related background services at the request of our customers and only with consumer authorization and proper disclosure.

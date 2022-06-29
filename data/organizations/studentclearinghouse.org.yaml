@@ -1,0 +1,30 @@
+organization_name: National Student Clearinghouse
+website: https://studentclearinghouse.org/about/our-privacy-commitment/
+contact:
+    mail:
+        - address: Virginia
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 2300 Dulles Station Blvd, Suite 220, Herndon, VA, 20171, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@studentclearinghouse.org
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |-
+    Allows Opt-Out? Unclear
+
+    NSC collects student data from participating postsecondary institutions and discloses such data to 3rd parties as contractually authorized by such institutions, in compliance with the Family Educational Rights & Privacy Act. FERPA allows disclosure of directory information (DI) without consent unless the student has opted-out of having their DI disclosed, and NSC respects such opt-outs as FERPA requires. Individuals may opt-out of the disclosure of their DI by notifying their institution.
+    The Clearinghouse is a 26-year old non-profit, established in part by the education community, with a mission to serve the education and workforce communities and all learners with access to trusted data, related services, and insights. We only use student data as contractually authorized by our participating educational institutions. For more about us, see https://www.studentclearinghouse.org/.  For more about data privacy, see https://studentclearinghouse.org/about/our-privacy-commitment/.

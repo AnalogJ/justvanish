@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nSimply visit http://www.bbdirect.com/list-removal-request \nSimply visit http://www.bbdirect.com/list-removal-request\nBy visiting our List Removal Request page on our website, visitors can complete the form provided and request to be removed from future mailings, and ask us to provide what personal information we have on that individual."
+notes: |4-
+    Simply visit http://www.bbdirect.com/list-removal-request
+    By visiting our List Removal Request page on our website, visitors can complete the form provided and request to be removed from future mailings, and ask us to provide what personal information we have on that individual.

@@ -1,0 +1,22 @@
+organization_name: Accuity Inc.
+website: www.accuity.com
+contact:
+    mail:
+        - address: 1007 Church Street, 6th Floor, Evanston, IL, 60201, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: michelle.murphy@accuity.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    n/a

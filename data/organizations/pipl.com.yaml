@@ -7,8 +7,28 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Idaho
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 510 S Clearwater Loop, Suite 101, Post Falls, ID, 83854, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 510 Clearwater Loop, Ste 100, Post Falls, ID, 83854, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: susan.haddad@pipl.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: mail@pipl.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,7 +38,13 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4-
+notes: |-
     A consumer may opt out either by submitting a form on our website or by telephone.
     We don't post on the Internet or publicly display the personal information of any consumer.
     our practices are outlined in our privacy center on our Website. California residents are directed to a special URL that includes our CCPA privacy statement.
+    Allows Opt-Out? Unclear
+
+    See attached.
+
+    By Email or online form submission.Opt-out is for information that is not (or no longer) publicly available online, the consumer is asked tospecify the results they’d like to remove.
+    NA

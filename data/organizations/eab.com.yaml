@@ -23,6 +23,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |4-
     Completing a webform available within our online privacy page, and honoring all opt-out requests sent to EAB by collectors of the data.
     Completing a webform available within our online privacy page, and honoring all deletion requests sent to EAB by collectors of the data.

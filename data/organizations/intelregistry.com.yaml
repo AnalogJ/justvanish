@@ -1,0 +1,17 @@
+organization_name: Intel Registry
+website: http://intelregistry.com/privacy.php
+contact:
+    mail: []
+    email:
+        - address: support@intelregistry.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? Yes - by Opt-Out Form

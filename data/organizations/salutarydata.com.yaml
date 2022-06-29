@@ -23,4 +23,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nhttps://salutarydata.com/privacy-opt-out-and-disclosure-form/, \nhttps://salutarydata.com/privacy-opt-out-and-disclosure-form/, \nWe aggregate business card like information.  See this web page for our collection practice:  https://salutarydata.com/how-we-do-it/, \nhttps://salutarydata.com/privacy-opt-out-and-disclosure-form/\nhttps://salutarydata.com/privacy-opt-out-and-disclosure-form/\n"
+notes: |
+    https://salutarydata.com/privacy-opt-out-and-disclosure-form/,
+    We aggregate business card like information.  See this web page for our collection practice:  https://salutarydata.com/how-we-do-it/,
+    https://salutarydata.com/privacy-opt-out-and-disclosure-form/

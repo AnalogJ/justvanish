@@ -1,0 +1,22 @@
+organization_name: Ucc411
+website: http://www.ucc411.com/privacy-policy.aspx
+contact:
+    mail:
+        - address: Nevada
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: info@andersonadvisors.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? Unclear

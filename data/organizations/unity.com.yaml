@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nWe have provided instructions to opt-out and obtain data reports at https://unity3d.com/legal/do-not-sell-my-personal-information.  \nSubmit a request to dpo@unity3d.com\nPlease see our privacy policy at https://unity3d.com/legal/privacy-policy"
+notes: |4-
+    We have provided instructions to opt-out and obtain data reports at https://unity3d.com/legal/do-not-sell-my-personal-information.
+    Submit a request to dpo@unity3d.com
+    Please see our privacy policy at https://unity3d.com/legal/privacy-policy

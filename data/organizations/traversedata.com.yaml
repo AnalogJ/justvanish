@@ -18,6 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |4-
     Requests to know methods include a toll-free number and our web form., Requests to delete methods include a toll-free number, webform, email, and physical mail., Requests to opt out include a link on our website, and also our web form plus email, physical mail, etc.
     Requests to delete methods include a toll-free number, webform, email, and physical mail. The web form can be found here: http://www.traversedata.com/contact?form=privacy

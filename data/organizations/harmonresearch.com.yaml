@@ -18,4 +18,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nPlease submit an email to info@harmonresearch.com to be removed from any of our market research studies.  They may also go to http://www.harmonresearch.com/ and click on \"Privacy Policy\" to see other options.  \nPlease submit an email to info@harmonresearch.com to be removed from any of our market research studies.  They may also go to http://www.harmonresearch.com/ and click on \"Privacy Policy\" to see other options.  \nHarmon Research is a market research / insights firm. We consult and conduct surveys for various agencies around the world.  We do not do any marketing from our data collection lists and our data is used for statistical purposes only.  "
+notes: |4-
+    Please submit an email to info@harmonresearch.com to be removed from any of our market research studies.  They may also go to http://www.harmonresearch.com/ and click on "Privacy Policy" to see other options.
+    Harmon Research is a market research / insights firm. We consult and conduct surveys for various agencies around the world.  We do not do any marketing from our data collection lists and our data is used for statistical purposes only.

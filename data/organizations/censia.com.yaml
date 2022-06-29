@@ -7,6 +7,11 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 450 Geary Street, Suite 501, San Francisco, CA, 94102, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: tgotowka@censia.com
           usage:
@@ -18,6 +23,8 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     LInk on Corporate website
     Link through the corporate web site
+
+    An opt-out request can be submitted by sending email to support@censia.com or open request ticket from our web site

@@ -12,8 +12,23 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Georgia
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 1000 Alderman Drive, Alpharetta, GA, 30005, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
-        - address: 'consumer.documents@lexisnexis.com '
+        - address: consumer.documents@lexisnexis.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: legal.compliance@risk.lexisnexis.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -23,4 +38,14 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nCalifornia consumers may opt out or submit requests under the CCPA at:, , https://consumer.risk.lexisnexis.com/california, , California consumers may also submit a request by phone at 1-888-217-1591 or by mail at: , , Consumer Center, Attn: California Consumer Privacy Act (CCPA) Request,  P.O. Box 105108, Atlanta, GA 30348-5295, \nProtected individuals can submit requests by phone at 1-888-217-1591 or at:, , LexisNexis Individual Requests for Information Suppression, PO Box 933 , Dayton, OH 45401 , Email: privacy.information.mgr@lexisnexis.com, \nAddition information is available at: , , https://consumer.risk.lexisnexis.com/california, \nCalifornia consumers may opt out or submit requests under the CCPA at:, https://consumer.risk.lexisnexis.com/california, , California consumers may also submit a request by phone at 1-888-217-1591 or by mail at: , Consumer Center, Attn: California Consumer Privacy Act (CCPA) Request,  P.O. Box 105108, Atlanta, GA 30348-5295, \nProtected individuals can submit requests by phone at 1-888-217-1591 or at:, , LexisNexis Individual Requests for Information Suppression, PO Box 933 , Dayton, OH 45401 , Email: privacy.information.mgr@lexisnexis.com\nAddition information is available at: , , https://consumer.risk.lexisnexis.com/california, "
+notes: |-
+    California consumers may opt out or submit requests under the CCPA at:, , https://consumer.risk.lexisnexis.com/california, , California consumers may also submit a request by phone at 1-888-217-1591 or by mail at: , , Consumer Center, Attn: California Consumer Privacy Act (CCPA) Request,  P.O. Box 105108, Atlanta, GA 30348-5295,
+    Protected individuals can submit requests by phone at 1-888-217-1591 or at:, , LexisNexis Individual Requests for Information Suppression, PO Box 933 , Dayton, OH 45401 , Email: privacy.information.mgr@lexisnexis.com,
+    Addition information is available at: , , https://consumer.risk.lexisnexis.com/california,
+    California consumers may opt out or submit requests under the CCPA at:, https://consumer.risk.lexisnexis.com/california, , California consumers may also submit a request by phone at 1-888-217-1591 or by mail at: , Consumer Center, Attn: California Consumer Privacy Act (CCPA) Request,  P.O. Box 105108, Atlanta, GA 30348-5295,
+    Protected individuals can submit requests by phone at 1-888-217-1591 or at:, , LexisNexis Individual Requests for Information Suppression, PO Box 933 , Dayton, OH 45401 , Email: privacy.information.mgr@lexisnexis.com
+    Addition information is available at: , , https://consumer.risk.lexisnexis.com/california,
+    Allows Opt-Out? Unclear
+
+    E-Mail, Phone, or Mail.
+    n/a

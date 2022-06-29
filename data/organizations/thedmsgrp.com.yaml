@@ -1,0 +1,22 @@
+organization_name: Digital Media Solutions
+website: legal@thedmsgrp.com
+contact:
+    mail:
+        - address: 4800 140th Ave North Suite 101, Clearwater, FL, 33762, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email:
+        - address: legal@thedmsgrp.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    The opt out method is based on how the consumer opted in. Within each opt in consent there are instructions clearly labeled for the consumer to opt out

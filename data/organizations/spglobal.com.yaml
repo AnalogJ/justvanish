@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nA consumer may opt out of the sale of the personal information, under the CCPA using - https://www.spglobal.com/en/privacy/california-consumer-privacy-act, , A consumer may submit requests under the CCPA using - https://www.spglobal.com/en/privacy/personal-information-request-form\nA protected individual can demand deletion of information posted online using - https://www.spglobal.com/en/privacy/personal-information-request-form\nAll of S&P Global's, and their affiliate companies', data collection practices are outlined, in detail, in our Privacy Policy, which can be found online here - https://www.spglobal.com/en/privacy/privacy-policy-english "
+notes: |4-
+    A consumer may opt out of the sale of the personal information, under the CCPA using - https://www.spglobal.com/en/privacy/california-consumer-privacy-act, , A consumer may submit requests under the CCPA using - https://www.spglobal.com/en/privacy/personal-information-request-form
+    A protected individual can demand deletion of information posted online using - https://www.spglobal.com/en/privacy/personal-information-request-form
+    All of S&P Global's, and their affiliate companies', data collection practices are outlined, in detail, in our Privacy Policy, which can be found online here - https://www.spglobal.com/en/privacy/privacy-policy-english

@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nThe Aspire North website has dedicated pages for consumer requests for opt out of sale:, , https://www.aspire-north.com/do-not-sell-my-personal-information--out-out-request-form.html, , as well as request what information is available about them as individuals or consumers here:, , https://www.aspire-north.com/privacy-rights-addendum-for-california-residents.html, \nThe Aspire North website provides information for individuals to demand deletion of their information here:, , https://www.aspire-north.com/privacy-rights-addendum-for-california-residents.html, , \nAs a service provider Aspire North does not collect data, but if it occurs, any practices can be found online here:, , https://www.aspire-north.com/privacy-rights-addendum-for-california-residents.html, "
+notes: |4-
+    The Aspire North website has dedicated pages for consumer requests for opt out of sale:, , https://www.aspire-north.com/do-not-sell-my-personal-information--out-out-request-form.html, , as well as request what information is available about them as individuals or consumers here:, , https://www.aspire-north.com/privacy-rights-addendum-for-california-residents.html,
+    The Aspire North website provides information for individuals to demand deletion of their information here:, , https://www.aspire-north.com/privacy-rights-addendum-for-california-residents.html, ,
+    As a service provider Aspire North does not collect data, but if it occurs, any practices can be found online here:, , https://www.aspire-north.com/privacy-rights-addendum-for-california-residents.html,

@@ -7,8 +7,18 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: 2301 E RIVERSIDE DR STE 200, Austin, TX, 78741, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: legal@vertify.com
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: gpineda@vertify.com
           usage:
             - request.ccpa
             - delete.ccpa
@@ -18,4 +28,8 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nVia Email or website formfill\nN/A. We do not post information online \n"
+notes: |-
+    Via Email or website formfill
+    N/A. We do not post information online
+
+    email

@@ -18,4 +18,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: "\nThrough a link at https://www.equifax.com/personal/, , \nWe do not post personal information online so this is not applicable.\nPlease visit https://www.equifax.com/privacy/privacy-statement/ to review our Privacy Statement for more information."
+notes: |4-
+    Through a link at https://www.equifax.com/personal/, ,
+    We do not post personal information online so this is not applicable.
+    Please visit https://www.equifax.com/privacy/privacy-statement/ to review our Privacy Statement for more information.

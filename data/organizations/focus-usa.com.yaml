@@ -18,6 +18,5 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
-    https://www.focus-usa.com/california-consumer-privacy-act-ccpa-opt-out/
+notes: |4-
     https://www.focus-usa.com/california-consumer-privacy-act-ccpa-opt-out/

@@ -18,6 +18,5 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
-    We have an opt-out button that is prominently displayed on our home page, under the label "Do not sell my personal information"
+notes: |4-
     We have an opt-out button that is prominently displayed on our home page, under the label "Do not sell my personal information"

@@ -7,6 +7,21 @@ contact:
             - request.ccpa
             - delete.ccpa
             - donotsell.ccpa
+        - address: Texas
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 7300 FM 2222, Building 2, Suite 100, Austin, TX, 78730, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+        - address: 7300 FM 2222 Building 2, Suite 100, austin, TX, 78730, USA
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
     email:
         - address: onlineops@allwebleads.com
           usage:
@@ -18,6 +33,12 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |4
+notes: |-
     A consumer may contact AWL Inc per instructions listed on http://www.allwebleads.com/privacy/ to opt out of sale or submit CCPA requests
     A consumer may contact AWL Inc per instructions listed on http://www.allwebleads.com/privacy/ to demand deletion.
+    Allows Opt-Out? Unclear
+
+    All consumers provide Prior Express Written Consent before we contact them.They may request opt-out via voice (during call), by calling back callerID number after the call, email, and written request
+    None
+
+    Web Form, Email (legal@allwebleads.com), or phone call (various)
