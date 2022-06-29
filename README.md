@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AnalogJ/justvanish">
-  <img width="300" alt="vanish_view" src="docs/noun-ghost-1358159.png">
+  <img width="300" alt="vanish_view" src="docs/logo-500x500-white.png">
   </a>
 </p>
 
