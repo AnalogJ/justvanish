@@ -183,7 +183,8 @@ $ cat ethereal.credentials.json
 }
 ```
 
-Here's a [screenshot of the https://ethereal.email portal](./docs/ethereal-screenshot.png)
+Here's a [screenshot of the https://ethereal.email portal](./docs/ethereal-screenshot.png).
+It's basically just a specialized [mail merge](https://en.wikipedia.org/wiki/Mail_merge).
 
 
 # What about ...?
