@@ -33,7 +33,6 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |
+notes: |-
     Allows Opt-Out? No
-
     Optional.

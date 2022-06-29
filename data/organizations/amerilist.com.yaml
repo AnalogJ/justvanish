@@ -1,5 +1,5 @@
 organization_name: Amerilist Inc
-website: www.amerilist.com
+website: https://www.amerilist.com
 contact:
     mail:
         - address: 40 Ramland Rd So, Suite 203B, Orangeburg, NY, 10962, USA
@@ -30,5 +30,4 @@ regulation:
     - ccpa
 notes: |-
     Since all of the data we sell is compiled by our vendors we will assist consumers by identifying the source of the data and providing them with a directive as to how they may opt out from that companies list. Consumers may contact us by Calling our office toll free at 1.800.457.2899 or emailing us at info@amerilist.com.
-
     By visiting our website.

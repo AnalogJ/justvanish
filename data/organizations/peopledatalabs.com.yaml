@@ -23,5 +23,4 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |
-    https://www.peopledatalabs.com/opt-out-form
+notes: https://www.peopledatalabs.com/opt-out-form

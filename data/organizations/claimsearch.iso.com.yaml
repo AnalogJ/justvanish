@@ -1,5 +1,5 @@
 organization_name: ISO Services, Inc.
-website: www.claimsearch.iso.com
+website: https://www.claimsearch.iso.com
 contact:
     mail:
         - address: 545 Washington Blvd, Jersey City, NJ, 07310, USA
@@ -25,5 +25,4 @@ regulation:
     - ccpa
 notes: |-
     None.
-
     Relating to question #7, ISO ClaimSearch does not have separate practices from statement #4 for this category.

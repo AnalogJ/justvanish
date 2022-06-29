@@ -23,7 +23,7 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |
+notes: |-
     A consumer may opt out of sale or submit requests under the CCPA by either calling a number listed on our website or filling out a form on our website.
     We do not knowingly and intentionally publicly post or publicly display on the Internet the home address or home telephone number of any person. A protected individual can contact us by either calling a number listed on our website or filling out a form on our website., ,
     A credentialing process is implemented to prevent data usage for nefarious purposes.

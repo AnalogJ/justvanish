@@ -1,5 +1,5 @@
 organization_name: Tracers Information Specialists, Inc.
-website: www.tracersinfo.com
+website: https://www.tracersinfo.com
 contact:
     mail:
         - address: 15740 Flight Path Dr., Brooksville, FL, 34604 - 6823, USA
@@ -28,5 +28,4 @@ organization_type:
     - databroker
 regulation:
     - ccpa
-notes: |
-    N/A
+notes: N/A

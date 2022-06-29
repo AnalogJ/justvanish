@@ -30,6 +30,5 @@ regulation:
     - ccpa
 notes: |-
     Allows Opt-Out? Unclear
-
     InCheck conducts pre-employment background screening. Applicants may opt-out of providing personally identifiable information (PII) by skipping over requests for additional PII in onboarding documents. At any time during the background screening process the applicant may also opt-out of the background screening process by notifying InCheck or their prospective employer that he/or she is no longer interested in the position or would no longer like to proceed with the background check.
     InCheck utilizes Secure Socket Layer (SSL) data encryption when data is transmitted over the internet to the website and utilizes layered firewalls and other security technologies to prevent further unauthorized access. InCheck also has other administrative, technical, and physical safeguards in place designed to protect the information that InCheck collects. Access to PII is limited to InCheck employees who need access in order to carry out their job responsibilities.

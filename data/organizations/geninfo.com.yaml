@@ -1,5 +1,5 @@
 organization_name: General Information Solutions LLC
-website: www.geninfo.com
+website: https://www.geninfo.com
 contact:
     mail:
         - address: 917 Chapin Road, Chapin, SC, 29036, USA
@@ -20,5 +20,4 @@ regulation:
     - ccpa
 notes: |-
     N/A
-
     (continued from #4) Typically, those services are provided directly to end-users whohave obtained the express authorization for the end-user to obtain, and for Company to provide, the background report. Sometimes, however, Company’s services are provided to another background screening company that will provide the background report to the end-user. Whether provided directly or indirectly, the consumer has always authorized the procurement of the background report by the end-user.

@@ -1,5 +1,5 @@
 organization_name: Catalist, LLC
-website: www.catalist.us
+website: https://www.catalist.us
 contact:
     mail:
         - address: 1090 Vermont Ave NW, Ste 300, Washington, DC, 20005, USA
@@ -25,5 +25,4 @@ regulation:
     - ccpa
 notes: |-
     Catalist provides data and data-related services to non-profit organizations to help them better identify, understand, and communicate with the people they need to persuade and mobilize.  Data is not for commercial use.
-
     Catalist provides Data and data-related services are for non-profit organizations to help them better identify, understand and communicate with the people they need to persuade and mobilize.  Data is not for commercial use.

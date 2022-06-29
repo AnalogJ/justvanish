@@ -1,5 +1,5 @@
 organization_name: Exact Data
-website: www.exactdata.com
+website: https://www.exactdata.com
 contact:
     mail:
         - address: 33 N Dearborn St, Fl 2, Chicago, IL, 60602, USA
@@ -31,6 +31,5 @@ regulation:
 notes: |-
     email unsubscribe
     no data collected on minors
-
     www.Alerts.com
     No data collected on minors

@@ -1,0 +1,17 @@
+organization_name: Easy Background Check
+website: ""
+contact:
+    mail:
+        - address: Washington
+          usage:
+            - request.ccpa
+            - delete.ccpa
+            - donotsell.ccpa
+    email: []
+    form: []
+organization_type:
+    - databroker
+regulation:
+    - ccpa
+notes: |4-
+    Allows Opt-Out? No
