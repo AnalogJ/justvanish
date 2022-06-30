@@ -18,7 +18,7 @@ jobs:
 
   build:
     name: Build ${{ matrix.cfg.goos }}/${{ matrix.cfg.goarch }}
-    container: 'golang:latest'
+#    container: 'golang:latest'
     runs-on: ${{ matrix.cfg.on }}
     env:
       GOOS: ${{ matrix.cfg.goos }}
@@ -43,6 +43,8 @@ jobs:
         uses: actions/checkout@v2
       - name: Build Binaries
         run: |
+          go version
+          go env
           go build -ldflags "-X main.goos=${GOOS} -X main.goarch=${GOARCH}" -o vanish-${{ matrix.cfg.goos }}-${{ matrix.cfg.goarch }}${{ matrix.cfg.goarm }} -tags "static netgo" ./cmd/vanish/vanish.go
       - name: Archive
         uses: actions/upload-artifact@v2
