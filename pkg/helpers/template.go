@@ -9,7 +9,7 @@ import (
 	"time"
 )
 
-type templateData struct {
+type TemplateData struct {
 	User interface{}
 	Org  *models.OrganizationConfig
 	Date string
@@ -23,7 +23,7 @@ func TemplatePopulate(orgId string, regulationType string, actionType string, us
 		return "", err
 	}
 
-	tmplData := templateData{
+	tmplData := TemplateData{
 		User: userData,
 		Org:  orgConfig,
 		Date: time.Now().Format("Jan 2 2006"),

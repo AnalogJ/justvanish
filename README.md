@@ -211,6 +211,13 @@ It's basically just a specialized [mail merge](https://en.wikipedia.org/wiki/Mai
 - https://www.ftccomplaintassistant.gov/?utm_source=takeaction#crnt&panel1-1
 - https://oag.ca.gov/contact/consumer-complaint-against-business-or-company
 - https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens/redress/what-should-i-do-if-i-think-my-personal-data-protection-rights-havent-been-respected_en
+- https://oag.ca.gov/privacy/ccpa/enforcement
+
+# Digital Rights Requests & Fulfillment 
+- [Data Rights Protocol](https://github.com/consumer-reports-digital-lab/data-rights-protocol)
+- [Global Privacy Control](https://globalprivacycontrol.org/)
+- https://github.com/privacy-tech-lab/gpc-optmeowt
+- 
 
 # References
 - Logo: [Ghost by Royyan Wijaya](https://thenounproject.com/icon/ghost-1358159/)

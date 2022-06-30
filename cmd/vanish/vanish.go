@@ -3,8 +3,10 @@ package main
 import (
 	"fmt"
 	"github.com/analogj/go-util/utils"
-	"github.com/analogj/justvanish/pkg/actions/list"
-	"github.com/analogj/justvanish/pkg/actions/request"
+	deleteAction "github.com/analogj/justvanish/pkg/actions/delete"
+	donotsellAction "github.com/analogj/justvanish/pkg/actions/donotsell"
+	listAction "github.com/analogj/justvanish/pkg/actions/list"
+	requestAction "github.com/analogj/justvanish/pkg/actions/request"
 	"github.com/analogj/justvanish/pkg/config"
 	"github.com/analogj/justvanish/pkg/version"
 	"github.com/fatih/color"
@@ -33,6 +35,13 @@ func main() {
 		Usage:    "Tell databrokers to F#@% Off. Your data is your data, they shouldn't be monetizing your personal information without your knowledge.",
 		Version:  version.VERSION,
 		Compiled: time.Now(),
+
+		Action: func(c *cli.Context) error {
+			//if triggered without any parameters, assume we want to start the GUI.
+			//TODO, dtermine what happens when triggered via the commandline in a docker container.
+			//return gui.Start()
+			return nil
+		},
 		Authors: []cli.Author{
 			cli.Author{
 				Name:  "Jason Kulatunga",
@@ -88,7 +97,7 @@ func main() {
 						logrus.SetLevel(logrus.InfoLevel)
 					}
 
-					action, err := list.New(actionLogger, configuration)
+					action, err := listAction.New(actionLogger, configuration)
 					if err != nil {
 						return err
 					}
@@ -122,7 +131,7 @@ func main() {
 
 			{
 				Name:  "request",
-				Usage: "Request a copy of your of your personal information",
+				Usage: "Request a copy of your personal information stored by data brokers, government agencies and other organizations",
 				Action: func(c *cli.Context) error {
 
 					actionLogger := logrus.WithFields(logrus.Fields{
@@ -147,7 +156,126 @@ func main() {
 						logrus.SetLevel(logrus.InfoLevel)
 					}
 
-					action, err := request.New(actionLogger, configuration)
+					action, err := requestAction.New(actionLogger, configuration)
+					if err != nil {
+						return err
+					}
+					return action.Start()
+				},
+
+				Flags: []cli.Flag{
+					&cli.StringFlag{
+						Name:  "regulation-type",
+						Usage: "Filter by regulation type",
+						Value: "ccpa",
+					},
+					&cli.StringFlag{
+						Name:  "org-type",
+						Usage: "Filter by organization type",
+					},
+					&cli.StringFlag{
+						Name:  "org-id",
+						Usage: "Filter by organization id",
+					},
+					&cli.BoolFlag{
+						Name:  "dry-run",
+						Usage: "Dry run mode",
+					},
+
+					&cli.BoolFlag{
+						Name:  "debug",
+						Usage: "Enable debug logging",
+					},
+				},
+			},
+
+			{
+				Name:  "delete",
+				Usage: "Request the deletion of your personal information from data brokers & other organizations",
+				Action: func(c *cli.Context) error {
+
+					actionLogger := logrus.WithFields(logrus.Fields{
+						"type": "delete",
+					})
+
+					configuration.Set("action.regulation-type", c.String("regulation-type"))
+					if c.IsSet("org-type") {
+						configuration.Set("action.org-type", c.String("org-type"))
+					}
+					if c.IsSet("org-id") {
+						configuration.Set("action.org-id", c.String("org-id"))
+					}
+
+					if c.IsSet("dry-run") {
+						configuration.Set("action.dry-run", c.Bool("dry-run"))
+					}
+					//
+					if configuration.GetBool("debug") {
+						logrus.SetLevel(logrus.DebugLevel)
+					} else {
+						logrus.SetLevel(logrus.InfoLevel)
+					}
+
+					action, err := deleteAction.New(actionLogger, configuration)
+					if err != nil {
+						return err
+					}
+					return action.Start()
+				},
+
+				Flags: []cli.Flag{
+					&cli.StringFlag{
+						Name:  "regulation-type",
+						Usage: "Filter by regulation type",
+						Value: "ccpa",
+					},
+					&cli.StringFlag{
+						Name:  "org-type",
+						Usage: "Filter by organization type",
+					},
+					&cli.StringFlag{
+						Name:  "org-id",
+						Usage: "Filter by organization id",
+					},
+					&cli.BoolFlag{
+						Name:  "dry-run",
+						Usage: "Dry run mode",
+					},
+
+					&cli.BoolFlag{
+						Name:  "debug",
+						Usage: "Enable debug logging",
+					},
+				},
+			},
+			{
+				Name:  "donotsell",
+				Usage: "Request that organizations restrict the collection & sale of your personal information",
+				Action: func(c *cli.Context) error {
+
+					actionLogger := logrus.WithFields(logrus.Fields{
+						"type": "donotsell",
+					})
+
+					configuration.Set("action.regulation-type", c.String("regulation-type"))
+					if c.IsSet("org-type") {
+						configuration.Set("action.org-type", c.String("org-type"))
+					}
+					if c.IsSet("org-id") {
+						configuration.Set("action.org-id", c.String("org-id"))
+					}
+
+					if c.IsSet("dry-run") {
+						configuration.Set("action.dry-run", c.Bool("dry-run"))
+					}
+					//
+					if configuration.GetBool("debug") {
+						logrus.SetLevel(logrus.DebugLevel)
+					} else {
+						logrus.SetLevel(logrus.InfoLevel)
+					}
+
+					action, err := donotsellAction.New(actionLogger, configuration)
 					if err != nil {
 						return err
 					}
