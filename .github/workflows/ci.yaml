@@ -45,6 +45,7 @@ jobs:
         run: |
           go version
           go env
+          go mod vendor
           go build -ldflags "-X main.goos=${GOOS} -X main.goarch=${GOARCH}" -o vanish-${{ matrix.cfg.goos }}-${{ matrix.cfg.goarch }}${{ matrix.cfg.goarm }} -tags "static netgo" ./cmd/vanish/vanish.go
       - name: Archive
         uses: actions/upload-artifact@v2
