@@ -18,6 +18,7 @@ jobs:
 
   build:
     name: Build ${{ matrix.cfg.goos }}/${{ matrix.cfg.goarch }}
+    container: 'golang:latest'
     runs-on: ${{ matrix.cfg.on }}
     env:
       GOOS: ${{ matrix.cfg.goos }}
