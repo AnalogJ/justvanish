@@ -91,8 +91,8 @@ func TestConfiguration_ShouldUnmarshalUserConfig(t *testing.T) {
 	err := testConfig.UnmarshalKey("user", &userConfig)
 
 	//assert
-	require.NoError(t, err, "should return an error")
-	require.Equal(t, nil, userConfig)
+	require.NoError(t, err)
+	require.Equal(t, models.UserConfig{FirstName: "", LastName: "", EmailAddresses: []string(nil), MailAddresses: []string(nil), PhoneNumbers: []string(nil)}, userConfig)
 }
 
 func TestConfiguration_ShouldUnmarshalSmtpConfig(t *testing.T) {
@@ -107,9 +107,9 @@ func TestConfiguration_ShouldUnmarshalSmtpConfig(t *testing.T) {
 
 	//assert
 	require.Equal(t, &models.SmtpConfig{
-		Hostname:"smtp.gmail.com",
-		Port:587,
-		Username:"test@example.com",
-		Password:"my-secure-password",
+		Hostname: "smtp.gmail.com",
+		Port:     587,
+		Username: "test@example.com",
+		Password: "my-secure-password",
 	}, smtpConfig)
 }

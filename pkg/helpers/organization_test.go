@@ -49,7 +49,7 @@ func TestOrganizationConfig_WithValidOrgId(t *testing.T) {
 
 	//assert
 	require.NoError(t, err)
-	require.Equal(t, "Beenverified, Inc", orgConfig.OrganizationName)
+	require.Equal(t, "Beenverified, Inc. And Its Subsidiaries/Affiliates", orgConfig.OrganizationName)
 }
 
 func TestOrganizationConfig_WithValidOrgId_WithYamlSuffix(t *testing.T) {
@@ -61,7 +61,7 @@ func TestOrganizationConfig_WithValidOrgId_WithYamlSuffix(t *testing.T) {
 
 	//assert
 	require.NoError(t, err)
-	require.Equal(t, "Beenverified, Inc", orgConfig.OrganizationName)
+	require.Equal(t, "Beenverified, Inc. And Its Subsidiaries/Affiliates", orgConfig.OrganizationName)
 }
 
 func TestOrganizationConfig_WithInvalidOrgId(t *testing.T) {
