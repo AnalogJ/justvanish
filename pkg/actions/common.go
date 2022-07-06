@@ -1,6 +1,7 @@
 package actions
 
 import (
+	"fmt"
 	"github.com/analogj/justvanish/pkg/config"
 	"github.com/analogj/justvanish/pkg/helpers"
 	"github.com/analogj/justvanish/pkg/models"
@@ -34,16 +35,21 @@ func (a *CommonAction) Start() error {
 	// get smtp Configuration (from config file)
 	if a.Configuration.GetBool("action.dry-run") {
 		//TODO: this should come from user specified CONFIG, for now we're going to create a test account
-		//smtpConfig := a.Configuration.SmtpConfig()
+		fmt.Println("=========================================================================================")
+		fmt.Println("WARNING: JustVanish is running in `dry-run` mode, no emails are actually sent,")
+		fmt.Println("instead they are all captured by https://ethereal.email/")
+		fmt.Println("An `ethereal.credentials.json` file will be created with a username and password you can")
+		fmt.Println("use to login and see that your emails would look like.")
+		fmt.Println("=========================================================================================")
+		fmt.Println("Press the Enter Key to continue")
+		fmt.Scanln()
+
 		smtpConfig, err = helpers.EmailTestSmtpConfig()
 		if err != nil {
 			return err
 		}
 	} else {
-		smtpConfig, err = helpers.EmailTestSmtpConfig()
-		if err != nil {
-			return err
-		}
+		smtpConfig = a.Configuration.SmtpConfig()
 	}
 
 	// find Configuration for each organization

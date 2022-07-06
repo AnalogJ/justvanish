@@ -30,6 +30,7 @@ func (c *configuration) Init() error {
 	c.Viper = viper.New()
 	//set defaults
 
+	c.SetDefault("action.dry-run", true)
 	c.SetDefault("debug", false)
 	c.SetDefault("smtp.hostname", "smtp.gmail.com")
 	c.SetDefault("smtp.port", 587)
