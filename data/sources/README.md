@@ -1,7 +1,7 @@
 # Organizations Sources
 
 | name | type | source | updated date |
-| --- | type |  --- | --- |
+| --- | --- |  --- | --- |
 | California Data Broker Registry | ccpa | https://oag.ca.gov/data-brokers | 06-28-2022 |
 | Privacy Rights Clearinghouse | ccpa | https://privacyrights.org/data-brokers | 06-28-2022 |
 | Virginia Data Broker Registry | ccpa | https://github.com/the-markup/investigation-data-broker-lobbying/blob/fa69b75c48595aa60b9f382ff06c6656237d94ff/data/data_brokers/vt-data-brokers.csv | 06-28-2022 |
