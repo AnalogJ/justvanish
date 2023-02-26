@@ -192,7 +192,6 @@ It's basically just a specialized [mail merge](https://en.wikipedia.org/wiki/Mai
 ### What about paid options?
 - [Association of National Advertisers](https://www.ana.net/content/show?id=thedmaorg-redirect)
 - [Brand Yourself](https://brandyourself.com/)
-- [DeleteMeNow](https://deletemenow.com/)
 - [DeleteMe](https://joindeleteme.com/)
 - [EasyOptOuts](https://easyoptouts.com/)
 - [IDX Privacy](https://www.idx.us/idx-privacy)
@@ -201,9 +200,7 @@ It's basically just a specialized [mail merge](https://en.wikipedia.org/wiki/Mai
 - [Optery](https://www.optery.com)
 - [Privacy Bee](https://privacybee.com)
 - [Privacy Pros](https://privacypros.io/)
-- [Removaly](https://removaly.com/)
 - [Reputation Defender](https://www.reputationdefender.com/)
-- [Reputation.com](Reputation.com)
 - [Spartacus](https://spartacus.com)
 
 # Violations?
